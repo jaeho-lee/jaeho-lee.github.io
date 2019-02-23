@@ -3,7 +3,7 @@ layout: default
 title: Jaeho Lee
 ---
 
-<img src="/assets/profile.jpg">
+<img src="jaeho-lee.github.io/assets/profile.jpg">
 
 # Jaeho Lee
 Postdoctoral researcher @ [ALIN-LAB](alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](kaist.ac.kr).
@@ -12,7 +12,7 @@ Postdoctoral researcher @ [ALIN-LAB](alinlab.kaist.ac.kr), a research group led 
 **span**{ Statistical learning theory, Theory of deep learning, Information theory, High-dimensional statistics}
 
 ## Education
-* Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [:camera:](/assets/max_and_i.jpg)).
+* Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [:camera:](jaeho-lee.github.io/assets/max_and_i.jpg)).
 	* Thesis title: Robustness and generalization guarantees for statistical learning of generative models.
 * M.S. in ECE@UIUC, Dec 2015.
 * B.S. in EE+MS@KAIST with *summa cum laude*, Feb 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
