@@ -3,7 +3,7 @@ layout: default
 title: Jaeho Lee
 ---
 
-<img class="profile-pricture" src="profile.jpg">
+<img class="profile-pricture" src="jaeho-lee.github.io/img/profile.jpg">
 
 # Jaeho Lee
 Postdoctoral researcher @ [ALIN-LAB](alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](kaist.ac.kr).
