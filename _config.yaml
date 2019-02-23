@@ -1,0 +1,9 @@
+title: YAML title
+url: "https://jaeho-lee.github.io"
+
+markdown: kramdown
+plugins: ["jemoji"]
+
+#sass:
+#    style: compressed
+#    sass_dir: _sass
