@@ -8,8 +8,10 @@ title: Jaeho Lee
 # Jaeho Lee
 Postdoctoral researcher @ [ALIN-LAB](alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](kaist.ac.kr).
 
+Contact: jlee620 [at] illinois [dot] edu
+
 ## Research interests
-**span**{ Statistical learning theory, Theory of deep learning, Information theory, High-dimensional statistics}
+**span**{ Statistical learning theory, Theory of deep learning, Information theory, High-dimensional statistics }
 
 ## Education
 * Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [:camera:](assets/max_and_i.jpg)).
