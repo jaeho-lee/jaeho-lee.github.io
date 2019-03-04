@@ -6,7 +6,7 @@ title: Jaeho Lee
 <img src="assets/profile.jpg">
 
 # Jaeho Lee
-Postdoctoral researcher @ [ALIN-LAB](alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](kaist.ac.kr).
+Postdoctoral researcher @ [ALIN-LAB](http://alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](http://kaist.ac.kr).
 
 Contact: jlee620 [at] illinois [dot] edu
 
@@ -38,7 +38,7 @@ Contact: jlee620 [at] illinois [dot] edu
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
 ## Refereeing
-* ICML 2019, AISTATS 2019.
+* {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>.
 
 
 ## Miscellaneous
