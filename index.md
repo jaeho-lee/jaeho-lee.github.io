@@ -20,7 +20,7 @@ Contact: jlee620 [at] illinois [dot] edu
 * B.S. in EE+MS@KAIST with *summa cum laude*, Feb 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
-* J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://arxiv.org/pdf/1812.09658.pdf), under review.
+* J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://arxiv.org/pdf/1812.09658.pdf), to appear in SIAM Journal on Mathematics of Data Science (SIMODS).
 * J.L. and M. Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
 * J.L., M. Raginsky, and P. Moulin ["On MMSE estimation from quantized observations in the nonasymptotic regime,"](https://arxiv.org/pdf/1504.06029.pdf) ISIT 2015.
 
