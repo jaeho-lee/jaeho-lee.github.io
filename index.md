@@ -20,8 +20,8 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * B.S. in EE+MS@KAIST with *summa cum laude*, Feb 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
-* S. Park $^*$, J.L. $^*$, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning"](https://openreview.net/forum?id=ryl3ygHYDB), ICLR 2020 ($^*$: equal contribution).
-* J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://arxiv.org/pdf/1812.09658.pdf), to appear in SIAM Journal on Mathematics of Data Science (SIMODS).
+* S. Park\*, J.L.\*, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning"](https://openreview.net/forum?id=ryl3ygHYDB), ICLR 2020 (\* equal contribution).
+* J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8), SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
 * J.L. and M. Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
 * J.L., M. Raginsky, and P. Moulin ["On MMSE estimation from quantized observations in the nonasymptotic regime,"](https://arxiv.org/pdf/1504.06029.pdf) ISIT 2015.
 
@@ -31,15 +31,16 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
 
 ## Talks
+* "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, Dec 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, Jan 2019.
 
 ## Awards & Honors
-* Travel awards: 2015 ISIT, 2018 NeurIPS, University of Illinois Graduate College Fall 2018.
+* Travel awards: ISIT 2015, NeurIPS 2018, University of Illinois Graduate College Fall 2018.
 * ASAN fellow 2013.
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
 ## Refereeing
-* {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>.
+* {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS}<sub>2020</sub>
 
 
 ## Miscellaneous
@@ -50,4 +51,4 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from Dec 2013 to Aug 2018.
 
 
-(last updated: Feb 23, 2019.)
+(last updated: Jan 8, 2020.)
