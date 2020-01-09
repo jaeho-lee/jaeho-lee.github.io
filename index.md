@@ -30,8 +30,9 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * TA, ECE498 [Introduction to stochastic systems](https://courses.engr.illinois.edu/ece498mr/sp2017/), UIUC, Spring 2017.
 * TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
 
-## Talks
+## Invited Talks
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, Dec 2019.
+* "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, Oct 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, Jan 2019.
 
 ## Awards & Honors
@@ -51,4 +52,4 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from Dec 2013 to Aug 2018.
 
 
-(last updated: Jan 8, 2020.)
+(last updated: Jan 9, 2020.)
