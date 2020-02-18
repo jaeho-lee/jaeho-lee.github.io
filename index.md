@@ -20,6 +20,7 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * B.S. in EE+MS@KAIST with *summa cum laude*, Feb 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
+* J.L., S. Park, S. Mo, S. Ahn, and J. Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning", under review.
 * S. Park\*, J.L.\*, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning"](https://openreview.net/forum?id=ryl3ygHYDB), ICLR 2020 (\* equal contribution).
 * J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8), SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
 * J.L. and M. Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
@@ -31,6 +32,7 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
 
 ## Invited Talks
+* "Minimax Statistical Learning with Wasserstein distances," IFORS, Jun 2020.
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, Dec 2019.
 * "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, Oct 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, Jan 2019.
@@ -52,4 +54,4 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from Dec 2013 to Aug 2018.
 
 
-(last updated: Jan 9, 2020.)
+(last updated: Feb 18, 2020.)
