@@ -20,7 +20,7 @@ Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 * B.S. in EE+MS@KAIST with *summa cum laude*, Feb 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
-* J.L., S. Park, S. Mo, S. Ahn, and J. Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning", under review.
+* J.L., S. Park, S. Mo, S. Ahn, and J. Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning", under review, 2020.
 * S. Park\*, J.L.\*, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning"](https://openreview.net/forum?id=ryl3ygHYDB), ICLR 2020 (\* equal contribution).
 * J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8), SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
 * J.L. and M. Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
