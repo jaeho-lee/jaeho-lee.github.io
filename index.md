@@ -47,8 +47,8 @@ I like to ponder upon the generalization capabilities of modern models, by compa
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
 ## Refereeing
-* {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>.
-* {Machine Learning}.
+* Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>.
+* Journals: {Machine Learning}.
 
 ## Miscellaneous
 * I worked as an [ASAN fellow](https://www.asanacademy.org/kor/main/index.php) at [The Heritage Foundation](https://www.heritage.org), from May to July 2013,
@@ -58,4 +58,4 @@ I like to ponder upon the generalization capabilities of modern models, by compa
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from December 2013 to August 2018.
 
 
-(last updated: June 15, 2020.)
+(last updated: June 16, 2020.)
