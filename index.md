@@ -22,7 +22,7 @@ I like to ponder upon the generalization capabilities of modern models, by compa
 
 ## Publications
 * J.L., S. Park, and J. Shin ["Learning bounds for risk-sensitive learning,"](https://arxiv.org/abs/2006.08138) under review, 2020.
-* S. Park, C. Yun, J. L., and J. Shin ["Minimal width for universal approximation,"](https://arxiv.org/pdf/2006.07589.pdf) under review, 2020.
+* S. Park, C. Yun, J. L., and J. Shin ["Minimal width for universal approximation,"](https://arxiv.org/abs/2006.08859) under review, 2020.
 * J.L., S. Park, S. Mo, S. Ahn, and J. Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning," under review, 2020.
 * S. Park\*, J.L.\*, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning,"](https://openreview.net/forum?id=ryl3ygHYDB) ICLR 2020 (\* equal contribution).
 * J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps,"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8) SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
