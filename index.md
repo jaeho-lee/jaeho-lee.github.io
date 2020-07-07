@@ -21,13 +21,14 @@ I like to ponder upon the generalization capabilities of modern models, by compa
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
-* J.L., S. Park, and J. Shin ["Learning bounds for risk-sensitive learning,"](https://arxiv.org/abs/2006.08138) under review, 2020.
-* S. Park, C. Yun, J. L., and J. Shin ["Minimal width for universal approximation,"](https://arxiv.org/abs/2006.08859) under review, 2020.
-* J.L., S. Park, S. Mo, S. Ahn, and J. Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning," under review, 2020.
-* S. Park\*, J.L.\*, S. Mo, and J. Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning,"](https://openreview.net/forum?id=ryl3ygHYDB) ICLR 2020 (\* equal contribution).
-* J.L. and M. Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps,"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8) SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
-* J.L. and M. Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
-* J.L., M. Raginsky, and P. Moulin ["On MMSE estimation from quantized observations in the nonasymptotic regime,"](https://arxiv.org/pdf/1504.06029.pdf) ISIT 2015.
+* J.L., Sejun Park, and Jinwoo Shin ["Learning bounds for risk-sensitive learning,"](https://arxiv.org/abs/2006.08138) under review, 2020.
+* Sejun Park, Chulhee Yun, J.L., and Jinwoo Shin ["Minimal width for universal approximation,"](https://arxiv.org/abs/2006.08859) under review, 2020.
+* Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, J.L., and Jinwoo Shin ["Learning from failure: Training debiased classifier from biased classifier,"](https://arxiv.org/abs/2007.02561) under review, 2020.
+* J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin, "A deeper look into the layerwise sparsity of magnitude-based pruning," under review, 2020.
+* Sejun Park\*, J.L.\*, Sangwoo Mo, and Jinwoo Shin, ["Lookahead: A far-sighted alternative of magnitude-based pruning,"](https://openreview.net/forum?id=ryl3ygHYDB) ICLR 2020 (\* equal contribution).
+* J.L. and Maxim Raginsky, ["Learning finite-dimensional coding schemes with nonlinear reconstruction maps,"](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8) SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
+* J.L. and Maxim Raginsky, ["Minimax statistical learning with Wasserstein distances,"](https://arxiv.org/pdf/1705.07815.pdf) NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
+* J.L., Maxim Raginsky, and Pierre Moulin ["On MMSE estimation from quantized observations in the nonasymptotic regime,"](https://arxiv.org/pdf/1504.06029.pdf) ISIT 2015.
 
 ## Teaching
 * TA, ECE563 [Information theory](http://maxim.ece.illinois.edu/teaching/fall17/index.html), UIUC, Fall 2017.
@@ -36,7 +37,7 @@ I like to ponder upon the generalization capabilities of modern models, by compa
 
 ## Invited Talks
 * "Lookahead: A far-sighted alternative of magnitue-based pruning," ICLR social: ML researchers in/interested in Korea, May 2020.
-* "Minimax Statistical Learning with Wasserstein distances," IFORS, ~~June 2020~~ (postponed due to COVID-19).
+* "Minimax Statistical Learning with Wasserstein distances," IFORS, ~~June 2020~~ (postponed to 2021, due to COVID-19).
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, December 2019.
 * "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, October 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, January 2019.
