@@ -11,7 +11,7 @@ Postdoctoral researcher @ [ALIN-LAB](http://alinlab.kaist.ac.kr), a research gro
 Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 
 ## Research interests
-I like to ponder upon the generalization capabilities of modern models, by comparing them to simpler ones, or considering alternative risk measures. My researches tend to lie in
+I like to ponder upon how operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) alter the generalization properties of learning algorithms. My researches tend to lie in
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
 
 ## Education
