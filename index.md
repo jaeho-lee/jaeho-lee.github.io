@@ -31,7 +31,7 @@ under review, 2020.
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, J.L., and Jinwoo Shin  
 under review, 2020.
 * A deeper look into the layerwise sparsity of magnitude-based pruning  
-J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin
+J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 under revision, 2020.
 * [Lookahead: A far-sighted alternative of magnitude-based pruning](https://openreview.net/forum?id=ryl3ygHYDB)  
 Sejun Park\*, J.L.\*, Sangwoo Mo, and Jinwoo Shin  
