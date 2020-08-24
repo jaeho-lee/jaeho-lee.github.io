@@ -64,7 +64,7 @@ ISIT 2015.
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
 ## Refereeing
-* Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR}<sub>2021</sub>.
+* Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR,AAAI}<sub>2021</sub>.
 * Journals: {Machine Learning}.
 
 ## Miscellaneous
@@ -75,4 +75,4 @@ ISIT 2015.
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from December 2013 to August 2018.
 
 
-(last updated: June 16, 2020.)
+(last updated: August 24, 2020.)
