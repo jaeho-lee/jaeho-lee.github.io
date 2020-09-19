@@ -26,7 +26,7 @@ J.L., Sejun Park, and Jinwoo Shin
 under review, 2020.
 * [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
 Sejun Park, Chulhee Yun, J.L., and Jinwoo Shin  
-under review, 2020.
+under review, 2020. ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
 * [Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, J.L., and Jinwoo Shin  
 under review, 2020.
