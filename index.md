@@ -21,24 +21,24 @@ I like to ponder upon how operational constraints (e.g., robustness, fairness, r
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
 ## Publications
+* [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
+Sejun Park, Chulhee Yun, J.L., and Jinwoo Shin  
+Preprint, 2020 ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!).
+* A deeper look into the layerwise sparsity of magnitude-based pruning  
+J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
+Preprint, 2020.
 * [Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)  
 J.L., Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.
-* [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
-Sejun Park, Chulhee Yun, J.L., and Jinwoo Shin  
-under review, 2020. ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
 * [Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, J.L., and Jinwoo Shin  
 NeurIPS 2020.
-* A deeper look into the layerwise sparsity of magnitude-based pruning  
-J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
-under revision, 2020.
 * [Lookahead: A far-sighted alternative of magnitude-based pruning](https://openreview.net/forum?id=ryl3ygHYDB)  
-Sejun Park\*, J.L.\*, Sangwoo Mo, and Jinwoo Shin  
-ICLR 2020 (\* equal contribution).
-* [Learning finite-dimensional coding schemes with nonlinear reconstruction maps](https://www.google.com/search?client=safari&rls=en&q=learning+finite-dimensional+coding+schems&ie=UTF-8&oe=UTF-8)  
+{Sejun Park, J.L.}<sub>equal</sub>, Sangwoo Mo, and Jinwoo Shin  
+ICLR 2020.
+* [Learning finite-dimensional coding schemes with nonlinear reconstruction maps](https://epubs.siam.org/doi/abs/10.1137/18M1234461)  
 J.L. and Maxim Raginsky  
-SIAM Journal on Mathematics of Data Science (SIMODS) 2019.
+SIMODS 2019.
 * [Minimax statistical learning with Wasserstein distances](https://arxiv.org/pdf/1705.07815.pdf)  
 J.L. and Maxim Raginsky  
 NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
