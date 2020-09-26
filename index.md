@@ -23,13 +23,13 @@ I like to ponder upon how operational constraints (e.g., robustness, fairness, r
 ## Publications
 * [Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)  
 J.L., Sejun Park, and Jinwoo Shin  
-under review, 2020.
+NeurIPS 2020.
 * [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
 Sejun Park, Chulhee Yun, J.L., and Jinwoo Shin  
 under review, 2020. ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
 * [Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, J.L., and Jinwoo Shin  
-under review, 2020.
+NeurIPS 2020.
 * A deeper look into the layerwise sparsity of magnitude-based pruning  
 J.L., Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 under revision, 2020.
@@ -75,4 +75,4 @@ ISIT 2015.
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from December 2013 to August 2018.
 
 
-(last updated: August 24, 2020.)
+(last updated: September 26, 2020.)
