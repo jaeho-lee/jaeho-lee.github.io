@@ -64,10 +64,11 @@ ISIT 2015.
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
 ## Refereeing
-* Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR, AAAI, AISTATS}<sub>2021</sub>.
+* Conferences: {AISTATS,ICML,NeurIPS}<sub>2019-</sub> AAAI<sub>2020-</sub> ICLR<sub>2021-</sub> (Maybe not anymore: ACML<sub>2019</sub>, IJCAI<sub>2020</sub>).
 * Journals: {Machine Learning}.
 
 ## Miscellaneous
+* I recently joined [MD4SG](http://md4sg.com/) working group; find me at the Asia-Oceania working group!
 * I worked as an [ASAN fellow](https://www.asanacademy.org/kor/main/index.php) at [The Heritage Foundation](https://www.heritage.org), from May to July 2013,
 	* where I worked with [James Sherk](https://www.heritage.org/staff/james-sherk) and [Salim Furth](https://www.heritage.org/staff/salim-furth),
 	* wrote [this article](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/) on Greek austerity policies,
