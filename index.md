@@ -15,8 +15,8 @@ I like to ponder upon how operational constraints (e.g., robustness, fairness, r
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
 
 ### education
-* Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [<sub>photo</sub>](assets/max_and_i.jpg)).
-	* Thesis title: Robustness and generalization guarantees for statistical learning of generative models.
+* Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu)).
+	* Thesis title: Robustness and generalization guarantees for statistical learning of generative models ([photo](assets/max_and_i.jpg)).
 * M.S. in ECE@UIUC, December 2015.
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
