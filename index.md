@@ -6,19 +6,20 @@ title: Jaeho Lee
 <img src="assets/profile.jpg">
 
 ## Jaeho Lee
-I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).
+I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html). Prior to this, I completed by Ph.D. under the guidance of [Maxim Raginsky](http://maxim.ece.illinois.edu), in the middle of the lovely cornfields of [Urbana-Champaign](https://illinois.edu).
 
 I like to ponder upon how operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) alter the generalization properties of learning algorithms. My researches tend to lie in
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
 
 Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 
+<!---
 ### education
 * Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [[photo]](assets/max_and_i.jpg)).
 	* Thesis title: Robustness and generalization guarantees for statistical learning of generative models.
 * M.S. in ECE@UIUC, December 2015.
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
-
+-->
 ### publications
 * [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
