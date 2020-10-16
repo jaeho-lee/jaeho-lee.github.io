@@ -12,6 +12,7 @@ My research focuses on analyzing the impact of operational constraints on the ge
 
 For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [dot] ac [dot] kr. I may respond even faster via Twitter: [@jaeho_lee_](https://twitter.com/jaeho_lee_)
   
+  
 
 <!---
 ### education
@@ -54,11 +55,13 @@ NeurIPS 2018 [[video]](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
 **JL**, Maxim Raginsky, and Pierre Moulin  
 ISIT 2015.
   
+  
 
 ### teaching
 * TA, ECE563 [Information theory](http://maxim.ece.illinois.edu/teaching/fall17/index.html), UIUC, Fall 2017.
 * TA, ECE498 [Introduction to stochastic systems](https://courses.engr.illinois.edu/ece498mr/sp2017/), UIUC, Spring 2017.
 * TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
+  
   
 
 ### invited talks
@@ -68,6 +71,7 @@ ISIT 2015.
 * "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, October 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, January 2019.
   
+  
 
 ### awards & honors
 * Travel awards: ISIT 2015, NeurIPS 2018, University of Illinois Graduate College Fall 2018.
@@ -75,10 +79,12 @@ ISIT 2015.
 * Summa Cum Laude, KAIST, 2013.
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
   
+  
 
 ### refereeing
 * Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR, AAAI, AISTATS}<sub>2021</sub>.
 * Journals: {Machine Learning}.
+  
   
 
 ### miscellaneous
@@ -88,6 +94,7 @@ ISIT 2015.
 	* wrote [this article](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/) on Greek austerity policies,
 	* and assisted a preparation of [this testimony](https://www.budget.senate.gov/imo/media/doc/FURTH%20Testimony%2006-04-13.pdf) before the committee on the budget of U.S. Senate.
 * I was a founder-librarian at **Urbana nanolibrary** (now defunct), where I lent 300+ books to 40+ members, from December 2013 to August 2018.
+  
   
 
 (last updated: October 16, 2020.)
