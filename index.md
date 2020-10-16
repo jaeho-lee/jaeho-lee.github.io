@@ -6,13 +6,12 @@ title: Jaeho Lee
 <img src="assets/profile.jpg">
 
 ## Jaeho Lee
-Postdoctoral researcher @ [ALIN-LAB](http://alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](http://kaist.ac.kr).
+I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).
 
-Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
-
-### research interests
 I like to ponder upon how operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) alter the generalization properties of learning algorithms. My researches tend to lie in
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
+
+Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 
 ### education
 * Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [[photo]](assets/max_and_i.jpg)).
