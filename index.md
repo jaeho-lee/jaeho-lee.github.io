@@ -6,11 +6,11 @@ title: Jaeho Lee
 <img src="assets/profile.jpg">
 
 ## Jaeho Lee
-I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html). Before joining here, I completed my Ph.D. under the guidance of [Maxim Raginsky](http://maxim.ece.illinois.edu), in the middle of the lovely cornfields of [Urbana-Champaign](https://illinois.edu). Even prior to this, I was an undergraduate student at KAIST, double-majoring the electrical engineering and management science.
+I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html). Before joining here, I completed my Ph.D. under the guidance of [Maxim Raginsky](http://maxim.ece.illinois.edu), in the middle of the lovely cornfields of [Urbana-Champaign](https://illinois.edu). Even prior to this, I was an undergraduate student at KAIST, double-majoring the electrical engineering and the management science.
 
-I like to ponder upon the impact of operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) on the generalization and approximation properties of learning algorithms. I enjoy using the tools from the statistical learning theory (all hail Vapnik!), high-dimensional statistics, and computational libraries for machine learning.
+My research focuses on analyzing the impact of operational constraints on the generalization/approximation capabilities of learning algorithms; the constraints may be about robustness, fairness, risk-sensitivity, or sparsity. As a research tool, I like to use the machineries from the statistical learning theory (all hail Vapnik!), high-dimensional statistics, and computational libraries for machine learning.
 
-Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
+For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [dot] ac [dot] kr. Sometimes I respond faster via Twitter: [@jaeho_lee_](https://twitter.com/jaeho_lee_)
 
 <!---
 ### education
