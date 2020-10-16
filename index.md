@@ -11,6 +11,7 @@ I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist
 My research focuses on analyzing the impact of operational constraints on the generalization/approximation capabilities of learning algorithms; the constraints may be about robustness, fairness, risk-sensitivity, or sparsity. As a research tool, I like to use the machineries from the statistical learning theory (all hail Vapnik!), high-dimensional statistics, and computational libraries for machine learning.
 
 For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [dot] ac [dot] kr. I may respond even faster via Twitter: [@jaeho_lee_](https://twitter.com/jaeho_lee_)
+  
 
 <!---
 ### education
@@ -52,7 +53,7 @@ NeurIPS 2018 [[video]](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
 **[On MMSE estimation from quantized observations in the nonasymptotic regime](https://arxiv.org/pdf/1504.06029.pdf)**  
 **JL**, Maxim Raginsky, and Pierre Moulin  
 ISIT 2015.
-
+  
 
 ### teaching
 * TA, ECE563 [Information theory](http://maxim.ece.illinois.edu/teaching/fall17/index.html), UIUC, Fall 2017.
