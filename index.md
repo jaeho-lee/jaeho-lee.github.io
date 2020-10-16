@@ -49,7 +49,8 @@ SIMODS 2019.
 
 **[Minimax statistical learning with Wasserstein distances](https://arxiv.org/pdf/1705.07815.pdf)**  
 **JL** and Maxim Raginsky  
-NeurIPS 2018 [[video]](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
+NeurIPS 2018.  
+[[video]](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38)
 
 **[On MMSE estimation from quantized observations in the nonasymptotic regime](https://arxiv.org/pdf/1504.06029.pdf)**  
 **JL**, Maxim Raginsky, and Pierre Moulin  
