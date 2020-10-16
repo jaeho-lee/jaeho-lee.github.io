@@ -25,31 +25,31 @@ Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin
 Preprint, 2020.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
 
-[A deeper look at the layerwise sparsity of magnitude-based pruning](https://arxiv.org/abs/2010.07611)  
+**[A deeper look at the layerwise sparsity of magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 Preprint, 2020.
 
-[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)  
+**[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.
 
-[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)  
+**[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)**  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, **JL**, and Jinwoo Shin  
 NeurIPS 2020.
 
-[Lookahead: A far-sighted alternative of magnitude-based pruning](https://openreview.net/forum?id=ryl3ygHYDB)  
+**[Lookahead: A far-sighted alternative of magnitude-based pruning](https://openreview.net/forum?id=ryl3ygHYDB)**  
 {Sejun Park, **JL**}<sub>equal</sub>, Sangwoo Mo, and Jinwoo Shin  
 ICLR 2020.
 
-[Learning finite-dimensional coding schemes with nonlinear reconstruction maps](https://epubs.siam.org/doi/abs/10.1137/18M1234461)  
+**[Learning finite-dimensional coding schemes with nonlinear reconstruction maps](https://epubs.siam.org/doi/abs/10.1137/18M1234461)**  
 **JL** and Maxim Raginsky  
 SIMODS 2019.
 
-[Minimax statistical learning with Wasserstein distances](https://arxiv.org/pdf/1705.07815.pdf)  
+**[Minimax statistical learning with Wasserstein distances](https://arxiv.org/pdf/1705.07815.pdf)**  
 **JL** and Maxim Raginsky  
 NeurIPS 2018 [[video]](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38).
 
-[On MMSE estimation from quantized observations in the nonasymptotic regime](https://arxiv.org/pdf/1504.06029.pdf)  
+**[On MMSE estimation from quantized observations in the nonasymptotic regime](https://arxiv.org/pdf/1504.06029.pdf)**  
 **JL**, Maxim Raginsky, and Pierre Moulin  
 ISIT 2015.
 
