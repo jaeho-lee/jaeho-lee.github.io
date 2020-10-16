@@ -20,7 +20,7 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 -->
 ### publications & preprints
-**[Minimal width for universal approximation]**(https://arxiv.org/abs/2006.08859)  
+**[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
 Preprint, 2020.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
