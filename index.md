@@ -5,22 +5,22 @@ title: Jaeho Lee
 
 <img src="assets/profile.jpg">
 
-# Jaeho Lee
+## Jaeho Lee
 Postdoctoral researcher @ [ALIN-LAB](http://alinlab.kaist.ac.kr), a research group led by Prof. [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html) at [KAIST](http://kaist.ac.kr).
 
 Contact: jaeho-lee [at] kaist [dot] ac [dot] kr
 
-## Research interests
+### Research interests
 I like to ponder upon how operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) alter the generalization properties of learning algorithms. My researches tend to lie in
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
 
-## Education
+### Education
 * Ph.D. in ECE@UIUC, May 2019 (advisor: [Maxim Raginsky](http://maxim.ece.illinois.edu) [:camera:](assets/max_and_i.jpg)).
 	* Thesis title: Robustness and generalization guarantees for statistical learning of generative models.
 * M.S. in ECE@UIUC, December 2015.
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 
-## Publications
+### Publications
 * [Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
 Preprint, 2020 ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!).
@@ -46,28 +46,28 @@ NeurIPS 2018 [:movie_camera:](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem
 **JL**, Maxim Raginsky, and Pierre Moulin  
 ISIT 2015.
 
-## Teaching
+### Teaching
 * TA, ECE563 [Information theory](http://maxim.ece.illinois.edu/teaching/fall17/index.html), UIUC, Fall 2017.
 * TA, ECE498 [Introduction to stochastic systems](https://courses.engr.illinois.edu/ece498mr/sp2017/), UIUC, Spring 2017.
 * TA, ECE598 [Statistical learning theory](http://maxim.ece.illinois.edu/teaching/fall15b/index.html), UIUC, Fall 2015.
 
-## Invited Talks
+### Invited Talks
 * "Lookahead: A far-sighted alternative of magnitue-based pruning," ICLR social: ML researchers in/interested in Korea, May 2020.
 * "Minimax Statistical Learning with Wasserstein distances," IFORS, ~~June 2020~~ (postponed to 2021, due to COVID-19).
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, December 2019.
 * "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, October 2019.
 * "Minimax Learning: with implications on domain adaptation and adversarial attack," Naver Tech Talk, January 2019.
 
-## Awards & Honors
+### Awards & Honors
 * Travel awards: ISIT 2015, NeurIPS 2018, University of Illinois Graduate College Fall 2018.
 * ASAN fellow 2013.
 * National Science and Engineering Undergraduate Scholarship, Korea, 2009–2012.
 
-## Refereeing
+### Refereeing
 * Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR, AAAI, AISTATS}<sub>2021</sub>.
 * Journals: {Machine Learning}.
 
-## Miscellaneous
+### Miscellaneous
 * I recently joined [MD4SG](http://md4sg.com/) working group; find me at the Asia-Oceania working group!
 * I worked as an [ASAN fellow](https://www.asanacademy.org/kor/main/index.php) at [The Heritage Foundation](https://www.heritage.org), from May to July 2013,
 	* where I worked with [James Sherk](https://www.heritage.org/staff/james-sherk) and [Salim Furth](https://www.heritage.org/staff/salim-furth),
