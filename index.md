@@ -6,7 +6,9 @@ title: Jaeho Lee
 <img src="assets/profile.jpg">
 
 ## Jaeho Lee
-I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html). Prior to this, I completed by Ph.D. under the guidance of [Maxim Raginsky](http://maxim.ece.illinois.edu), in the middle of the lovely cornfields of [Urbana-Champaign](https://illinois.edu).
+I am a postdoc at the [algorithmic intelligence laboratory](http://alinlab.kaist.ac.kr) at KAIST, working with [Jinwoo Shin](http://alinlab.kaist.ac.kr/shin.html).  
+Prior to this, I completed by Ph.D. under the guidance of [Maxim Raginsky](http://maxim.ece.illinois.edu), in the middle of the lovely cornfields of [Urbana-Champaign](https://illinois.edu).  
+Even prior to this, I studied electrical engineering and management science at KAIST.
 
 I like to ponder upon how operational constraints (e.g., robustness, fairness, risk-sensitivity, sparsity) alter the generalization properties of learning algorithms. My researches tend to lie in
 **span**{ Statistical learning theory, Theory of deep learning, Neural network pruning, High-dimensional statistics }.
