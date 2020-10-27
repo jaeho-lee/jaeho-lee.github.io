@@ -22,7 +22,7 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 -->
 ### publications & preprints
-**Provable Memorization via Deep Neural Networks using Sub-linear Parameters**  
+**[Provable Memorization via Deep Neural Networks using Sub-linear Parameters](https://arxiv.org/abs/2010.13363)**  
 Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
 Preprint, 2020.  
 
