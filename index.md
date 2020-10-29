@@ -35,7 +35,7 @@ Preprint, 2020.
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 Preprint, 2020.
 
-**[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)** \[[code](https://github.com/jaeho-lee/oce), [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning)\]
+**[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)** \[[code](https://github.com/jaeho-lee/oce), [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning)\]  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.
 
