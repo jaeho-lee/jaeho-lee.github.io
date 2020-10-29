@@ -37,7 +37,7 @@ Preprint, 2020.
 
 **[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
 **JL**, Sejun Park, and Jinwoo Shin  
-NeurIPS 2020.
+NeurIPS 2020.  
 \[[code](https://github.com/jaeho-lee/oce), [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning)\]
 
 **[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)**  
