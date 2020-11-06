@@ -22,23 +22,28 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 -->
 ### publications & preprints
-**[Provable Memorization via Deep Neural Networks using Sub-linear Parameters](https://arxiv.org/abs/2010.13363)**  
-Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
-Preprint, 2020.  
-
-**[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
-Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
-Preprint, 2020.  
-([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min presentation at [Deepmath 2020](https://deepmath-conference.com)!)
-
 **[A deeper look at the layerwise sparsity of magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 Preprint, 2020.
 
+**[Provable Memorization via Deep Neural Networks using Sub-linear Parameters](https://arxiv.org/abs/2010.13363)**  
+Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
+Preprint, 2020.  
+([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min talk at [Deepmath 2020](https://deepmath-conference.com)!)  
+
+**[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
+Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
+Preprint, 2020.  
+([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min talk at [Deepmath 2020](https://deepmath-conference.com)!)  
+
+**MASKER: Masked Keyword Regularization for Reliable Text Classification**  
+Seung Jun Moon, Sangwoo Mo, Kimin Lee, **JL**, and Jinwoo Shin  
+Under review, 2020.  
+
 **[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
-\[[code](https://github.com/jaeho-lee/oce), [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning)\]
+\[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.jpg)\]
 
 **[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)**  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, **JL**, and Jinwoo Shin  
