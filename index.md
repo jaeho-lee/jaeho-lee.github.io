@@ -21,7 +21,7 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 * M.S. in ECE@UIUC, December 2015.
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 -->
-### publications & preprints
+### papers
 **[A deeper look at the layerwise sparsity of magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 Preprint, 2020.
@@ -43,7 +43,7 @@ Under review, 2020.
 **[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
-\[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.jpg)\]
+\[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.pdf)\]
 
 **[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)**  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, **JL**, and Jinwoo Shin  
