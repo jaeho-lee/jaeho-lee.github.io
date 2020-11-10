@@ -99,7 +99,7 @@ ISIT 2015.
 <br/><br/>
 
 ### miscellaneous
-* I recently joined [MD4SG](http://md4sg.com/) working group; find me at the Asia-Oceania working group!
+* I recently started catching up the MD4SG literature; find me at the [MD4SG Asia-Pacific working group](http://md4sg.com/workinggroups/asiapacific.html)!
 * I worked as an [ASAN fellow](https://www.asanacademy.org/kor/main/index.php) at [The Heritage Foundation](https://www.heritage.org), from May to July 2013,
 	* where I worked with [James Sherk](https://www.heritage.org/staff/james-sherk) and [Salim Furth](https://www.heritage.org/staff/salim-furth),
 	* wrote [this article](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/) on Greek austerity policies,
