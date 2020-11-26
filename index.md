@@ -12,6 +12,8 @@ My research focuses on analyzing the impact of operational constraints on the ge
 
 For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [dot] ac [dot] kr. I may respond even faster via Twitter: [@jaeho_lee_](https://twitter.com/jaeho_lee_)
 
+(I don't update Google scholar too often, but here's a [link](https://scholar.google.com/citations?hl=en&user=t91zoQMAAAAJ&view_op=list_works&sortby=pubdate).)
+
 <br/><br/>
 
 <!---
@@ -76,6 +78,7 @@ ISIT 2015.
 <br/><br/>
 
 ### invited talks
+* "A deeper look at the layerwise sparsity of magnitude-based pruning," Sparsity reading group @ Google (informal), Nov 2020.
 * "Lookahead: A far-sighted alternative of magnitue-based pruning," ICLR social: ML researchers in/interested in Korea, May 2020.
 * "Minimax Statistical Learning with Wasserstein distances," IFORS, ~~June 2020~~ (postponed to 2021, due to COVID-19).
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, December 2019.
