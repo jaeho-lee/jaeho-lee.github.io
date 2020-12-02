@@ -40,7 +40,7 @@ Preprint, 2020.
 
 **MASKER: Masked Keyword Regularization for Reliable Text Classification**  
 Seung Jun Moon, Sangwoo Mo, Kimin Lee, **JL**, and Jinwoo Shin  
-Under review, 2020.  
+AAAI, 2021.  
 
 **[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
 **JL**, Sejun Park, and Jinwoo Shin  
