@@ -39,7 +39,7 @@ Preprint, 2020.
 ([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min talk at [Deepmath 2020](https://deepmath-conference.com)!)  
 
 **MASKER: Masked Keyword Regularization for Reliable Text Classification**  
-Seung Jun Moon, Sangwoo Mo, Kimin Lee, **JL**, and Jinwoo Shin  
+{Seung Jun Moon, Sangwoo Mo}<sub>equal</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
 AAAI, 2021.  
 
 **[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
@@ -111,4 +111,4 @@ ISIT 2015.
 
 <br/><br/>
 
-(last updated: October 16, 2020.)
+(last updated: December 2, 2020.)
