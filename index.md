@@ -44,7 +44,7 @@ Preprint, 2020.
 {Seung Jun Moon, Sangwoo Mo}<sub>equal</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
 AAAI, 2021.  
 
-**[Learning bounds for risk-sensitive learning](https://arxiv.org/abs/2006.08138)**  
+**[Learning bounds for risk-sensitive learning](https://proceedings.neurips.cc/paper/2020/file/9f60ab2b55468f104055b16df8f69e81-Paper.pdf)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
 \[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.pdf)\]
