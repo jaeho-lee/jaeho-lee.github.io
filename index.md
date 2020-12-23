@@ -80,8 +80,9 @@ ISIT 2015.
 <br/><br/>
 
 ### invited talks
+* "Learning bounds for risk-sensitive learning," Spotlight @ NeurIPS social: ML in Korea, Dec 2020.
 * "A deeper look at the layerwise sparsity of magnitude-based pruning," Sparsity reading group @ Google (informal), Nov 2020.
-* "Lookahead: A far-sighted alternative of magnitue-based pruning," ICLR social: ML researchers in/interested in Korea, May 2020.
+* "Lookahead: A far-sighted alternative of magnitue-based pruning," Spotlight @ ICLR social: ML researchers in/interested in Korea, May 2020.
 * "Minimax Statistical Learning with Wasserstein distances," IFORS, ~~June 2020~~ (postponed to 2021, due to COVID-19).
 * "Statistical learning perspectives on neural nets (and pruning them)," Postech CS Seminar, December 2019.
 * "Minimax Statistical Learning with Wasserstein distances," INFORMS annual meeting, October 2019.
