@@ -26,19 +26,19 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 * B.S. in EE+MS@KAIST with *summa cum laude*, February 2013 (advisor: [Yung Yi](http://lanada.kaist.ac.kr/~yi/))
 -->
 ### papers
-**[A deeper look at the layerwise sparsity of magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
-**JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
-Preprint, 2020.
-
-**[Provable Memorization via Deep Neural Networks using Sub-linear Parameters](https://arxiv.org/abs/2010.13363)**  
+**[Provable memorization via deep neural networks using sub-linear parameters](https://arxiv.org/abs/2010.13363)**  
 Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
 Preprint, 2020.  
-([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min talk at [Deepmath 2020](https://deepmath-conference.com)!)  
+([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
+
+**[Layer-adaptive sparsity for the magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
+**JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
+ICLR 2021.
 
 **[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
-Preprint, 2020.  
-([Sejun](https://sites.google.com/site/sejunparksite/) will give a 20-min talk at [Deepmath 2020](https://deepmath-conference.com)!)  
+ICLR 2021.  
+([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
 
 **[MASKER: Masked Keyword Regularization for Reliable Text Classification](https://arxiv.org/abs/2012.09392)**  
 {Seung Jun Moon, Sangwoo Mo}<sub>equal</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
