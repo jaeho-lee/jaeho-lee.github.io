@@ -27,13 +27,11 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 -->
 ## papers
 
-### working papers & preprints
 **[Provable memorization via deep neural networks using sub-linear parameters](https://arxiv.org/abs/2010.13363)**  
 Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
 Preprint, 2020.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
 
-### 2021
 **[Layer-adaptive sparsity for the magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 ICLR 2021.
@@ -41,13 +39,12 @@ ICLR 2021.
 **[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
 ICLR 2021.  
-([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
+([Sejun](https://sites.google.com/site/sejunparksite/) gave a talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
 
 **[MASKER: Masked Keyword Regularization for Reliable Text Classification](https://arxiv.org/abs/2012.09392)**  
 {Seung Jun Moon, Sangwoo Mo}<sub>equal</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
 AAAI, 2021.  
 
-### 2020
 **[Learning bounds for risk-sensitive learning](https://proceedings.neurips.cc/paper/2020/file/9f60ab2b55468f104055b16df8f69e81-Paper.pdf)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
@@ -61,7 +58,6 @@ NeurIPS 2020.
 {Sejun Park, **JL**}<sub>equal</sub>, Sangwoo Mo, and Jinwoo Shin  
 ICLR 2020.
 
-### pre-2020
 **[Learning finite-dimensional coding schemes with nonlinear reconstruction maps](https://epubs.siam.org/doi/abs/10.1137/18M1234461)**  
 **JL** and Maxim Raginsky  
 SIMODS 2019.
