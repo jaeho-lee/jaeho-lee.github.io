@@ -101,7 +101,7 @@ ISIT 2015.
 
 ## refereeing
 * Conferences: {ACML, NeurIPS, ICML, AISTATS}<sub>2019</sub>, {AAAI, ICML, AISTATS, IJCAI, NeurIPS}<sub>2020</sub>, {ICLR, AAAI, AISTATS, ICML}<sub>2021</sub>.
-* Journals: {Machine Learning}.
+* Journals: {Machine Learning, IEEE ToN}.
 
 <br/><br/>
 
