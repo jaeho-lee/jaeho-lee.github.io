@@ -27,6 +27,10 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 -->
 ## papers
 
+**Co$^2$L: Contrastive continual learning**  
+Hyuntak Cha, **JL**, and Jinwoo Shin  
+Preprint, 2021.  
+
 **[Provable memorization via deep neural networks using sub-linear parameters](https://arxiv.org/abs/2010.13363)**  
 Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
 Preprint, 2020.  
