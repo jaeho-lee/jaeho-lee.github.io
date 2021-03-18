@@ -27,7 +27,7 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 -->
 ## papers
 
-**Co$^2$L: Contrastive continual learning**  
+**Co<sup>2</sup>L: Contrastive continual learning**  
 Hyuntak Cha, **JL**, and Jinwoo Shin  
 Preprint, 2021.  
 
