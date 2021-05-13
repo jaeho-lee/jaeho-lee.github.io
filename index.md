@@ -36,11 +36,11 @@ Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin
 Preprint, 2020.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
 
-**[Layer-adaptive sparsity for the magnitude-based pruning](https://arxiv.org/abs/2010.07611)**  
+**[Layer-adaptive sparsity for the magnitude-based pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 ICLR 2021.
 
-**[Minimal width for universal approximation](https://arxiv.org/abs/2006.08859)**  
+**[Minimum width for universal approximation](https://openreview.net/forum?id=O-XJwyoIF-k)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
 ICLR 2021.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) gave a talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
@@ -49,12 +49,12 @@ ICLR 2021.
 {Seung Jun Moon, Sangwoo Mo}<sub>equal</sub>, Kimin Lee, **JL**, and Jinwoo Shin  
 AAAI, 2021.  
 
-**[Learning bounds for risk-sensitive learning](https://proceedings.neurips.cc/paper/2020/file/9f60ab2b55468f104055b16df8f69e81-Paper.pdf)**  
+**[Learning bounds for risk-sensitive learning](https://proceedings.neurips.cc/paper/2020/hash/9f60ab2b55468f104055b16df8f69e81-Abstract.html)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
 \[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.pdf)\]
 
-**[Learning from failure: Training debiased classifier from biased classifier](https://arxiv.org/abs/2007.02561)**  
+**[Learning from failure: Training debiased classifier from biased classifier](https://proceedings.neurips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html)**  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, **JL**, and Jinwoo Shin  
 NeurIPS 2020.
 
@@ -66,12 +66,12 @@ ICLR 2020.
 **JL** and Maxim Raginsky  
 SIMODS 2019.
 
-**[Minimax statistical learning with Wasserstein distances](https://arxiv.org/pdf/1705.07815.pdf)**  
+**[Minimax statistical learning with Wasserstein distances](https://proceedings.neurips.cc/paper/2018/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html)**  
 **JL** and Maxim Raginsky  
 NeurIPS 2018.  
 \[[spotlight talk](https://www.videoken.com/embed/h-nWXfuEpF4?tocitem=38)\]
 
-**[On MMSE estimation from quantized observations in the nonasymptotic regime](https://arxiv.org/pdf/1504.06029.pdf)**  
+**[On MMSE estimation from quantized observations in the nonasymptotic regime](https://ieeexplore.ieee.org/document/7282992)**  
 **JL**, Maxim Raginsky, and Pierre Moulin  
 ISIT 2015.
 
