@@ -39,7 +39,7 @@ COLT 2020.
 **[Layer-adaptive sparsity for the magnitude-based pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 ICLR 2021.  
-\[[code](https://github.com/jaeho-lee/layer-adaptive-sparsity) | [slide](https://docs.google.com/presentation/d/1SumPYR7BolIYdHZZV9AsqW8b1F2K0T7LNpxxABUmmRM/edit?usp=sharing) | [poster](assets/lamp_poster.pdf)\]
+\[[code](https://github.com/jaeho-lee/layer-adaptive-sparsity) | [slide](https://docs.google.com/presentation/d/1SumPYR7BolIYdHZZV9AsqW8b1F2K0T7LNpxxABUmmRM/edit?usp=sharing) | [poster](assets/lamp_poster.pdf) | [thumbnail](assets/lamp_thumbnail.png)\]
 
 **[Minimum width for universal approximation](https://openreview.net/forum?id=O-XJwyoIF-k)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
@@ -51,11 +51,10 @@ ICLR 2021.
 AAAI, 2021.  
 \[[code](https://github.com/alinlab/MASKER) | [slide](https://www.slideshare.net/ALINLAB/masker-masked-keyword-regularization-for-reliable-text-classification-aaai-2021)\]
 
-
 **[Learning bounds for risk-sensitive learning](https://proceedings.neurips.cc/paper/2020/hash/9f60ab2b55468f104055b16df8f69e81-Abstract.html)**  
 **JL**, Sejun Park, and Jinwoo Shin  
 NeurIPS 2020.  
-\[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.pdf)\]
+\[[code](https://github.com/jaeho-lee/oce) | [slide](https://www.slideshare.net/ALINLAB/learning-bounds-for-risksensitive-learning) | [poster](assets/oce_poster.pdf) | [thumbnail](assets/oce_thumbnail.png)\]
 
 **[Learning from failure: Training debiased classifier from biased classifier](https://proceedings.neurips.cc/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html)**  
 Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, **JL**, and Jinwoo Shin  
