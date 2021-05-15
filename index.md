@@ -33,7 +33,7 @@ Preprint, 2021.
 
 **[Provable memorization via deep neural networks using sub-linear parameters](https://arxiv.org/abs/2010.13363)**  
 Sejun Park, **JL**, Chulhee Yun, and Jinwoo Shin  
-Preprint, 2020.  
+COLT 2020.  
 ([Sejun](https://sites.google.com/site/sejunparksite/) gave a 20-min talk at [Deepmath 2020](https://deepmath-conference.com): here's a [video](https://www.youtube.com/watch?v=NHCfKFz3IeU))  
 
 **[Layer-adaptive sparsity for the magnitude-based pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)**  
