@@ -27,6 +27,11 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 -->
 ## papers
 
+**Meta-Learning Sparse Implicit Neural Representations**  
+**JL**, Jihoon Tack, Namhoon Lee, and Jinwoo Shin  
+Preprint, 2021.  
+
+
 **Co<sup>2</sup>L: Contrastive continual learning**  
 Hyuntak Cha, **JL**, and Jinwoo Shin  
 Preprint, 2021.  
@@ -39,7 +44,7 @@ COLT 2021.
 **[Layer-adaptive sparsity for the magnitude-based pruning](https://openreview.net/forum?id=H6ATjJ0TKdf)**  
 **JL**, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin  
 ICLR 2021.  
-\[[code](https://github.com/jaeho-lee/layer-adaptive-sparsity) | [slide](https://docs.google.com/presentation/d/1SumPYR7BolIYdHZZV9AsqW8b1F2K0T7LNpxxABUmmRM/edit?usp=sharing) | [poster](assets/lamp_poster.pdf) | [thumbnail](assets/lamp_thumbnail.png)\]
+\[[code](https://github.com/jaeho-lee/layer-adaptive-sparsity) | [slide](https://docs.google.com/presentation/d/1SumPYR7BolIYdHZZV9AsqW8b1F2K0T7LNpxxABUmmRM/edit?usp=sharing) | [poster](assets/LAMP_poster.pdf) | [thumbnail](assets/lamp_thumbnail.png)\]
 
 **[Minimum width for universal approximation](https://openreview.net/forum?id=O-XJwyoIF-k)**  
 Sejun Park, Chulhee Yun, **JL**, and Jinwoo Shin  
@@ -89,6 +94,7 @@ ISIT 2015.
 <br/><br/>
 
 ## invited talks
+* "Approximation power of neural networks: old and new," UNIST GSAI, May 2021.
 * "Learning bounds for risk-sensitive learning," Spotlight @ NeurIPS social: ML in Korea, Dec 2020.
 * "A deeper look at the layerwise sparsity of magnitude-based pruning," Sparsity reading group @ Google (informal), Nov 2020.
 * "Lookahead: A far-sighted alternative of magnitue-based pruning," Spotlight @ ICLR social: ML researchers in/interested in Korea, May 2020.
