@@ -30,7 +30,12 @@ For any inquiries (or CV), please contact me via email: jaeho-lee [at] kaist [do
 **Meta-Learning Sparse Implicit Neural Representations**  
 **JL**, Jihoon Tack, Namhoon Lee, and Jinwoo Shin  
 Preprint, 2021.  
+Prelimnary version at [Sparsity in neural networks: Advancing understanding and practice](https://sites.google.com/view/sparsity-workshop-2021/) workshop.  
 
+**GreedyPrune: Layer-wise optimization algorithms for magnitude-based pruning**  
+Vinoth Nandakumar and **JL**  
+Preprint, 2021.  
+Prelimnary version at [Sparsity in neural networks: Advancing understanding and practice](https://sites.google.com/view/sparsity-workshop-2021/) workshop.  
 
 **Co<sup>2</sup>L: Contrastive continual learning**  
 Hyuntak Cha, **JL**, and Jinwoo Shin  
