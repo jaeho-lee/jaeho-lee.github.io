@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jaeho Lee</title>
-    <link>http://jaeho-lee.github.io/</link>
-    <description>Recent content on Jaeho Lee</description>
+    <title>Docs on Jaeho Lee</title>
+    <link>http://jaeho-lee.github.io/docs/</link>
+    <description>Recent content in Docs on Jaeho Lee</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jaeho-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alumni</title>
       <link>http://jaeho-lee.github.io/docs/alumni/</link>
