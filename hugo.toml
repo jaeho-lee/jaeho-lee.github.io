@@ -1,0 +1,4 @@
+baseURL = 'http://jaeho-lee.github.io/'
+languageCode = 'en-us'
+title = 'Jaeho Lee'
+theme = 'hugo-book'
