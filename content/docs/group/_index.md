@@ -5,13 +5,13 @@ bookToc: false
 ---
 
 ### **Graduate Students**
-[**Jiwoon Lee**](mailto:jwlee9702@postech.ac.kr) (2022.03--)   
+[**Jiwoon Lee**](mailto:jwlee9702@postech.ac.kr) (2022.02--)   
 _Efficient ML in the Wild_
 
-[**Junwon Seo**](mailto:junwon.seo@postech.ac.kr) (2022.03--)  
+[**Junwon Seo**](mailto:junwon.seo@postech.ac.kr) (2022.02--)  
 _Accelerating Neural Field Generation_
 
-[**Seungwoo Son**](mailto:swson@postech.ac.kr) (2022.03--, Currently @ Google)  
+[**Seungwoo Son**](mailto:swson@postech.ac.kr) (2022.02--, @ Google)  
 _Large-Scale Model Compression_
 
 [**Hagyeong Lee**](mailto:hagyeonglee@postech.ac.kr) (2022.09--)  
