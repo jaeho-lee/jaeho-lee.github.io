@@ -1,6 +1,7 @@
 ---
 title: "Teaching"
 weight: 1
+bookToc: false
 ---
 
 ### **2023 Fall**
