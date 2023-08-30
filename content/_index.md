@@ -12,4 +12,6 @@ I lead [Efficient Learning Lab](https://effl.postech.ac.kr), and also do researc
 
 This page is under construction---see my [group page](https://effl.postech.ac.kr) instead.
 
+Contact: [firstname.lastname@school.ac.kr](mailto:jaeho.lee@postech.ac.kr)
+
 {{< /columns >}}

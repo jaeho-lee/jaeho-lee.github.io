@@ -6,23 +6,5 @@
     <description>Recent content in Docs on Jaeho Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alumni</title>
-      <link>http://jaeho-lee.github.io/docs/alumni/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/alumni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble</title>
-      <link>http://jaeho-lee.github.io/docs/ensemble/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/ensemble/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
