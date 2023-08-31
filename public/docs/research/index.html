@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="2023 # Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling
+Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin
+TMLR 2023 (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)
+Modality-Agnostic Variational Compression of Implicit Neural Representations
+Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin
+ICML 2023 (ICLR 2023 Workshop: Neural Fields across Fields)
+Bias-to-Text: Debiasing Unknown Visual Biases through Language Interpretation">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Research" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://jaeho-lee.github.io/docs/research/" />
+<title>Research | Jaeho Lee</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.affe44a5c949f3bce5c364f3a7916eb81b161141827327262072c8014f7f07df.js" integrity="sha256-r/5EpclJ87zlw2Tzp5FuuBsWEUGCcycmIHLIAU9/B98=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/research/index.xml" title="Jaeho Lee" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Jaeho Lee</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/me/" class="">About me</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/" class="">Advising</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/future/" class="">Apply?</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/past/" class="">Past</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/" class="">Teaching</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/research/" class="active">Research</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/misc/" class="">Misc.</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Research</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#2023"><strong>2023</strong></a></li>
+        <li><a href="#2022"><strong>2022</strong></a></li>
+        <li><a href="#2021"><strong>2021</strong></a></li>
+        <li><a href="#2020"><strong>2020</strong></a></li>
+        <li><a href="#pre-2020"><strong>Pre-2020</strong></a></li>
+        <li><a href="#domestic-posters"><strong>Domestic Posters</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h3 id="2023">
+  <strong>2023</strong>
+  <a class="anchor" href="#2023">#</a>
+</h3>
+<p><a href="https://openreview.net/forum?id=VV4zJwLwI7"><strong>Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling</strong></a><br>
+Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin<br>
+<em>TMLR 2023 (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)</em></p>
+<p><a href="https://openreview.net/forum?id=bBXCCSoVQZ"><strong>Modality-Agnostic Variational Compression of Implicit Neural Representations</strong></a><br>
+Jonathan R. Schwarz, Jihoon Tack, Yee Whye Teh, Jaeho Lee, and Jinwoo Shin<br>
+<em>ICML 2023 (ICLR 2023 Workshop: Neural Fields across Fields)</em></p>
+<p><a href="https://arxiv.org/abs/2301.11104"><strong>Bias-to-Text: Debiasing Unknown Visual Biases through Language Interpretation</strong></a><br>
+Younghyun Kim, Sangwoo Mo, Minkyu Kim, Kyungmin Lee, Jaeho Lee, and Jinwoo Shin<br>
+<em>ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability</em></p>
+<p><a href="https://icml.cc/virtual/2023/25899"><strong>On the Effectiveness of Sharpness-aware Minimization with Large Mini-batches</strong></a><br>
+Jinseok Chung, Seonghwan Park, Jaeho Lee, and Namhoon Lee<br>
+<em>ICML 2023 Workshop: High-Dimensional Learning Dynamics</em></p>
+<p><a href="https://arxiv.org/abs/2302.10494"><strong>MaskedKD: Efficient Distillation of Vision Transformers with Masked Images</strong></a><br>
+Seungwoo Son, Namhoon Lee, and Jaeho Lee<br>
+<em>ICLR 2023 Workshop: Sparsity in Neural Networks (IPIU 2023 <code>Oral</code> <code>🥉</code>)</em></p>
+<p><a href="https://arxiv.org/abs/2302.00617"><strong>Learning Large-scale Neural Fields via Context Pruned Meta-learning</strong></a><br>
+Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz<br>
+<em>ICLR 2023 Workshop: Neural Fields across Fields</em></p>
+<p><a href="https://arxiv.org/abs/2307.10805"><strong>Communication-Efficient Split Learning via Adaptive Feature-wise Compression</strong></a><br>
+Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon<br>
+<em>Under Review</em></p>
+<p><a href="https://arxiv.org/abs/2302.11187"><strong>Debiased Distillation by Transplanting the Last Layer</strong></a><br>
+Jiwoon Lee and Jaeho Lee<br>
+<em>arXiv preprint 2302.11187 (IPIU 2023)</em></p>
+<h3 id="2022">
+  <strong>2022</strong>
+  <a class="anchor" href="#2022">#</a>
+</h3>
+<p><a href="https://openreview.net/forum?id=VV4zJwLwI7"><strong>Scalable Neural Video Representations with Learnable Positional Features</strong></a><br>
+Subin Kim, Sihyun Yu, Jaeho Lee, and Jinwoo Shin<br>
+<em>NeurIPS 2022</em> (<a href="https://subin-kim-cv.github.io/NVP/">project page</a>)</p>
+<p><a href="https://openreview.net/forum?id=FCNMbF_TsKm"><strong>Meta-learning with Self-improving Momentum Targets</strong></a><br>
+Jihoon Tack, Jongjin Park, Hankook Lee, Jaeho Lee and Jinwoo Shin<br>
+<em>NeurIPS 2022</em></p>
+<p><a href="https://openreview.net/forum?id=_F9xpOrqyX9"><strong>Spread Spurious Attribute: Improving Worst-Group Accuracy with Spurious Attribute Estimation</strong></a><br>
+Junhyun Nam, Jaehyung Kim, Jaeho Lee, and Jinwoo Shin<br>
+<em>ICLR 2022</em></p>
+<p><a href="https://arxiv.org/abs/2204.02405"><strong>Zero-shot Blind Image Denoising via Implicit Neural Representations</strong></a><br>
+Chaewon Kim, Jaeho Lee, and Jinwoo Shin<br>
+<em>arXiv preprint 2204.02405</em></p>
+<h3 id="2021">
+  <strong>2021</strong>
+  <a class="anchor" href="#2021">#</a>
+</h3>
+<p><a href="https://openreview.net/forum?id=Tn0PnRY877g"><strong>Meta-learning Sparse Implicit Neural Representations</strong></a><br>
+Jaeho Lee, Jihoon Tack, Namhoon Lee, and Jinwoo Shin<br>
+<em>NeurIPS 2021</em></p>
+<p><a href="https://openaccess.thecvf.com/content/ICCV2021/html/Cha_Co2L_Contrastive_Continual_Learning_ICCV_2021_paper.html"><strong>Co2L: Contrastive Continual Learning</strong></a><br>
+Hyuntak Cha, Jaeho Lee, and Jinwoo Shin<br>
+<em>ICCV 2021</em></p>
+<p><a href="https://proceedings.mlr.press/v134/park21a.html"><strong>Provable Memorization via Deep Neural Networks using Sub-linear Parameters</strong></a><br>
+Sejun Park, Jaeho Lee, Chulhee Yun, and Jinwoo Shin<br>
+<em>COLT 2021 (DeepMath 2020 <code>Oral</code>)</em></p>
+<p><a href="https://openreview.net/forum?id=O-XJwyoIF-k"><strong>Minimum Width for Universal Approximation</strong></a><br>
+Sejun Park, Chulhee Yun, Jaeho Lee, and Jinwoo Shin<br>
+<em>ICLR 2021 <code>Spotlight</code> (DeepMath 2020 <code>Oral</code>)</em></p>
+<p><a href="https://openreview.net/forum?id=H6ATjJ0TKdf"><strong>Layer-adaptive Sparsity for the Magnitude-based Pruning</strong></a><br>
+Jaeho Lee, Sejun Park, Sangwoo Mo, Sungsoo Ahn, and Jinwoo Shin<br>
+<em>ICLR 2021</em></p>
+<p><a href="https://ojs.aaai.org/index.php/AAAI/article/view/17601"><strong>MASKER: Masked Keyword Regularization for Reliable Text Generation</strong></a><br>
+Seung Jun Moon, Sangwoo Mo, Kimin Lee, Jaeho Lee, and Jinwoo Shin<br>
+<em>AAAI 2021</em></p>
+<p><a href="https://sites.google.com/view/sparsity-workshop-2021/accepted-papers"><strong>Greedyprune: Layer-wise Optimization Algorithms for Magnitude-based Pruning</strong></a><br>
+Vinoth Nandakumar and Jaeho Lee<br>
+<em>Sparse Neural Network Workshop 2021</em></p>
+<h3 id="2020">
+  <strong>2020</strong>
+  <a class="anchor" href="#2020">#</a>
+</h3>
+<p><a href="https://proceedings.neurips.cc/paper/2020/hash/9f60ab2b55468f104055b16df8f69e81-Abstract.html"><strong>Learning Bounds for Risk-sensitive Learning</strong></a><br>
+Jaeho Lee, Sejun Park, and Jinwoo Shin<br>
+<em>NeurIPS 2020</em></p>
+<p><a href="https://papers.nips.cc/paper_files/paper/2020/hash/eddc3427c5d77843c2253f1e799fe933-Abstract.html"><strong>Learning from Failure: Training Debiased Classifier from Biased Classifier</strong></a><br>
+Junhyun Nam, Hyuntak Cha, Sungsoo Ahn, Jaeho Lee, and Jinwoo Shin<br>
+<em>NeurIPS 2020</em></p>
+<p><a href="https://openreview.net/forum?id=ryl3ygHYDB"><strong>Lookahead: A Far-sighted Alternative of Magnitude-based Pruning</strong></a><br>
+Sejun Park, Jaeho Lee, Sangwoo Mo, and Jinwoo Shin<br>
+<em>ICLR 2020</em></p>
+<h3 id="pre-2020">
+  <strong>Pre-2020</strong>
+  <a class="anchor" href="#pre-2020">#</a>
+</h3>
+<p><a href="https://epubs.siam.org/doi/10.1137/18M1234461"><strong>Learning Finite-dimensional Coding Schemes with Nonlinear Reconstruction Maps</strong></a><br>
+Jaeho Lee and Maxim Raginsky<br>
+<em>SIMODS 2019</em></p>
+<p><a href="https://papers.nips.cc/paper_files/paper/2018/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html"><strong>Minimax Statistical Learning with Wasserstein Distances</strong></a><br>
+Jaeho Lee and Maxim Raginsky<br>
+<em>NeurIPS 2018 <code>Spotlight</code></em></p>
+<p><a href="https://ieeexplore.ieee.org/document/7282992"><strong>On MMSE Estimation from Quantized Observations in the Nonasymptotic Regime</strong></a><br>
+Jaeho Lee, Maxim Raginsky, and Pierre Moulin<br>
+<em>ISIT 2015</em></p>
+<h3 id="domestic-posters">
+  <strong>Domestic Posters</strong>
+  <a class="anchor" href="#domestic-posters">#</a>
+</h3>
+<p><strong>An Empirical Study on the Bias of Generative Image Compression</strong><br>
+Hagyeong Lee and Jaeho Lee<br>
+<em>IPIU 2023</em></p>
+<p><strong>Is Sparse Identification Model Sufficiently Biased?</strong><br>
+Junwon Seo and Jaeho Lee<br>
+<em>IPIU 2023</em></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#2023"><strong>2023</strong></a></li>
+        <li><a href="#2022"><strong>2022</strong></a></li>
+        <li><a href="#2021"><strong>2021</strong></a></li>
+        <li><a href="#2020"><strong>2020</strong></a></li>
+        <li><a href="#pre-2020"><strong>Pre-2020</strong></a></li>
+        <li><a href="#domestic-posters"><strong>Domestic Posters</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

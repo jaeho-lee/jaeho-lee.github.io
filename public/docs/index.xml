@@ -6,5 +6,37 @@
     <description>Recent content in Docs on Jaeho Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://jaeho-lee.github.io/docs/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/me/</guid>
+      <description>Current Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
+2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
+2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
+2023.09&amp;ndash;Present Education # Ph.D., Electrical and Computer Engineering (2019)
+University of Illinois at Urbana-Champaign
+Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;
+Advisor: Maxim Raginsky M.S., Electrical and Computer Engineering (2015)
+University of Illinois at Urbana-Champaign
+Thesis: &amp;ldquo;MMSE estimation from Quantized Observations in the Nonasymptotic Regime&amp;rdquo;
+Advisor: Maxim Raginsky B.</description>
+    </item>
+    
+    <item>
+      <title>Misc.</title>
+      <link>http://jaeho-lee.github.io/docs/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/misc/</guid>
+      <description>Miscellaneous Writings # Greece: Austerity Doesn&amp;rsquo;t Involve Public-Sector Layoffs
+Jaeho Lee
+The Daily Signal, 2023 (The Orange County Register, 2023)
+나만의 목표, 나만의 기준
+이재호
+동아일보: 내가 만난 명문장, 2022</description>
+    </item>
+    
   </channel>
 </rss>

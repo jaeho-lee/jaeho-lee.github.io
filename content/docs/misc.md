@@ -1,7 +1,9 @@
 ---
 title: "Misc."
 weight: 10
+bookToc: false
 ---
+
 
 ### **Miscellaneous Writings**
 [**Greece: Austerity Doesn't Involve Public-Sector Layoffs**](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/)  

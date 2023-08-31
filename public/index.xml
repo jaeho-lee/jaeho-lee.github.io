@@ -7,12 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Past Interns</title>
-      <link>http://jaeho-lee.github.io/docs/group/alumni_ug/</link>
+      <title>About me</title>
+      <link>http://jaeho-lee.github.io/docs/me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/group/alumni_ug/</guid>
-      <description>2023 Summer # Jegwang Ryu
+      <guid>http://jaeho-lee.github.io/docs/me/</guid>
+      <description>Current Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
+2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
+2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
+2023.09&amp;ndash;Present Education # Ph.D., Electrical and Computer Engineering (2019)
+University of Illinois at Urbana-Champaign
+Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;
+Advisor: Maxim Raginsky M.S., Electrical and Computer Engineering (2015)
+University of Illinois at Urbana-Champaign
+Thesis: &amp;ldquo;MMSE estimation from Quantized Observations in the Nonasymptotic Regime&amp;rdquo;
+Advisor: Maxim Raginsky B.</description>
+    </item>
+    
+    <item>
+      <title>Apply?</title>
+      <link>http://jaeho-lee.github.io/docs/advising/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/advising/future/</guid>
+      <description>Openings # We have a limited number of openings for graduate students, interns, and postdocs.
+(last updated: 08.31.2023)
+How to apply # Before anything, please email me with your
+Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.</description>
+    </item>
+    
+    <item>
+      <title>Past</title>
+      <link>http://jaeho-lee.github.io/docs/advising/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/advising/past/</guid>
+      <description>Interns # 2023 Summer # Jegwang Ryu
 Jiyun Bae
 Sangyoon Lee
 Dohyun Kim
@@ -23,6 +53,20 @@ Jooyeon Wee (→ EffL)
 Soochang Song
 2021 Winter # Seyeon Park (→ Yonsei)
 Hagyeong Lee (→ EffL)</description>
+    </item>
+    
+    <item>
+      <title>Misc.</title>
+      <link>http://jaeho-lee.github.io/docs/misc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/misc/</guid>
+      <description>Miscellaneous Writings # Greece: Austerity Doesn&amp;rsquo;t Involve Public-Sector Layoffs
+Jaeho Lee
+The Daily Signal, 2023 (The Orange County Register, 2023)
+나만의 목표, 나만의 기준
+이재호
+동아일보: 내가 만난 명문장, 2022</description>
     </item>
     
   </channel>
