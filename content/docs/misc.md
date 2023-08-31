@@ -36,6 +36,17 @@ Korea Advanced Institute of Science and Technology
 _double major, summa cum laude_  
 Advisor: [Yung Yi](https://yung-web.github.io/home/)
 
+### **Talks (selected)**
+- **Tutorial,** KICS Fall Conference, Gyeongju (2023.11.22)  
+"Compressing Giant Neural Networks"  
+- **Talk,** Optimization & Machine Learning Workshop, UNIST (2023.08.24)  
+"Problems that Arise in the Optimization of Neural Fields"
+- **Tutorial,** KAIA Summer Conference, Yeosu (2023.07.17)  
+"Recent Trends in Neural Data Compression: From Generative Models to Neural Fields"  
+- **Tutorial,** Korea SatCom Forum, Seoul (2023.05.31)  
+"Recent Trends in Large Language Models"
+
+
 ### **Miscellaneous Writings**
 [**Greece: Austerity Doesn't Involve Public-Sector Layoffs**](https://www.dailysignal.com/2013/06/25/greece-austerity-doesnt-involve-public-sector-layoffs/)  
 Jaeho Lee  
