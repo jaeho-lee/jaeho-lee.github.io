@@ -7,24 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
-      <link>http://jaeho-lee.github.io/docs/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/me/</guid>
-      <description>Current Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
-2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
-2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
-2023.09&amp;ndash;Present Education # Ph.D., Electrical and Computer Engineering (2019)
-University of Illinois at Urbana-Champaign
-Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;
-Advisor: Maxim Raginsky M.S., Electrical and Computer Engineering (2015)
-University of Illinois at Urbana-Champaign
-Thesis: &amp;ldquo;MMSE estimation from Quantized Observations in the Nonasymptotic Regime&amp;rdquo;
-Advisor: Maxim Raginsky B.</description>
-    </item>
-    
-    <item>
       <title>Apply?</title>
       <link>http://jaeho-lee.github.io/docs/advising/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,7 +19,7 @@ Transcript (with rank) CV/Résumé A short statement of your research interests 
     </item>
     
     <item>
-      <title>Past</title>
+      <title>Past Interns</title>
       <link>http://jaeho-lee.github.io/docs/advising/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,6 +35,24 @@ Jooyeon Wee (→ EffL)
 Soochang Song
 2021 Winter # Seyeon Park (→ Yonsei)
 Hagyeong Lee (→ EffL)</description>
+    </item>
+    
+    <item>
+      <title>Brief Bio.</title>
+      <link>http://jaeho-lee.github.io/docs/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/me/</guid>
+      <description>Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
+2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
+2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
+2023.09&amp;ndash;Present Previous Appointments # Postdoctoral Researcher, EE@KAIST (전문연구요원)
+Host: Jinwoo Shin
+2019.03&amp;ndash;2022.03 ASAN Fellow, Center for Data Analysis @ The Heritage Foundation
+Host: Salim Furth, James Sherk
+2013.05&amp;ndash;2013.07 Education # Ph.D., Electrical and Computer Engineering (2019)
+University of Illinois at Urbana-Champaign
+Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;</description>
     </item>
     
     <item>

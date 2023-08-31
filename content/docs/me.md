@@ -1,6 +1,6 @@
 ---
 title: "Brief Bio."
-weight: 1
+weight: 4
 ---
 
 

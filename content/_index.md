@@ -10,7 +10,7 @@ bookToc: false
 I am an Assistant Professor at [POSTECH EE](https://ee.postech.ac.kr), where I lead [EffL Lab](https://effl.postech.ac.kr).  
 I also do research at [Google](https://research.google).
 
-I focus on **making ML efficient** through {theory,algorithm,system}.
+I focus on **making ML efficient** through theories, algorithms, and systems.
 
 Contact: [firstname.lastname@school.ac.kr](mailto:jaeho.lee@postech.ac.kr)
 

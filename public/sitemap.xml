@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jaeho-lee.github.io/docs/me/</loc>
+    <loc>http://jaeho-lee.github.io/docs/research/</loc>
   </url><url>
     <loc>http://jaeho-lee.github.io/docs/advising/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/</loc>
   </url><url>
     <loc>http://jaeho-lee.github.io/docs/advising/future/</loc>
   </url><url>
     <loc>http://jaeho-lee.github.io/docs/advising/past/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/research/</loc>
+    <loc>http://jaeho-lee.github.io/docs/teaching/</loc>
+  </url><url>
+    <loc>http://jaeho-lee.github.io/docs/me/</loc>
   </url><url>
     <loc>http://jaeho-lee.github.io/docs/misc/</loc>
   </url><url>

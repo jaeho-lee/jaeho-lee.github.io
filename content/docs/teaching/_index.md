@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-weight: 1
+weight: 3
 bookToc: false
 ---
 
@@ -15,7 +15,7 @@ EECE695D-01 Efficient Machine Learning Systems
 _(EduTech Teaching Excellence Award)_  
 
 
-#### TA
+#### Past
 As a TA, I have taught:
 - FA17 TA, ECE563@UIUC Information theory.
 - SP17 TA, ECE498@UIUC Introduction to stochastic systems.

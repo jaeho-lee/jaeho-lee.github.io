@@ -1,7 +1,12 @@
 ---
 title: "Research"
-weight: 3
+weight: 1
 ---
+
+### **Research Focus**
+My goal is to make AI more _responsible_---accessible, sustainable, and righteous.
+
+For this purpose, I am currently focusing on various facets of **Efficient ML** with glorious talents at [EffL](https://effl.postech.ac.kr). Together, we strive to enable ML without giant-scale models/data/compute through innovating relevant theories, algorithms, and systems.
 
 ### **2023**
 

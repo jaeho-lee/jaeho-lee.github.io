@@ -1,6 +1,6 @@
 ---
 title: "Advising"
-weight: 1
+weight: 2
 bookToc: false
 ---
 
@@ -22,7 +22,6 @@ _Multimodal Data Compression_
 
 [**Yu Ji Byun**](mailto:yujibyun@postech.ac.kr) (2023.02--)  
 _Learning with High-Resolution Video_  
-2023.02--
 
 **Jooyeon Wee** (2023.09--)  
 _Learning from Extremely Long Sequences_  

@@ -1,6 +1,6 @@
 ---
 title: "Misc."
-weight: 10
+weight: 5
 bookToc: false
 ---
 
