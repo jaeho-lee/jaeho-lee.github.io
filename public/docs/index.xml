@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brief Bio.</title>
-      <link>http://jaeho-lee.github.io/docs/me/</link>
+      <title>Misc.</title>
+      <link>http://jaeho-lee.github.io/docs/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/me/</guid>
+      <guid>http://jaeho-lee.github.io/docs/misc/</guid>
       <description>Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
 2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
 2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
@@ -22,20 +22,6 @@ Host: Salim Furth, James Sherk
 2013.05&amp;ndash;2013.07 Education # Ph.D., Electrical and Computer Engineering (2019)
 University of Illinois at Urbana-Champaign
 Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>Misc.</title>
-      <link>http://jaeho-lee.github.io/docs/misc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/misc/</guid>
-      <description>Miscellaneous Writings # Greece: Austerity Doesn&amp;rsquo;t Involve Public-Sector Layoffs
-Jaeho Lee
-The Daily Signal, 2023 (The Orange County Register, 2023)
-나만의 목표, 나만의 기준
-이재호
-동아일보: 내가 만난 명문장, 2022</description>
     </item>
     
   </channel>

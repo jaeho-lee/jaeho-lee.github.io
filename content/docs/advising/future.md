@@ -1,5 +1,5 @@
 ---
-title: "Apply?"
+title: "How to Apply"
 weight: 2
 ---
 

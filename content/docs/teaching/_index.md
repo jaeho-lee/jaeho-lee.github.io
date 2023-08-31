@@ -15,7 +15,7 @@ EECE695D-01 Efficient Machine Learning Systems
 _(EduTech Teaching Excellence Award)_  
 
 
-#### Past
+#### Past Courses
 As a TA, I have taught:
 - FA17 TA, ECE563@UIUC Information theory.
 - SP17 TA, ECE498@UIUC Introduction to stochastic systems.
