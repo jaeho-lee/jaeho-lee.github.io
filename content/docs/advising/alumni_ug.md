@@ -1,8 +1,10 @@
 ---
-title: "Past Interns"
+title: "Past"
 weight: 2
 bookToc: false
 ---
+
+### **Interns**
 
 #### **2023 Summer**
 Jegwang Ryu  
@@ -21,4 +23,4 @@ Soochang Song
 
 #### **2021 Winter**
 Seyeon Park (→ Yonsei)  
-Hagyeong Lee (→ EffL)
+Hagyeong Lee (→ EffL)  
