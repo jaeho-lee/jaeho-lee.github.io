@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="EECE454: Introduction to ML Systems (Fall 2023) # Team # Instructor. Jaeho Lee 이재호
+firstname.lastname@postech.ac.kr TA. Minkyu Kim 김민규
+firstname.lastname@postech.ac.kr Location &amp; Time # Class. Mondays/Wednesdays, 09:30AM&ndash;10:45AM @ 106 LG Hall Office Hr. Wednesdays, 10:50AM&ndash;11:50AM @ 407 Eng Bldg 2 Schedule (tentative) # W1. Introduction / Basic Math for ML
+(9/4, 9/6) W2. Math for ML / Simple Models
+(9/11, 9/13) W3. Support Vector Machines
+(9/18, 9/20) W4. K-Means Clustering">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="EECE454-23F" />
+<meta property="og:description" content="EECE454: Introduction to ML Systems (Fall 2023) # Team # Instructor. Jaeho Lee 이재호
+firstname.lastname@postech.ac.kr TA. Minkyu Kim 김민규
+firstname.lastname@postech.ac.kr Location &amp; Time # Class. Mondays/Wednesdays, 09:30AM&ndash;10:45AM @ 106 LG Hall Office Hr. Wednesdays, 10:50AM&ndash;11:50AM @ 407 Eng Bldg 2 Schedule (tentative) # W1. Introduction / Basic Math for ML
+(9/4, 9/6) W2. Math for ML / Simple Models
+(9/11, 9/13) W3. Support Vector Machines
+(9/18, 9/20) W4. K-Means Clustering" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall23/" /><meta property="article:section" content="docs" />
+
+
+<title>EECE454-23F | Jaeho Lee</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.1bb5cefecdc9fc7c7390c32ab7666d72544374b6f264ac75841dbf8c3eeab327.js" integrity="sha256-G7XO/s3J/HxzkMMqt2ZtclRDdLbyZKx1hB2/jD7qsyc=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Jaeho Lee</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/research/" class="">Research</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/" class="">Advising</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/future/" class="">How to Apply</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/advising/past/" class="">Past Interns</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/" class="">Teaching</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall23/" class="active">EECE454-23F</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/misc/" class="">Misc.</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>EECE454-23F</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece454-introduction-to-ml-systems-fall-2023"><strong>EECE454: Introduction to ML Systems (Fall 2023)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h2 id="eece454-introduction-to-ml-systems-fall-2023">
+  <strong>EECE454: Introduction to ML Systems (Fall 2023)</strong>
+  <a class="anchor" href="#eece454-introduction-to-ml-systems-fall-2023">#</a>
+</h2>
+<h3 id="team">
+  <strong>Team</strong>
+  <a class="anchor" href="#team">#</a>
+</h3>
+<ul>
+<li><strong>Instructor.</strong> Jaeho Lee 이재호<br>
+<a href="mailto:jaeho.lee@postech.ac.kr">firstname.lastname@postech.ac.kr</a></li>
+<li><strong>TA.</strong> Minkyu Kim 김민규<br>
+<a href="mailto:minkyu.kim@postech.ac.kr">firstname.lastname@postech.ac.kr</a></li>
+</ul>
+<h3 id="location--time">
+  <strong>Location &amp; Time</strong>
+  <a class="anchor" href="#location--time">#</a>
+</h3>
+<ul>
+<li><strong>Class.</strong> Mondays/Wednesdays, 09:30AM&ndash;10:45AM @ 106 LG Hall</li>
+<li><strong>Office Hr.</strong> Wednesdays, 10:50AM&ndash;11:50AM @ 407 Eng Bldg 2</li>
+</ul>
+<h3 id="schedule-tentative">
+  <strong>Schedule (tentative)</strong>
+  <a class="anchor" href="#schedule-tentative">#</a>
+</h3>
+<ul>
+<li><strong>W1.</strong> Introduction / Basic Math for ML<br>
+(9/4, 9/6)</li>
+<li><strong>W2.</strong> Math for ML / Simple Models<br>
+(9/11, 9/13)</li>
+<li><strong>W3.</strong> Support Vector Machines<br>
+(9/18, 9/20)</li>
+<li><strong>W4.</strong> K-Means Clustering<br>
+(9/25, 9/27)</li>
+<li><strong>W5.</strong> Mixture Models<br>
+(<del>10/2,</del> 10/4)</li>
+<li><strong>W6.</strong> Mixture Models (cont&rsquo;d)<br>
+(<del>10/9,</del> 10/11)</li>
+<li><strong>W7.</strong> Dimensionality Reduction<br>
+(10/16, 10/18)</li>
+<li><strong>W8.</strong> Mid-Term<br>
+(10/23, 10/25)</li>
+<li><strong>W9.</strong> Perceptrons / Neural Networks<br>
+(10/30, 11/1)</li>
+<li><strong>W10.</strong> GD and Backprop<br>
+(11/6, 11/8)</li>
+<li><strong>W11.</strong> Convolutional Models<br>
+(11/13, 11/15)</li>
+<li><strong>W12.</strong> Generative Models<br>
+(11/20, 11/22)</li>
+<li><strong>W13.</strong> Vision Applications<br>
+(11/27, 11/29)</li>
+<li><strong>W14.</strong> Language Models<br>
+(12/4, 12/6)</li>
+<li><strong>W15.</strong> Multimodal Learning<br>
+(12/11, 12/13)</li>
+<li><strong>W16.</strong> Final Project Presentation<br>
+(12/18, 12/20)</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece454-introduction-to-ml-systems-fall-2023"><strong>EECE454: Introduction to ML Systems (Fall 2023)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

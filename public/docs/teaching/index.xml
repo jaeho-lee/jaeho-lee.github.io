@@ -6,5 +6,19 @@
     <description>Recent content in Teaching on Jaeho Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EECE454-23F</title>
+      <link>http://jaeho-lee.github.io/docs/teaching/fall23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/teaching/fall23/</guid>
+      <description>EECE454: Introduction to ML Systems (Fall 2023) # Team # Instructor. Jaeho Lee 이재호
+firstname.lastname@postech.ac.kr TA. Minkyu Kim 김민규
+firstname.lastname@postech.ac.kr Location &amp;amp; Time # Class. Mondays/Wednesdays, 09:30AM&amp;ndash;10:45AM @ 106 LG Hall Office Hr. Wednesdays, 10:50AM&amp;ndash;11:50AM @ 407 Eng Bldg 2 Schedule (tentative) # W1. Introduction / Basic Math for ML
+(9/4, 9/6) W2. Math for ML / Simple Models
+(9/11, 9/13) W3. Support Vector Machines
+(9/18, 9/20) W4. K-Means Clustering</description>
+    </item>
+    
   </channel>
 </rss>
