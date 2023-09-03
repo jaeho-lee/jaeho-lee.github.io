@@ -4,14 +4,14 @@ weight: 2
 bookToc: false
 ---
 
-I lead [EffL](https://effl.postech.ac.kr), a research group focused on **Efficient ML**.
+I am advising brilliant talents at [EffL@POSTECH](https://effl.postech.ac.kr).
 
-As an advisor, I try to ...
-- keep active members sub-10,
-- have weekly meetings with all EffLers (30-60 mins),
-- and minimize the students' load for non-academic external projects.
+As an advisor, I am commited to these principles:
+- keeping the group small,
+- having individual weekly meetings (30-60mins at least),
+- and keeping non-academic burdens minimal.
 
 I expect EffLers to
-- lead their own research agenda,
-- be a top expert in at least one area,
-- and share their knowledge with other EffLers
+- lead their own research agenda patiently,
+- gain top-notch expertise in their own area,
+- and willingly share their knowledge with fellow EffLers.
