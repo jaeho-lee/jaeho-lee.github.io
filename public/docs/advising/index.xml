@@ -7,19 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/docs/advising/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Apply</title>
-      <link>http://jaeho-lee.github.io/docs/advising/future/</link>
+      <title>Current</title>
+      <link>http://jaeho-lee.github.io/docs/advising/current/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/advising/future/</guid>
-      <description>Openings # We have a limited number of openings for graduate students, interns, and postdocs.
-(last updated: 08.31.2023)
-How to apply # Before anything, please email me with your
-Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.</description>
+      <guid>http://jaeho-lee.github.io/docs/advising/current/</guid>
+      <description>Graduate Students # @ Pohang # Jiwoon Lee (2022.02&amp;ndash;) Efficient ML in the Wild
+Junwon Seo (2022.02&amp;ndash;) Accelerating Neural Field Generation
+Hagyeong Lee (2022.09&amp;ndash;) Generative Data Compression
+Minkyu Kim (2023.02&amp;ndash;) Multimodal Data Compression
+Yu Ji Byun (2023.02&amp;ndash;) Learning with High-Resolution Video
+Jooyeon Wee (2023.09&amp;ndash;) Learning from Extremely Long Sequences
+On Leave @ Google # Seungwoo Son (2022.02&amp;ndash;) Large-Scale Model Compression
+Interns (2023 Fall) # Sangyoon Lee Fast Neural Field Generation</description>
     </item>
     
     <item>
-      <title>Past Interns</title>
+      <title>Past</title>
       <link>http://jaeho-lee.github.io/docs/advising/past/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -35,6 +39,18 @@ Jooyeon Wee (→ EffL)
 Soochang Song
 2021 Winter # Seyeon Park (→ Yonsei)
 Hagyeong Lee (→ EffL)</description>
+    </item>
+    
+    <item>
+      <title>Apply?</title>
+      <link>http://jaeho-lee.github.io/docs/advising/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jaeho-lee.github.io/docs/advising/future/</guid>
+      <description>Openings # We have a limited number of openings for graduate students, interns, and postdocs.
+(last updated: 08.31.2023)
+How to apply # Before anything, please email me with your
+Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.</description>
     </item>
     
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: "Past Interns"
+title: "Past"
 weight: 2
 bookToc: false
 ---

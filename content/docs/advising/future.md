@@ -1,6 +1,6 @@
 ---
-title: "How to Apply"
-weight: 2
+title: "Apply?"
+weight: 3
 ---
 
 ### **Openings** 
