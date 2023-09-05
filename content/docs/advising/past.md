@@ -15,7 +15,7 @@ Sangbeom Ha
 
 #### **2023 Spring**  
 Soochang Song  
-Jooyeon Wee (→ EffL)
+Juyun Wee (→ EffL)
 
 #### **2022 Winter**  
 Jeonghun Cho  

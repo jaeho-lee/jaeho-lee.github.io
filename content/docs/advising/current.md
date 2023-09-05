@@ -12,7 +12,7 @@ bookToc: false
 [**Hagyeong Lee**](mailto:hagyeonglee@postech.ac.kr) (2022.09--) _Generative Data Compression_  
 [**Minkyu Kim**](mailto:minkyu4506@postech.ac.kr) (2023.02--) _Multimodal Data Compression_  
 [**Yu Ji Byun**](mailto:yujibyun@postech.ac.kr) (2023.02--) _Learning with High-Resolution Video_  
-[**Jooyeon Wee**](mailto:jywee@postech.ac.kr) (2023.09--) _Learning from Extremely Long Sequences_   
+[**Juyun Wee**](mailto:jywee@postech.ac.kr) (2023.09--) _Learning from Extremely Long Sequences_   
 
 #### **EffLer on Leave @ Google 🏢**
 [**Seungwoo Son**](mailto:swson@postech.ac.kr) (2022.02--) _Large-Scale Model Compression_  
