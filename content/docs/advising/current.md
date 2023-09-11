@@ -23,5 +23,5 @@ bookToc: false
 **Sangyoon Lee** _Fast Neural Field Generation_  
 **Jiyun Bae** (remote) _Visual Prompt Tuning_  
 **Sangbeom Ha** _Large-Scale Transformer Quantization_  
-**Minyoung Kang** _Neural Cellular Automata_
+**Minyoung Kang** _Neural Cellular Automata_  
 **Yousung Roh** _TBD_
