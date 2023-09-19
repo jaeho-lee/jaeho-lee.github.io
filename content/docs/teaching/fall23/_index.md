@@ -22,7 +22,7 @@ weight: 1
 - **W2.** Basic Probability / Simple Models  
 ([9/11](3_mathcontd.pdf), [9/13](4_suplearn.pdf)) 
 - **W3.** Simple Models / Support Vector Machines  
-([9/18](5_simplemodels.pdf), 9/20)
+([9/18](5_simplemodels.pdf), [9/20](6_svm.pdf))
 - **W4.** K-Means Clustering  
 (9/25, 9/27)
 - **W5.** Mixture Models  
