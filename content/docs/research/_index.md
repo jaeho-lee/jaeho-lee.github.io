@@ -12,6 +12,10 @@ Currently, I am focusing on various facets of **Efficient ML**. Together with [E
 
 ### **2023**
 
+[**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
+Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
+_NeurIPS 2023 (ICLR 2023 Workshop: Neural Fields across Fields)_
+
 [**Breaking the Spurious Causality of Conditional Generation via Fairness Intervention with Corrective Sampling**](https://openreview.net/forum?id=VV4zJwLwI7)  
 Junhyun Nam, Sangwoo Mo, Jaeho Lee, and Jinwoo Shin  
 _TMLR 2023 (ICML 2023 Workshop: Spurious Correlations, Invariance, and Stability)_
@@ -31,10 +35,6 @@ _ICML 2023 Workshop: High-Dimensional Learning Dynamics_
 [**MaskedKD: Efficient Distillation of Vision Transformers with Masked Images**](https://arxiv.org/abs/2302.10494)  
 Seungwoo Son, Namhoon Lee, and Jaeho Lee  
 _ICLR 2023 Workshop: Sparsity in Neural Networks (IPIU 2023 `Oral` `🥉`)_
-
-[**Learning Large-scale Neural Fields via Context Pruned Meta-learning**](https://arxiv.org/abs/2302.00617)  
-Jihoon Tack, Subin Kim, Sihyun Yu, Jaeho Lee, Jinwoo Shin, and Jonathan R. Schwarz  
-_ICLR 2023 Workshop: Neural Fields across Fields_
 
 [**Communication-Efficient Split Learning via Adaptive Feature-wise Compression**](https://arxiv.org/abs/2307.10805)  
 Yongjeong Oh, Jaeho Lee, Christopher G. Brinton, and Yo-Seb Jeon  
