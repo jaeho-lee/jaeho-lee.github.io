@@ -47,7 +47,7 @@ _arXiv preprint 2302.11187 (IPIU 2023)_
 
 ### **2022**
 
-[**Scalable Neural Video Representations with Learnable Positional Features**](https://openreview.net/forum?id=VV4zJwLwI7)  
+[**Scalable Neural Video Representations with Learnable Positional Features**](https://openreview.net/forum?id=OxfI-3i5M8g)  
 Subin Kim, Sihyun Yu, Jaeho Lee, and Jinwoo Shin  
 _NeurIPS 2022_ ([project page](https://subin-kim-cv.github.io/NVP/))
 

@@ -23,8 +23,8 @@ weight: 1
 ([9/11](3_mathcontd.pdf), [9/13](4_suplearn.pdf)) 
 - **W3.** Simple Models / Support Vector Machines  
 ([9/18](5_simplemodels.pdf), [9/20](6_svm.pdf))
-- **W4.** K-Means Clustering  
-(9/25, 9/27)
+- **W4.** Kernel SVM / K-Means Clustering  
+([9/25](7_kernel_svm.pdf), 9/27)
 - **W5.** Mixture Models  
 (~~10/2,~~ 10/4)
 - **W6.** Mixture Models (cont'd)  
