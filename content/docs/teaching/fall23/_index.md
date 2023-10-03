@@ -26,7 +26,7 @@ weight: 1
 - **W4.** Kernel SVM / K-Means Clustering  
 ([9/25](7_kernel_svm.pdf), [9/27](8_kmeans.pdf))
 - **W5.** Gaussian Mixture Models  
-(~~10/2,~~ 10/4)
+(~~10/2,~~ [10/4](9_gmm.pdf))
 - **W6.** Mixture Models (cont'd)  
 (~~10/9,~~ 10/11)
 - **W7.** Dimensionality Reduction  
