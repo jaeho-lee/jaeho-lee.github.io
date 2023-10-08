@@ -27,8 +27,8 @@ weight: 1
 ([9/25](7_kernel_svm.pdf), [9/27](8_kmeans.pdf))
 - **W5.** Gaussian Mixture Models  
 (~~10/2,~~ [10/4](9_gmm.pdf))
-- **W6.** Mixture Models (cont'd)  
-(~~10/9,~~ 10/11)
+- **W6.** Decision Tree  
+(~~10/9,~~ [10/11](10_tree.pdf))
 - **W7.** Dimensionality Reduction  
 (10/16, 10/18)
 - **W8.** Mid-Term  
