@@ -1,5 +1,5 @@
 ---
-title: "EECE454-23F"
+title: "23F - Intro to ML Sys"
 weight: 1
 ---
 
