@@ -14,21 +14,29 @@ weight: 1
 - **Class.** (forthcoming)
 - **Office Hr.** (forthcoming)
 
-### **What we'll cover**
+### **What we'll cover (hopefully)**
 - **Deep Learning Basics**
 	- Architectures and Counting FLOPs
 	- Hardware bits
-- **Model Compression: making models smaller**
+- **Making models smaller**
 	- Quantization
-	- Pruning and Sparsity
+	- Pruning & Sparsity
 	- Neural Architecture Search
-- **Transferring Knowledge: How to utilize the experience of other models**
-	- Transfer Learning
-	- Meta-Learning and Test-time Training
-	- Model Merging
+- **How to utilize the experience of other models**
+	- Transfer Learning & Distillation
+	- Meta-Learning & Test-time Training
+	- Model Merging & Stitching
+	- Hyperparameter Transfer
+	- Prompt Tuning
 - **Organizing Large-scale Learning**
-	- Parallelism and Pipelining
+	- Parallelism & Pipelining
 	- Federated Learning
-
+- **Data Efficiency**
+	- Data Compression
+	- Dataset Distillation & Condensation / SeiT
+- **Tips & Tricks for Large Transformers**
+	- KV cache / FlashAttention / PagedAttention
+	- Speculative Decoding / Medusa
+	- Continuous Batching
 ### **Schedule (tentative)**
 (forthcoming)
