@@ -13,7 +13,7 @@ weight: 1
 
 ### **Location & Time**
 - **Class.** Mondays/Wednesdays, 09:30AM--10:45AM @ 106 LG Hall
-- **Office Hr.** Wednesdays, 10:50AM--11:50AM @ 407 Eng Bldg 2
+- **Office Hr.** Mondays, 04:00PM--05:00PM @ 407 Eng Bldg 2
 
 
 ### **Schedule (tentative)**
