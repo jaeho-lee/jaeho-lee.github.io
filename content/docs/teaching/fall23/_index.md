@@ -30,7 +30,7 @@ weight: 1
 - **W6.** Decision Tree  
 (~~10/9,~~ [10/11](10_tree.pdf))
 - **W7.** Dimensionality Reduction  
-([10/16](11_dimred.pdf), 10/18)
+([10/16](11_dimred.pdf), [10/18](12_dimred2.pdf))
 - **W8.** Mid-Term  
 (10/23, 10/25)
 - **W9.** Perceptrons / Neural Networks  
