@@ -32,7 +32,7 @@ weight: 1
 - **W7.** Dimensionality Reduction  
 ([10/16](11_dimred.pdf), [10/18](12_dimred2.pdf))
 - **W8.** Mid-Term  
-(10/23, 10/25)
+([10/23](00_midtermreview.pdf), 10/25)
 - **W9.** Perceptrons / Neural Networks  
 (10/30, 11/1)
 - **W10.** GD and Backprop   
