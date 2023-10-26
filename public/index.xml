@@ -7,68 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://jaeho-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Current</title>
-      <link>http://jaeho-lee.github.io/docs/advising/current/</link>
+      <title>🧪 Research</title>
+      <link>http://jaeho-lee.github.io/docs/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/advising/current/</guid>
-      <description>Graduate Students # @ Pohang 🏝️ # Jiwoon Lee (2022.02&amp;ndash;) Efficient ML in the Wild
-Junwon Seo (2022.02&amp;ndash;) Accelerating Neural Field Generation
-Hagyeong Lee (2022.09&amp;ndash;) Generative Data Compression
-Minkyu Kim (2023.02&amp;ndash;) Multimodal Data Compression
-Yu Ji Byun (2023.02&amp;ndash;) Learning with High-Resolution Video
-Juyun Wee (2023.09&amp;ndash;) Learning from Extremely Long Sequences
-EffLer on Leave @ Google 🏢 # Seungwoo Son (2022.02&amp;ndash;) Large-Scale Model Compression
-Interns (2023 Fall) # Sangyoon Lee Fast Neural Field Generation</description>
+      <guid>http://jaeho-lee.github.io/docs/research/</guid>
+      <description>My long-term goal is to make AI more responsible&amp;mdash;accessible, sustainable, and righteous.
+Currently, I am focusing on various facets of Efficient ML. Together with EffLers, I am striving to enable ML without giant-scale models/data/compute by innovating relevant theories, algorithms, and systems. Some recent research questions that I am specifically interested in are:
+How (and to what extent) can we reduce the data-level redundancy for efficient training? How can we replace the noise inherent in ML with a compute-efficient one?</description>
     </item>
     
     <item>
-      <title>Past</title>
-      <link>http://jaeho-lee.github.io/docs/advising/past/</link>
+      <title>🧑‍💻 Employment</title>
+      <link>http://jaeho-lee.github.io/docs/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/advising/past/</guid>
-      <description>Interns # 2023 Summer # Jegwang Ryu
-Jiyun Bae
-Sangyoon Lee
-Dohyun Kim
-Sangbeom Ha
-2023 Spring # Soochang Song
-Juyun Wee (→ EffL)
-2022 Winter # Jeonghun Cho
-Soochang Song
-2021 Winter # Seyeon Park (→ Yonsei)
-Hagyeong Lee (→ EffL)</description>
+      <guid>http://jaeho-lee.github.io/docs/work/</guid>
+      <description> Current # Assistant Professor EE@POSTECH (adj. AI, DST)
+2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
+2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
+2023.09&amp;ndash;Present Previous # Postdoctoral Researcher, EE@KAIST (전문연구요원)
+Host: Jinwoo Shin
+2019.03&amp;ndash;2022.03 ASAN Fellow, Center for Data Analysis @ The Heritage Foundation
+Host: Salim Furth, James Sherk
+2013.05&amp;ndash;2013.07 </description>
     </item>
     
     <item>
-      <title>Apply?</title>
-      <link>http://jaeho-lee.github.io/docs/advising/future/</link>
+      <title>🎓 Education</title>
+      <link>http://jaeho-lee.github.io/docs/education/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://jaeho-lee.github.io/docs/advising/future/</guid>
-      <description>We have a limited number of openings for graduate students, interns, and postdocs.
-(last updated: 08.31.2023)
-How to Apply? # Before anything, please email me with your
-Transcript (with rank) CV/Résumé A short statement of your research interests We will have a short coffee chat to discuss the next steps.</description>
+      <guid>http://jaeho-lee.github.io/docs/education/</guid>
+      <description>Ph.D. in Electrical and Computer Engineering (2019) # Alma Mater. University of Illinois at Urbana-Champaign
+Advisor. Maxim Raginsky
+Thesis. &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;
+M.S. in Electrical and Computer Engineering (2015) # Alma Mater. University of Illinois at Urbana-Champaign
+Advisor. Maxim Raginsky
+Thesis. &amp;ldquo;MMSE estimation from Quantized Observations in the Nonasymptotic Regime&amp;rdquo;
+B.S. in Electrical Engineering, Management Science (2013) # Alma Mater. Korea Advanced Institute of Science and Technology</description>
     </item>
     
     <item>
-      <title>Misc.</title>
+      <title>﹖ Misc.</title>
       <link>http://jaeho-lee.github.io/docs/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://jaeho-lee.github.io/docs/misc/</guid>
-      <description>Employment # Assistant Professor, EE@POSTECH (adj. AI, DST)
-2022.03&amp;ndash;Present Adjunct Professor, iCreate@Yonsei
-2022.09&amp;ndash;Present Visiting Faculty Researcher, Google
-2023.09&amp;ndash;Present Previous Appointments # Postdoctoral Researcher, EE@KAIST (전문연구요원)
-Host: Jinwoo Shin
-2019.03&amp;ndash;2022.03 ASAN Fellow, Center for Data Analysis @ The Heritage Foundation
-Host: Salim Furth, James Sherk
-2013.05&amp;ndash;2013.07 Education # Ph.D., Electrical and Computer Engineering (2019)
-University of Illinois at Urbana-Champaign
-Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;</description>
+      <description>Talks (selected) # Tutorial, KICS Fall Conference, Gyeongju (2023.11.22)
+&amp;ldquo;Compressing Giant Neural Networks&amp;rdquo; Talk, Optimization &amp;amp; Machine Learning Workshop, UNIST (2023.08.24)
+&amp;ldquo;Problems that Arise in the Optimization of Neural Fields&amp;rdquo; Tutorial, KAIA Summer Conference, Yeosu (2023.07.17)
+&amp;ldquo;Recent Trends in Neural Data Compression: From Generative Models to Neural Fields&amp;rdquo; Tutorial, Korea SatCom Forum, Seoul (2023.05.31)
+&amp;ldquo;Recent Trends in Large Language Models&amp;rdquo; Miscellaneous Writings # Greece: Austerity Doesn&amp;rsquo;t Involve Public-Sector Layoffs</description>
     </item>
     
   </channel>

@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-weight: 3
+title: "👨‍🏫 Teaching"
+weight: 4
 bookToc: false
 ---
 

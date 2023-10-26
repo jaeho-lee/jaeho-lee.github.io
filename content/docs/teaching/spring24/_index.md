@@ -1,6 +1,6 @@
 ---
-title: "(under construction)"
-weight: 1
+title: "24S - (under construction)"
+weight: 6
 ---
 
 ## **EECE695E: Efficient ML Systems (Spring 2024)**
