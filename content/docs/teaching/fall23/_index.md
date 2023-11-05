@@ -35,8 +35,8 @@ weight: 5
 ([10/23](00_midtermreview.pdf), 10/25)
 - **W9.** Deep Learning Basics / Convolutional Networks  
 ([10/30](13_deeplearning.pdf), [11/1](14_convolution.pdf))
-- **W10.** GD and Backprop   
-(11/6, 11/8)
+- **W10.** Backprop / Neural Network Training   
+([11/6](15_backprop.pdf), 11/8)
 - **W11.** Sequence-to-sequence Models  
 (11/13, 11/15)
 - **W12.** Generative Models  
