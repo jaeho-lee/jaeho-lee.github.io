@@ -37,10 +37,10 @@ weight: 5
 ([10/30](13_deeplearning.pdf), [11/1](14_convolution.pdf))
 - **W10.** Backprop / Neural Network Training   
 ([11/6](15_backprop.pdf), [11/8](16_training_1.pdf))
-- **W11.** Neural Network Training / Seq-to-Seq Models  
+- **W11.** Neural Network Training / -  
 ([11/13](17_training_2.pdf), 11/15)
-- **W12.** Generative Models  
-(11/20, 11/22)
+- **W12.** Deep ConvNets / Generative Models  
+([11/20](18_cnns.pdf), 11/22)
 - **W13.** Vision Applications  
 (11/27, 11/29)
 - **W14.** Language Models  
