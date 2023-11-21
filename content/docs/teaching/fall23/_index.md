@@ -40,8 +40,8 @@ weight: 5
 - **W11.** Neural Network Training / -  
 ([11/13](17_training_2.pdf), 11/15)
 - **W12.** Deep ConvNets / Generative Models  
-([11/20](18_cnns.pdf), 11/22)
-- **W13.** Vision Applications  
+([11/20](18_cnns.pdf), [11/22](19_generative.pdf))
+- **W13.** Generative Models / Vision Applications  
 (11/27, 11/29)
 - **W14.** Language Models  
 (12/4, 12/6)
