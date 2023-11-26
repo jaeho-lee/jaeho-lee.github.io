@@ -41,8 +41,8 @@ weight: 5
 ([11/13](17_training_2.pdf), 11/15)
 - **W12.** Deep ConvNets / Generative Models  
 ([11/20](18_cnns.pdf), [11/22](19_generative.pdf))
-- **W13.** Generative Models / Vision Applications  
-(11/27, 11/29)
+- **W13.** Generative Models / Transformers  
+([11/27](20_generative_2.pdf), 11/29)
 - **W14.** Language Models  
 (12/4, 12/6)
 - **W15.** Multimodal Learning  
