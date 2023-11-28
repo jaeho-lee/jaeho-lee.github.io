@@ -41,7 +41,7 @@ weight: 5
 ([11/13](17_training_2.pdf), 11/15)
 - **W12.** Deep ConvNets / Generative Models  
 ([11/20](18_cnns.pdf), [11/22](19_generative.pdf))
-- **W13.** Generative Models / Transformers  
+- **W13.** Generative Models / Language Models  
 ([11/27](20_generative_2.pdf), [11/29](21_languagemodels.pdf))
 - **W14.** Language Models  
 (12/4, 12/6)
