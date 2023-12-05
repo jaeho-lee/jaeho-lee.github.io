@@ -44,7 +44,7 @@ weight: 5
 - **W13.** Generative Models / Language Models  
 ([11/27](20_generative_2.pdf), [11/29](21_languagemodels.pdf))
 - **W14.** Language Models / Multimodal Learning  
-([12/4](22_languagemodels2.pdf), 12/6)
+([12/4](22_languagemodels2.pdf), [12/6](23_multimodal.pdf))
 - **W15.** Model Compression 101 / Deep Learning Theory   
 (12/11, 12/13)
 - **W16.** Final Project Presentation  
