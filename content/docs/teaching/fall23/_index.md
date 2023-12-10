@@ -45,7 +45,7 @@ weight: 5
 ([11/27](20_generative_2.pdf), [11/29](21_languagemodels.pdf))
 - **W14.** Language Models / Multimodal Learning  
 ([12/4](22_languagemodels2.pdf), [12/6](23_multimodal.pdf))
-- **W15.** Model Compression 101 / Deep Learning Theory   
-(12/11, 12/13)
+- **W15.** Efficient ML / Deep Learning Theory   
+([12/11](24_efficientml.pdf), 12/13)
 - **W16.** Final Project Presentation  
 (12/18, 12/20)
