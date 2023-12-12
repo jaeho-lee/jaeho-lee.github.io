@@ -46,6 +46,6 @@ weight: 5
 - **W14.** Language Models / Multimodal Learning  
 ([12/4](22_languagemodels2.pdf), [12/6](23_multimodal.pdf))
 - **W15.** Efficient ML / Deep Learning Theory   
-([12/11](24_efficientml.pdf), 12/13)
+([12/11](24_efficientml.pdf), [12/13](25_mltheory.pdf))
 - **W16.** Final Project Presentation  
 (12/18, 12/20)
