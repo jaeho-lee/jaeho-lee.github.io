@@ -1,6 +1,6 @@
 ---
-title: "23F - Intro to ML Sys"
-weight: 5
+title: "23F - Intro to ML"
+weight: 6
 ---
 
 ## **EECE454: Introduction to ML Systems (Fall 2023)**

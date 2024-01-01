@@ -7,16 +7,16 @@
 firstname.lastname@postech.ac.kr TA. (forthcoming) Location &amp; Time # Class. (forthcoming) Office Hr. (forthcoming) What we&rsquo;ll cover (hopefully) # Deep Learning Basics Architectures and Counting FLOPs Hardware bits Making models smaller Quantization Pruning &amp; Sparsity Neural Architecture Search How to utilize the experience of other models Transfer Learning &amp; Distillation Meta-Learning &amp; Test-time Training Model Merging &amp; Stitching Hyperparameter Transfer Prompt Tuning Organizing Large-scale Learning Parallelism &amp; Pipelining Federated Learning Data Efficiency Data Compression Dataset Distillation &amp; Condensation / SeiT Tips &amp; Tricks for Large Transformers KV cache / FlashAttention / PagedAttention Speculative Decoding / Medusa Continuous Batching Schedule (tentative) # (forthcoming)">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:title" content="24S - (under construction)" />
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="24S - Efficient ML" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/spring24/" />
-<title>24S - (under construction) | Jaeho Lee</title>
+<title>24S - Efficient ML | Jaeho Lee</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
 <link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.8901fddb19151550a23a99f02cfaed81d3d4c8a4470d7f7f5f7ced69f7e8efd8.js" integrity="sha256-iQH92xkVFVCiOpnwLPrtgdPUyKRHDX9/X3ztaffo79g=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.c582933ac198b8033c9d9f8e56c5383c43021dbc3107555aefba11696f1bfae7.js" integrity="sha256-xYKTOsGYuAM8nZ&#43;OVsU4PEMCHbwxB1Va77oRaW8b&#43;uc=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/spring24/index.xml" title="Jaeho Lee" />
 <!--
 Made with Book Theme
@@ -121,7 +121,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/teaching/fall23/" class="">23F - Intro to ML Sys</a>
+    <a href="/docs/teaching/spring24/" class="active">24S - Efficient ML</a>
   
 
           
@@ -139,7 +139,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/teaching/spring24/" class="active">24S - (under construction)</a>
+    <a href="/docs/teaching/fall23/" class="">23F - Intro to ML</a>
   
 
           
@@ -204,7 +204,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>24S - (under construction)</strong>
+  <strong>24S - Efficient ML</strong>
 
   <label for="toc-control">
     
@@ -226,6 +226,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
         <li><a href="#what-well-cover-hopefully"><strong>What we&rsquo;ll cover (hopefully)</strong></a></li>
         <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+        <li><a href="#recommended-materials"><strong>Recommended Materials</strong></a></li>
       </ul>
     </li>
   </ul>
@@ -313,6 +314,39 @@ https://github.com/alex-shpak/hugo-book
   <a class="anchor" href="#schedule-tentative">#</a>
 </h3>
 <p>(forthcoming)</p>
+<h3 id="recommended-materials">
+  <strong>Recommended Materials</strong>
+  <a class="anchor" href="#recommended-materials">#</a>
+</h3>
+<ul>
+<li><strong>Blog Posts</strong>
+<ul>
+<li><a href="https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices?fbclid=IwAR38VwybKZYFZNEFmAviNojzwlI7jLNLt-mFBV8ecwoBen_DzJ0CP0LG_-w">LLM inference performance engineering</a> by Databricks</li>
+</ul>
+</li>
+<li><strong>Videos</strong>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=dKJEpOtVgXc">State-space models tutorial</a> by Sasha Rush</li>
+<li><a href="https://www.youtube.com/watch?v=HtrR1HRZIGA">Trends in deep learning hardware</a> by Bill Dally</li>
+</ul>
+</li>
+<li><strong>Related Courses</strong>
+<ul>
+<li><a href="https://github.com/mryab/efficient-dl-systems">Efficient deep learning systems</a> at HSE university and Yandex</li>
+<li><a href="https://mlc.ai/">Machine learning compilation</a> at CMU</li>
+<li><a href="https://hanlab.mit.edu/courses/2023-fall-65940">TinyML and efficient deep learning</a> at MIT</li>
+<li><a href="https://abdelfattah-class.github.io/ece5545/sp23">Machine learning hardware and systems</a> at Cornell</li>
+<li><a href="https://stanford-cs324.github.io/winter2023/">Advances in Foundation Models</a> at Stanford</li>
+</ul>
+</li>
+<li><strong>Books and surveys</strong>
+<ul>
+<li><a href="https://en.algorithmica.org/hpc/">Algorithms for modern hardware</a> by Sergey Slotin</li>
+<li><a href="https://efficientdlbook.com/">Efficient deep learning book</a> by Menghani and Singh</li>
+<li><a href="https://arxiv.org/abs/2210.06640">Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities</a> by Bartoldson et al.</li>
+</ul>
+</li>
+</ul>
 </article>
  
       
@@ -360,6 +394,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
         <li><a href="#what-well-cover-hopefully"><strong>What we&rsquo;ll cover (hopefully)</strong></a></li>
         <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+        <li><a href="#recommended-materials"><strong>Recommended Materials</strong></a></li>
       </ul>
     </li>
   </ul>
