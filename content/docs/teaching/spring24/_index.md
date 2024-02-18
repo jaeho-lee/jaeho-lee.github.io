@@ -8,38 +8,55 @@ weight: 5
 ### **Team**
 - **Instructor.** Jaeho Lee 이재호  
 [firstname.lastname@postech.ac.kr](mailto:jaeho.lee@postech.ac.kr)
-- **TA.** (forthcoming)  
+- **TA.** Hagyeong Lee 이하경  
+[firstnamelastname@postech.ac.kr](mailto:hagyeonglee@postech.ac.kr)  
 
 ### **Location & Time**
-- **Class.** (forthcoming)
-- **Office Hr.** (forthcoming)
+- **Class.** Mondays & Wednesdays, 11:00AM--12:15PM, PIAI 122.
+- **Office Hr.** Mondays 5:00PM--6:00PM, Eng. Building #407 (+ by appointment).
 
-### **What we'll cover (hopefully)**
-- **Deep Learning Basics**
-	- Architectures and Counting FLOPs
-	- Hardware bits
-- **Making models smaller**
-	- Quantization
-	- Pruning & Sparsity
-	- Neural Architecture Search
-- **How to utilize the experience of other models**
-	- Transfer Learning & Distillation
-	- Meta-Learning & Test-time Training
-	- Model Merging & Stitching
-	- Hyperparameter Transfer
-	- Prompt Tuning
-- **Organizing Large-scale Learning**
-	- Parallelism & Pipelining
-	- Federated Learning
-- **Data Efficiency**
-	- Data Compression
-	- Dataset Distillation & Condensation / SeiT
-- **Tips & Tricks for Large Transformers**
-	- KV cache / FlashAttention / PagedAttention
-	- Speculative Decoding / Medusa
-	- Continuous Batching
+
 ### **Schedule (tentative)**
-(forthcoming)
+- **W1. Deep Learning Recap** 
+	- (2/19) [Introduction to Efficient ML & Logistics](https://docs.google.com/presentation/d/1AguRlUZBHTOY3G3KSlHg5f1UO7nLMLsrLKPOJ3C2Dg0/edit?usp=sharing)
+	- (2/21) Bits and Bytes
+- **W2. Sparsity**
+	- (2/26, 2/28)
+- **W3. Quantization**
+	- (3/4, 3/6)
+- **W4. Special Lecture + Distillation**
+	- (~~3/11~~ -> 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota
+	- (3/13) Distillation
+- **W5. Neural Architecture Search**
+	- (3/18, 3/20)
+- **W6. Adaptation**
+	- (3/25) Continual Learning
+	- (3/27) Meta-Learning & Test-time Training
+- **W7. Parallelism**
+	- (4/1, 4/3)
+- **W8. (Mid-term week & Election Day)**
+	- (4/8, 4/10)
+- **W9. Model Merging & Editing**
+	- (4/15, 4/17)
+- **W10. Data Efficiency**
+	- (4/22) Dataset Compression
+	- (4/24) Data Compression
+- **W11. Topics on LLM - 1**
+	- (4/29) Transformers & LLM Basics
+	- (5/1) Efficient Attention
+- **W12. Topics on LLM - 2**
+	- (5/6) Parameter-Efficient Fine-Tuning
+	- (5/8) Quantization & Pruning
+- **W13. Topics on LLM - 3** 
+	- (5/13) Decoding & Batching Strategies
+	- ~~(5/15)~~ Buddha's Day
+- **W14. Topics on Diffusion Models**
+	- (5/20) Diffusion Model Basics
+	- (5/22) Acceleration & Tuning
+- **W15. Presentations Week - 1**
+	- (5/27, 5/29)
+- **W16. Presentations Week - 2**
+	- (6/3, 6/5)
 
 ### **Recommended Materials**
 - **Blog Posts**
