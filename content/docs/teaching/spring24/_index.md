@@ -19,7 +19,7 @@ weight: 5
 ### **Schedule (tentative)**
 - **W1. Deep Learning Recap** 
 	- (2/19) [Introduction to Efficient ML & Logistics](https://docs.google.com/presentation/d/1AguRlUZBHTOY3G3KSlHg5f1UO7nLMLsrLKPOJ3C2Dg0/edit?usp=sharing)
-	- (2/21) Bits and Bytes
+	- (2/21) [Computations of DL](https://docs.google.com/presentation/d/1PvA5nT8hUXTrwSf3X39DtQWIwMB57q2qTAfhYmdEFZI)
 - **W2. Sparsity**
 	- (2/26, 2/28)
 - **W3. Quantization**
