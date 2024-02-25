@@ -21,7 +21,8 @@ weight: 5
 	- (2/19) [Introduction to Efficient ML & Logistics](https://docs.google.com/presentation/d/1AguRlUZBHTOY3G3KSlHg5f1UO7nLMLsrLKPOJ3C2Dg0/edit?usp=sharing)
 	- (2/21) [Computations of DL](https://docs.google.com/presentation/d/1PvA5nT8hUXTrwSf3X39DtQWIwMB57q2qTAfhYmdEFZI)
 - **W2. Sparsity**
-	- (2/26, 2/28)
+	- (2/26) [Algorithmic aspects of pruning](https://docs.google.com/presentation/d/1l9bVqH2JEbeZJAkdWiUveNHPa9T7FleITWybaGs_KSU/edit?usp=sharing)
+	- (2/28) System aspects of pruning
 - **W3. Quantization**
 	- (3/4, 3/6)
 - **W4. Special Lecture + Distillation**
