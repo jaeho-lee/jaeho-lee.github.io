@@ -22,7 +22,7 @@ weight: 5
 	- (2/21) [Computations of DL](https://docs.google.com/presentation/d/1PvA5nT8hUXTrwSf3X39DtQWIwMB57q2qTAfhYmdEFZI)
 - **W2. Sparsity**
 	- (2/26) [Algorithmic aspects of pruning](https://docs.google.com/presentation/d/1l9bVqH2JEbeZJAkdWiUveNHPa9T7FleITWybaGs_KSU/edit?usp=sharing)
-	- (2/28) System aspects of pruning
+	- (2/28) [System aspects of pruning](https://docs.google.com/presentation/d/1gdYAYsyy7mrqIwQhLuQQ8RmsGfnfcNX-D7xxGGdNxAE/edit?usp=sharing)
 - **W3. Quantization**
 	- (3/4, 3/6)
 - **W4. Special Lecture + Distillation**
