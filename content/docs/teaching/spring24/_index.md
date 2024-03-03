@@ -23,10 +23,11 @@ weight: 5
 - **W2. Sparsity**
 	- (2/26) [Algorithmic aspects of pruning](https://docs.google.com/presentation/d/1l9bVqH2JEbeZJAkdWiUveNHPa9T7FleITWybaGs_KSU/edit?usp=sharing)
 	- (2/28) [System aspects of pruning](https://docs.google.com/presentation/d/1gdYAYsyy7mrqIwQhLuQQ8RmsGfnfcNX-D7xxGGdNxAE/edit?usp=sharing)
-- **W3. Quantization**
-	- (3/4, 3/6)
-- **W4. Special Lecture + Distillation**
-	- (~~3/11~~ -> 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota
+- **W3. Quantization + Special Lecture**
+	- (3/4) [Basic ideas of quantization](https://docs.google.com/presentation/d/1cUZ5eXRSdUwwE7IFP0ZB2n-mND3s8BpCfju6kEctRcI/edit?usp=sharing)
+	- (~~3/6~~ -> 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota
+- **W4. Quantization + Distillation**
+	- (3/11) PTQ and QAT
 	- (3/13) Distillation
 - **W5. Neural Architecture Search**
 	- (3/18, 3/20)
