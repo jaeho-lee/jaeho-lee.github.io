@@ -27,7 +27,7 @@ weight: 5
 	- (3/4) [Basic ideas of quantization](https://docs.google.com/presentation/d/1cUZ5eXRSdUwwE7IFP0ZB2n-mND3s8BpCfju6kEctRcI/edit?usp=sharing)
 	- (~~3/6~~ -> 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota
 - **W4. Quantization + Distillation**
-	- (3/11) PTQ and QAT
+	- (3/11) [PTQ and QAT](https://docs.google.com/presentation/d/1T55I6R7z0x1wjU2kVmTt4HORXOacu5N1lelF_7EFrN4/edit?usp=sharing)
 	- (3/13) Distillation
 - **W5. Neural Architecture Search**
 	- (3/18, 3/20)
