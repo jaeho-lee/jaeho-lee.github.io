@@ -28,7 +28,7 @@ weight: 5
 	- (~~3/6~~ -> 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota
 - **W4. Quantization + Distillation**
 	- (3/11) [PTQ and QAT](https://docs.google.com/presentation/d/1T55I6R7z0x1wjU2kVmTt4HORXOacu5N1lelF_7EFrN4/edit?usp=sharing)
-	- (3/13) Distillation
+	- (3/13) [Distillation](https://docs.google.com/presentation/d/1s_ckHKwxJdXYhpH6Hcx3ku5oY6a4W_EQ017x3zuwXNE/edit?usp=sharing)
 - **W5. Neural Architecture Search**
 	- (3/18, 3/20)
 - **W6. Adaptation**
