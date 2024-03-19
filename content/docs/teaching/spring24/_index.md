@@ -31,7 +31,7 @@ weight: 5
 	- (3/13) [Distillation](https://docs.google.com/presentation/d/1s_ckHKwxJdXYhpH6Hcx3ku5oY6a4W_EQ017x3zuwXNE/edit?usp=sharing)
 - **W5. Neural Architecture Search**
 	- (3/18) [Search Space, Search Strategy (pt 1)](https://docs.google.com/presentation/d/1btbe25uE4_S6grlsYjEpAjuTFk6yR7W-RhVg2uMLRo8/edit?usp=sharing)
-	- (3/18, 3/20)
+	- (3/20) [Search Strategy (pt 2), Performance Evaluation](https://docs.google.com/presentation/d/1UZUeh30bpszHAWYqR1x9T2f6AoxLBUxBIVCb4us8PwQ/edit?usp=sharing)
 - **W6. Adaptation**
 	- (3/25) Continual Learning
 	- (3/27) Meta-Learning & Test-time Training
