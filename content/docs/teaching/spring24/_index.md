@@ -33,7 +33,7 @@ weight: 5
 	- (3/18) [Search Space, Search Strategy (pt 1)](https://docs.google.com/presentation/d/1btbe25uE4_S6grlsYjEpAjuTFk6yR7W-RhVg2uMLRo8/edit?usp=sharing)
 	- (3/20) [Search Strategy (pt 2), Performance Evaluation](https://docs.google.com/presentation/d/1UZUeh30bpszHAWYqR1x9T2f6AoxLBUxBIVCb4us8PwQ/edit?usp=sharing)
 - **W6. Adaptation**
-	- (3/25) Continual Learning
+	- (3/25) [Continual Learning](https://docs.google.com/presentation/d/1Ao8_-vQGinhYr_38-xRdJT76kRKElyOz0vPOjv0JknA/edit?usp=sharing)
 	- (3/27) Meta-Learning & Test-time Training
 - **W7. Parallelism**
 	- (4/1, 4/3)
