@@ -34,7 +34,7 @@ weight: 5
 	- (3/20) [Search Strategy (pt 2), Performance Evaluation](https://docs.google.com/presentation/d/1UZUeh30bpszHAWYqR1x9T2f6AoxLBUxBIVCb4us8PwQ/edit?usp=sharing)
 - **W6. Adaptation**
 	- (3/25) [Continual Learning](https://docs.google.com/presentation/d/1Ao8_-vQGinhYr_38-xRdJT76kRKElyOz0vPOjv0JknA/edit?usp=sharing)
-	- (3/27) Meta-Learning & Test-time Training
+	- (3/27) [Meta-Learning & Test-time Training](https://docs.google.com/presentation/d/1zWbqx-wDDVHYC-IExCQs77XpthXvfGs_S09h_EjE94c/edit?usp=sharing)
 - **W7. Parallelism**
 	- (4/1, 4/3)
 - **W8. (Mid-term week & Election Day)**
