@@ -37,7 +37,7 @@ weight: 5
 	- (3/27) [Meta-Learning & Test-time Training](https://docs.google.com/presentation/d/1zWbqx-wDDVHYC-IExCQs77XpthXvfGs_S09h_EjE94c/edit?usp=sharing)
 - **W7. Parallelism**
 	- (4/1) [Data and Model Parallelism](https://docs.google.com/presentation/d/1KRawgbDPOv6xti5HoWUL3jwLIjNhGnll4s9yc5ZRbYY/edit?usp=sharing)
-	- (4/3) Advanced Topics
+	- (4/3) [Advanced Topics](https://docs.google.com/presentation/d/1-yUwgrGHYoHYwZa4CdET64tFHqznzPIEyC7azfkpkPE/edit?usp=sharing)
 - **W8. (Mid-term week & Election Day)**
 	- (4/8, 4/10)
 - **W9. Model Merging & Editing**
