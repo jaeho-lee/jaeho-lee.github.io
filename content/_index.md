@@ -4,13 +4,10 @@ type: docs
 bookToc: false
 ---
 
+I design algorithms and prove theorems for [Efficient ML](https://effl.postech.ac.kr).
 
-`I design algorithms and prove theorems.`
-
-I am an Assistant Professor at [POSTECH EE](https://ee.postech.ac.kr), where I lead [EffL Lab](https://effl.postech.ac.kr).  
+I work and teach at [POSTECH EE](https://ee.postech.ac.kr), where I lead [EffL Lab](https://effl.postech.ac.kr).  
 I also do research at [Google](https://research.google).
 
-I focus on **making ML efficient** through theories, algorithms, and systems.
 
-Contact: [firstname.lastname@school.ac.kr](mailto:jaeho.lee@postech.ac.kr)
-
+mailto: [✉️](mailto:jaeho.lee@postech.ac.kr)
