@@ -1,5 +1,5 @@
 ---
-title: "﹖ Misc."
+title: "Misc."
 weight: 99
 ---
 

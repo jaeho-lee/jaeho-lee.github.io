@@ -1,5 +1,5 @@
 ---
-title: "🧑‍💻 Employment"
+title: "Employment"
 weight: 2
 bookToc: false
 ---

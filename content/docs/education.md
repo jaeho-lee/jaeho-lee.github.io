@@ -1,5 +1,5 @@
 ---
-title: "🎓 Education"
+title: "Education"
 weight: 3
 booktoc: false
 ---
