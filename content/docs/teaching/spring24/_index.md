@@ -44,7 +44,7 @@ weight: 5
 	- (4/15) [Model Merging](https://docs.google.com/presentation/d/1DVAeuG9WM2Rd4MSkHhUo1uM6qKkI0CswUsz6siF7PGA/edit?usp=sharing)
 	- (4/17) [Model Editing](https://docs.google.com/presentation/d/1FX4iyTLCaAr2e5Pyq0wCbTNjwxuP4gE1Ieg-NfTZjbI/edit?usp=sharing)
 - **W10. Data Efficiency**
-	- (4/22) Dataset Compression
+	- (4/22) [Dataset Compression](https://docs.google.com/presentation/d/1yqNnR8GoPzuI6vBrt4uEhNNuIqG7ohvJ-9jZ3L8tgJ8/edit?usp=sharing)
 	- (4/24) Data Compression
 - **W11. Topics on LLM - 1**
 	- (4/29) Transformers & LLM Basics
