@@ -47,7 +47,7 @@ weight: 5
 	- (4/22) [Dataset Compression](https://docs.google.com/presentation/d/1yqNnR8GoPzuI6vBrt4uEhNNuIqG7ohvJ-9jZ3L8tgJ8/edit?usp=sharing)
 	- (4/24) [Data Compression](https://docs.google.com/presentation/d/1vq-6IyBB38DTJksFWVCLJ9Vg9m1okzpZ6zKWPhHDD8E/edit?usp=sharing)
 - **W11. Topics on LLM - 1**
-	- (4/29) Transformers & LLM Basics
+	- (4/29) [Transformers & LLM Basics](https://docs.google.com/presentation/d/1jtBg0WkL7jb4icgULRNo62Fq07GIQbQ2U4O2psDP2SY/edit?usp=sharing)
 	- (5/1) Efficient Attention
 - **W12. Topics on LLM - 2**
 	- (5/6) Parameter-Efficient Fine-Tuning
