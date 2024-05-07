@@ -48,10 +48,10 @@ weight: 5
 	- (4/24) [Data Compression](https://docs.google.com/presentation/d/1vq-6IyBB38DTJksFWVCLJ9Vg9m1okzpZ6zKWPhHDD8E/edit?usp=sharing)
 - **W11. Topics on LLM - 1**
 	- (4/29) [Transformers & LLM Basics](https://docs.google.com/presentation/d/1jtBg0WkL7jb4icgULRNo62Fq07GIQbQ2U4O2psDP2SY/edit?usp=sharing)
-	- (5/1) Efficient Attention
+	- (5/1) ~~Efficient Attention~~
 - **W12. Topics on LLM - 2**
-	- (5/6) Parameter-Efficient Fine-Tuning
-	- (5/8) Quantization & Pruning
+	- (5/6) ~~Parameter-Efficient Fine-Tuning~~
+	- (5/8) [Parameter-Efficient Fine-Tuning](https://docs.google.com/presentation/d/1eNPv2RT3nH3v7x7e4GSK-zGCD9DEuzONDuzHgTEB94k/edit?usp=sharing)
 - **W13. Topics on LLM - 3** 
 	- (5/13) Decoding & Batching Strategies
 	- ~~(5/15)~~ Buddha's Day
