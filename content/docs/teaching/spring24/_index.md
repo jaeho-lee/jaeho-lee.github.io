@@ -53,7 +53,7 @@ weight: 5
 	- (5/6) ~~Parameter-Efficient Fine-Tuning~~
 	- (5/8) [Parameter-Efficient Fine-Tuning](https://docs.google.com/presentation/d/1eNPv2RT3nH3v7x7e4GSK-zGCD9DEuzONDuzHgTEB94k/edit?usp=sharing)
 - **W13. Topics on LLM - 3** 
-	- (5/13) [Decoding & Batching Strategies](https://docs.google.com/presentation/d/16S9XYPOmDOBkYLPbCR2LNJRUZBSVXpb0eDOPPauF5ho/edit?usp=sharing)
+	- (5/13) [Decoding Strategies](https://docs.google.com/presentation/d/16S9XYPOmDOBkYLPbCR2LNJRUZBSVXpb0eDOPPauF5ho/edit?usp=sharing)
 	- ~~(5/15)~~ Buddha's Day
 - **W14. Topics on Diffusion Models**
 	- (5/20) Diffusion Model Basics
