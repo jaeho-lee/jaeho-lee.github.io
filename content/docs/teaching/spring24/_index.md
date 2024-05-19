@@ -56,7 +56,7 @@ weight: 5
 	- (5/13) [Decoding Strategies](https://docs.google.com/presentation/d/16S9XYPOmDOBkYLPbCR2LNJRUZBSVXpb0eDOPPauF5ho/edit?usp=sharing)
 	- ~~(5/15)~~ Buddha's Day
 - **W14. Topics on Diffusion Models**
-	- (5/20) Diffusion Model Basics
+	- (5/20) [LLM Compression](https://docs.google.com/presentation/d/1oHzr3A2VzskzYoj2jthpu6dZuBLgXF1IpaOgZPppmts/edit?usp=sharing)
 	- (5/22) Acceleration & Tuning
 - **W15. Presentations Week - 1**
 	- (5/27, 5/29)
