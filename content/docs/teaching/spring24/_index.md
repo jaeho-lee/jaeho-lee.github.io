@@ -57,7 +57,7 @@ weight: 5
 	- ~~(5/15)~~ Buddha's Day
 - **W14. Topics on Diffusion Models**
 	- (5/20) [LLM Compression](https://docs.google.com/presentation/d/1oHzr3A2VzskzYoj2jthpu6dZuBLgXF1IpaOgZPppmts/edit?usp=sharing)
-	- (5/22) Acceleration & Tuning
+	- (5/22) [Topics in long sequence handling](https://docs.google.com/presentation/d/1tbGslYwR1Em5p16P7_8YZKyuTPKdDdDkrmy011tbSWw/edit?usp=sharing)
 - **W15. Presentations Week - 1**
 	- (5/27, 5/29)
 - **W16. Presentations Week - 2**
