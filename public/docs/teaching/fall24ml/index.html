@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="EECE454: Intro to ML Systems (Fall 2024) # Team # Instructor. Jaeho Lee 이재호 ✉️ TA. Minjae Park 박민재 ✉️ Location &amp; Time # Class. Mondays/Wednesdays, 09:30&ndash;11:00 @ Eng Bldg 3, Room 115 Office Hr. Wednesdays, 17:00&ndash;18:00 @ Eng Bldg 2, Room 323 Schedule (tentative) # W1. Introduction / Basic Linear Algebra
+(9/2, 9/4) W2. Basic Probability / Simple Models
+(9/9, 9/11) W3. Simple Models / Support Vector Machines">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="23F - Intro to ML" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall24ml/" />
+<title>23F - Intro to ML | Jaeho Lee</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.e1753fc57a7c8917d3ab56c188a22f6a498fe176f9548bfccf3b3412a0e7f3fd.js" integrity="sha256-4XU/xXp8iRfTq1bBiKIvakmP4Xb5VIv8zzs0EqDn8/0=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/fall24ml/index.xml" title="Jaeho Lee" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Jaeho Lee</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/research/" class="">Research</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/" class="">Teaching</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall24ml/" class="active">23F - Intro to ML</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall24dlt/" class="">24F - DL Theory</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/spring24effml/" class="">24S - Efficient ML</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall23ml/" class="">23F - Intro to ML</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/me/" class="">About me</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>23F - Intro to ML</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece454-intro-to-ml-systems-fall-2024"><strong>EECE454: Intro to ML Systems (Fall 2024)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h2 id="eece454-intro-to-ml-systems-fall-2024">
+  <strong>EECE454: Intro to ML Systems (Fall 2024)</strong>
+  <a class="anchor" href="#eece454-intro-to-ml-systems-fall-2024">#</a>
+</h2>
+<h3 id="team">
+  <strong>Team</strong>
+  <a class="anchor" href="#team">#</a>
+</h3>
+<ul>
+<li><strong>Instructor.</strong> Jaeho Lee 이재호 <a href="mailto:jaeho.lee@postech.ac.kr">✉️</a></li>
+<li><strong>TA.</strong> Minjae Park 박민재 <a href="mailto:mjae.park@postech.ac.kr">✉️</a></li>
+</ul>
+<h3 id="location--time">
+  <strong>Location &amp; Time</strong>
+  <a class="anchor" href="#location--time">#</a>
+</h3>
+<ul>
+<li><strong>Class.</strong> Mondays/Wednesdays, 09:30&ndash;11:00 @ Eng Bldg 3, Room 115</li>
+<li><strong>Office Hr.</strong> Wednesdays, 17:00&ndash;18:00 @ Eng Bldg 2, Room 323</li>
+</ul>
+<h3 id="schedule-tentative">
+  <strong>Schedule (tentative)</strong>
+  <a class="anchor" href="#schedule-tentative">#</a>
+</h3>
+<ul>
+<li><strong>W1.</strong> Introduction / Basic Linear Algebra<br>
+(9/2, 9/4)</li>
+<li><strong>W2.</strong> Basic Probability / Simple Models<br>
+(9/9, 9/11)</li>
+<li><strong>W3.</strong> Simple Models / Support Vector Machines<br>
+(9/16, 9/18)</li>
+<li><strong>W4.</strong> Kernel SVM / K-Means Clustering<br>
+(9/23, 9/25)</li>
+<li><strong>W5.</strong> Gaussian Mixture Models<br>
+(9/30, 10/2)</li>
+<li><strong>W6.</strong> Decision Tree<br>
+(10/7, 10/9)</li>
+<li><strong>W7.</strong> Dimensionality Reduction<br>
+(10/14, 10/16)</li>
+<li><strong>W8.</strong> Mid-Term<br>
+(10/21, 10/23)</li>
+<li><strong>W9.</strong> Deep Learning Basics / Convolutional Networks<br>
+(10/28, 10/30)</li>
+<li><strong>W10.</strong> Backprop / Neural Network Training<br>
+(11/4, 11/6)</li>
+<li><strong>W11.</strong> Neural Network Training<br>
+(11/11, 11/13)</li>
+<li><strong>W12.</strong> Deep ConvNets / Generative Models<br>
+(11/18, 11/20)</li>
+<li><strong>W13.</strong> Generative Models / Language Models<br>
+(11/25, 11/27)</li>
+<li><strong>W14.</strong> Language Models / Multimodal Learning<br>
+(12/2, 12/4)</li>
+<li><strong>W15.</strong> Efficient ML / Deep Learning Theory<br>
+(12/9, 12/11)</li>
+<li><strong>W16.</strong> Final Project Presentation<br>
+(12/16, 12/18)</li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece454-intro-to-ml-systems-fall-2024"><strong>EECE454: Intro to ML Systems (Fall 2024)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
