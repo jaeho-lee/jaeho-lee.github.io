@@ -3,21 +3,23 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="EECE695D: Deep Learning Theory (Spring 2024) # Team # Instructor. Jaeho Lee 이재호
-firstname.lastname@postech.ac.kr TA. Hagyeong Lee 이하경
-firstnamelastname@postech.ac.kr Location &amp; Time # Class. Mondays &amp; Wednesdays, 11:00AM&ndash;12:15PM, PIAI 122. Office Hr. Mondays 5:00PM&ndash;6:00PM, Eng. Building #407 (&#43; by appointment). Schedule (tentative) # W1. Deep Learning Recap (2/19) Introduction to Efficient ML &amp; Logistics (2/21) Computations of DL W2. Sparsity (2/26) Algorithmic aspects of pruning (2/28) System aspects of pruning W3.">
+<meta name="description" content="EECE695D: Deep Learning Theory (Spring 2024) # This semester, this course is:
+(1) jointly served at POSTECH and Yonsei
+(2) an online course
+(3) taught in Korean
+Team # Instructor @ P. Jaeho Lee 이재호 ✉️ Instructor @ Y. Jy-yong Sohn 손지용 ✉️ TA @ P. Kyumin Kim 김규민 ✉️ TA @ Y. Chungpa Lee 이청파 ✉️ Contributor. Taesun Yeom 염태선 ✉️ Location &amp; Time # Class. Online at PLMS🔗 or LearnUs🔗.">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:title" content="24F - Deep Learning Theory" />
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="24F - DL Theory" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall24dlt/" />
-<title>24F - Deep Learning Theory | Jaeho Lee</title>
+<title>24F - DL Theory | Jaeho Lee</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
 <link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.b43ffce159d94d60387c29d960b6b2b208b7197849ef6d537190d43a6df818b2.js" integrity="sha256-tD/84VnZTWA4fCnZYLaysgi3GXhJ721TcZDUOm34GLI=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.d76ef79798f50f761bfa14f58afba35a4de4ad3608d3f079e24d7e32c0f63e40.js" integrity="sha256-1273l5j1D3Yb&#43;hT1ivujWk3krTYI0/B54k1&#43;MsD2PkA=" crossorigin="anonymous"></script>
 <link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/fall24dlt/index.xml" title="Jaeho Lee" />
 <!--
 Made with Book Theme
@@ -96,7 +98,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/teaching/fall24dlt/" class="active">24F - Deep Learning Theory</a>
+    <a href="/docs/teaching/fall24dlt/" class="active">24F - DL Theory</a>
   
 
           
@@ -197,7 +199,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>24F - Deep Learning Theory</strong>
+  <strong>24F - DL Theory</strong>
 
   <label for="toc-control">
     
@@ -218,7 +220,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#team"><strong>Team</strong></a></li>
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
         <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
-        <li><a href="#recommended-materials"><strong>Recommended Materials</strong></a></li>
+        <li><a href="#further-readings"><strong>Further Readings</strong></a></li>
       </ul>
     </li>
   </ul>
@@ -237,155 +239,67 @@ https://github.com/alex-shpak/hugo-book
   <strong>EECE695D: Deep Learning Theory (Spring 2024)</strong>
   <a class="anchor" href="#eece695d-deep-learning-theory-spring-2024">#</a>
 </h2>
+<p><span style="color:#808080"><em>This semester, this course is:</em></span><br>
+<span style="color:#808080"><em>(1) jointly served at POSTECH and Yonsei</em></span><br>
+<span style="color:#808080"><em>(2) an online course</em></span><br>
+<span style="color:#808080"><em>(3) taught in Korean</em></span></p>
 <h3 id="team">
   <strong>Team</strong>
   <a class="anchor" href="#team">#</a>
 </h3>
 <ul>
-<li><strong>Instructor.</strong> Jaeho Lee 이재호<br>
-<a href="mailto:jaeho.lee@postech.ac.kr">firstname.lastname@postech.ac.kr</a></li>
-<li><strong>TA.</strong> Hagyeong Lee 이하경<br>
-<a href="mailto:hagyeonglee@postech.ac.kr">firstnamelastname@postech.ac.kr</a></li>
+<li><span style="color:#C80150"><strong>Instructor @ P.</strong></span> Jaeho Lee 이재호  <a href="mailto:jaeho.lee@postech.ac.kr">✉️</a></li>
+<li><span style="color:#1766FF"><strong>Instructor @ Y.</strong></span> Jy-yong Sohn 손지용  <a href="mailto:jysohn1108@yonsei.ac.kr">✉️</a></li>
+<li><span style="color:#C80150"><strong>TA @ P.</strong></span> Kyumin Kim 김규민  <a href="mailto:kyuminkim@postech.ac.kr">✉️</a></li>
+<li><span style="color:#1766FF"><strong>TA @ Y.</strong></span> Chungpa Lee 이청파  <a href="mailto:leechungpa@gmail.com">✉️</a></li>
+<li><strong>Contributor.</strong> Taesun Yeom 염태선  <a href="mailto:tsyeom@postech.ac.kr">✉️</a></li>
 </ul>
 <h3 id="location--time">
   <strong>Location &amp; Time</strong>
   <a class="anchor" href="#location--time">#</a>
 </h3>
 <ul>
-<li><strong>Class.</strong> Mondays &amp; Wednesdays, 11:00AM&ndash;12:15PM, PIAI 122.</li>
-<li><strong>Office Hr.</strong> Mondays 5:00PM&ndash;6:00PM, Eng. Building #407 (+ by appointment).</li>
+<li><strong>Class.</strong> Online at <span style="color:#C80150"><strong>PLMS</strong></span><a href="https://plms.postech.ac.kr/">🔗</a> or <span style="color:#1766FF"><strong>LearnUs</strong></span><a href="https://ys.learnus.org/">🔗</a>.
+<ul>
+<li>Uploaded by 11:59PM on Wednesdays.</li>
+</ul>
+</li>
+<li><strong>Office hrs.</strong> Use this sessions for Q&amp;A.
+<ul>
+<li><span style="color:#C80150"><strong>@P</strong>.</span> Mondays 2PM&ndash;4PM, Eng. Building#2 #323 (+ by appointment)</li>
+<li><span style="color:#1766FF"><strong>@Y</strong>.</span> Mondays 1PM&ndash;3PM, (TBD)</li>
+</ul>
+</li>
 </ul>
 <h3 id="schedule-tentative">
   <strong>Schedule (tentative)</strong>
   <a class="anchor" href="#schedule-tentative">#</a>
 </h3>
 <ul>
-<li><strong>W1. Deep Learning Recap</strong>
-<ul>
-<li>(2/19) <a href="https://docs.google.com/presentation/d/1AguRlUZBHTOY3G3KSlHg5f1UO7nLMLsrLKPOJ3C2Dg0/edit?usp=sharing">Introduction to Efficient ML &amp; Logistics</a></li>
-<li>(2/21) <a href="https://docs.google.com/presentation/d/1PvA5nT8hUXTrwSf3X39DtQWIwMB57q2qTAfhYmdEFZI">Computations of DL</a></li>
+<li><span style="color:#C80150"><strong>W1.</strong></span> Overview, recap, and linear models</li>
+<li><span style="color:#C80150"><strong>W2.</strong></span> Approx: Universal approximation with shallow nets</li>
+<li><span style="color:#C80150"><strong>W3.</strong></span> Approx: Infinite-width and kernels</li>
+<li><span style="color:#C80150"><strong>W4.</strong></span> Approx: Benefits of depth</li>
+<li><span style="color:#C80150"><strong>W5.</strong></span> Optim: Convex optimization and generalizations</li>
+<li><span style="color:#C80150"><strong>W6.</strong></span> Optim: SGD and flow-based analyses</li>
+<li><span style="color:#C80150"><strong>W7.</strong></span> Optim: Implicit bias</li>
+<li><span style="color:#1766FF"><strong>W8.</strong></span> Gen: Concentration of measures, uniform convergence</li>
+<li><span style="color:#1766FF"><strong>W9.</strong></span> Gen: Rademacher complexities, covering numbers</li>
+<li><span style="color:#1766FF"><strong>W10.</strong></span> Gen: Chaining and VC dimensions</li>
+<li><span style="color:#1766FF"><strong>W11.</strong></span> Recent: Generalization</li>
+<li><span style="color:#1766FF"><strong>W12.</strong></span> Recent: Approximation</li>
+<li><span style="color:#1766FF"><strong>W13.</strong></span> Recent: Optimization</li>
+<li><span style="color:#1766FF"><strong>W14.</strong></span> Recent: Architectures</li>
+<li><strong>W15.</strong> Student Presentations - 1</li>
+<li><strong>W16.</strong> Student Presentations - 2</li>
 </ul>
-</li>
-<li><strong>W2. Sparsity</strong>
-<ul>
-<li>(2/26) <a href="https://docs.google.com/presentation/d/1l9bVqH2JEbeZJAkdWiUveNHPa9T7FleITWybaGs_KSU/edit?usp=sharing">Algorithmic aspects of pruning</a></li>
-<li>(2/28) <a href="https://docs.google.com/presentation/d/1gdYAYsyy7mrqIwQhLuQQ8RmsGfnfcNX-D7xxGGdNxAE/edit?usp=sharing">System aspects of pruning</a></li>
-</ul>
-</li>
-<li><strong>W3. Quantization + Special Lecture</strong>
-<ul>
-<li>(3/4) <a href="https://docs.google.com/presentation/d/1cUZ5eXRSdUwwE7IFP0ZB2n-mND3s8BpCfju6kEctRcI/edit?usp=sharing">Basic ideas of quantization</a></li>
-<li>(<del>3/6</del> -&gt; 3/8, Fri) Special Lecture by Tae-ho Kim @ Nota</li>
-</ul>
-</li>
-<li><strong>W4. Quantization + Distillation</strong>
-<ul>
-<li>(3/11) <a href="https://docs.google.com/presentation/d/1T55I6R7z0x1wjU2kVmTt4HORXOacu5N1lelF_7EFrN4/edit?usp=sharing">PTQ and QAT</a></li>
-<li>(3/13) <a href="https://docs.google.com/presentation/d/1s_ckHKwxJdXYhpH6Hcx3ku5oY6a4W_EQ017x3zuwXNE/edit?usp=sharing">Distillation</a></li>
-</ul>
-</li>
-<li><strong>W5. Neural Architecture Search</strong>
-<ul>
-<li>(3/18) <a href="https://docs.google.com/presentation/d/1btbe25uE4_S6grlsYjEpAjuTFk6yR7W-RhVg2uMLRo8/edit?usp=sharing">Search Space, Search Strategy (pt 1)</a></li>
-<li>(3/20) <a href="https://docs.google.com/presentation/d/1UZUeh30bpszHAWYqR1x9T2f6AoxLBUxBIVCb4us8PwQ/edit?usp=sharing">Search Strategy (pt 2), Performance Evaluation</a></li>
-</ul>
-</li>
-<li><strong>W6. Adaptation</strong>
-<ul>
-<li>(3/25) <a href="https://docs.google.com/presentation/d/1Ao8_-vQGinhYr_38-xRdJT76kRKElyOz0vPOjv0JknA/edit?usp=sharing">Continual Learning</a></li>
-<li>(3/27) <a href="https://docs.google.com/presentation/d/1zWbqx-wDDVHYC-IExCQs77XpthXvfGs_S09h_EjE94c/edit?usp=sharing">Meta-Learning &amp; Test-time Training</a></li>
-</ul>
-</li>
-<li><strong>W7. Parallelism</strong>
-<ul>
-<li>(4/1) <a href="https://docs.google.com/presentation/d/1KRawgbDPOv6xti5HoWUL3jwLIjNhGnll4s9yc5ZRbYY/edit?usp=sharing">Data and Model Parallelism</a></li>
-<li>(4/3) <a href="https://docs.google.com/presentation/d/1-yUwgrGHYoHYwZa4CdET64tFHqznzPIEyC7azfkpkPE/edit?usp=sharing">Advanced Topics</a></li>
-</ul>
-</li>
-<li><strong>W8. (Mid-term week &amp; Election Day)</strong>
-<ul>
-<li>(4/8, 4/10)</li>
-</ul>
-</li>
-<li><strong>W9. Model Merging &amp; Editing</strong>
-<ul>
-<li>(4/15) <a href="https://docs.google.com/presentation/d/1DVAeuG9WM2Rd4MSkHhUo1uM6qKkI0CswUsz6siF7PGA/edit?usp=sharing">Model Merging</a></li>
-<li>(4/17) <a href="https://docs.google.com/presentation/d/1FX4iyTLCaAr2e5Pyq0wCbTNjwxuP4gE1Ieg-NfTZjbI/edit?usp=sharing">Model Editing</a></li>
-</ul>
-</li>
-<li><strong>W10. Data Efficiency</strong>
-<ul>
-<li>(4/22) <a href="https://docs.google.com/presentation/d/1yqNnR8GoPzuI6vBrt4uEhNNuIqG7ohvJ-9jZ3L8tgJ8/edit?usp=sharing">Dataset Compression</a></li>
-<li>(4/24) <a href="https://docs.google.com/presentation/d/1vq-6IyBB38DTJksFWVCLJ9Vg9m1okzpZ6zKWPhHDD8E/edit?usp=sharing">Data Compression</a></li>
-</ul>
-</li>
-<li><strong>W11. Topics on LLM - 1</strong>
-<ul>
-<li>(4/29) <a href="https://docs.google.com/presentation/d/1jtBg0WkL7jb4icgULRNo62Fq07GIQbQ2U4O2psDP2SY/edit?usp=sharing">Transformers &amp; LLM Basics</a></li>
-<li>(5/1) <del>Efficient Attention</del></li>
-</ul>
-</li>
-<li><strong>W12. Topics on LLM - 2</strong>
-<ul>
-<li>(5/6) <del>Parameter-Efficient Fine-Tuning</del></li>
-<li>(5/8) <a href="https://docs.google.com/presentation/d/1eNPv2RT3nH3v7x7e4GSK-zGCD9DEuzONDuzHgTEB94k/edit?usp=sharing">Parameter-Efficient Fine-Tuning</a></li>
-</ul>
-</li>
-<li><strong>W13. Topics on LLM - 3</strong>
-<ul>
-<li>(5/13) <a href="https://docs.google.com/presentation/d/16S9XYPOmDOBkYLPbCR2LNJRUZBSVXpb0eDOPPauF5ho/edit?usp=sharing">Decoding Strategies</a></li>
-<li><del>(5/15)</del> Buddha&rsquo;s Day</li>
-</ul>
-</li>
-<li><strong>W14. Topics on Diffusion Models</strong>
-<ul>
-<li>(5/20) <a href="https://docs.google.com/presentation/d/1oHzr3A2VzskzYoj2jthpu6dZuBLgXF1IpaOgZPppmts/edit?usp=sharing">LLM Compression</a></li>
-<li>(5/22) <a href="https://docs.google.com/presentation/d/1tbGslYwR1Em5p16P7_8YZKyuTPKdDdDkrmy011tbSWw/edit?usp=sharing">Topics in long sequence handling</a></li>
-</ul>
-</li>
-<li><strong>W15. Presentations Week - 1</strong>
-<ul>
-<li>(5/27, 5/29)</li>
-</ul>
-</li>
-<li><strong>W16. Presentations Week - 2</strong>
-<ul>
-<li>(6/3, 6/5)</li>
-</ul>
-</li>
-</ul>
-<h3 id="recommended-materials">
-  <strong>Recommended Materials</strong>
-  <a class="anchor" href="#recommended-materials">#</a>
+<h3 id="further-readings">
+  <strong>Further Readings</strong>
+  <a class="anchor" href="#further-readings">#</a>
 </h3>
 <ul>
-<li><strong>Blog Posts</strong>
-<ul>
-<li><a href="https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices?fbclid=IwAR38VwybKZYFZNEFmAviNojzwlI7jLNLt-mFBV8ecwoBen_DzJ0CP0LG_-w">LLM inference performance engineering</a> by Databricks</li>
-</ul>
-</li>
-<li><strong>Videos</strong>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=dKJEpOtVgXc">State-space models tutorial</a> by Sasha Rush</li>
-<li><a href="https://www.youtube.com/watch?v=HtrR1HRZIGA">Trends in deep learning hardware</a> by Bill Dally</li>
-</ul>
-</li>
-<li><strong>Related Courses</strong>
-<ul>
-<li><a href="https://github.com/mryab/efficient-dl-systems">Efficient deep learning systems</a> at HSE university and Yandex</li>
-<li><a href="https://mlc.ai/">Machine learning compilation</a> at CMU</li>
-<li><a href="https://hanlab.mit.edu/courses/2023-fall-65940">TinyML and efficient deep learning</a> at MIT</li>
-<li><a href="https://abdelfattah-class.github.io/ece5545/sp23">Machine learning hardware and systems</a> at Cornell</li>
-<li><a href="https://stanford-cs324.github.io/winter2023/">Advances in Foundation Models</a> at Stanford</li>
-</ul>
-</li>
-<li><strong>Books and surveys</strong>
-<ul>
-<li><a href="https://en.algorithmica.org/hpc/">Algorithms for modern hardware</a> by Sergey Slotin</li>
-<li><a href="https://efficientdlbook.com/">Efficient deep learning book</a> by Menghani and Singh</li>
-<li><a href="https://arxiv.org/abs/2210.06640">Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities</a> by Bartoldson et al.</li>
-</ul>
-</li>
+<li>Francis Bach, <a href="https://mitpress.mit.edu/9780262049443/learning-theory-from-first-principles/">Learning Theory from First Principles</a></li>
+<li>Shalev-Shwartz and Ben-David, <a href="https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6">Understanding Machine Learning: From Theory to Algorithms</a></li>
 </ul>
 </article>
  
@@ -433,7 +347,7 @@ https://github.com/alex-shpak/hugo-book
         <li><a href="#team"><strong>Team</strong></a></li>
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
         <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
-        <li><a href="#recommended-materials"><strong>Recommended Materials</strong></a></li>
+        <li><a href="#further-readings"><strong>Further Readings</strong></a></li>
       </ul>
     </li>
   </ul>
