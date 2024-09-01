@@ -23,8 +23,8 @@ weight: 4.9
 - **Class.** Online at {{<color "#C80150" "**PLMS**">}}[🔗](https://plms.postech.ac.kr/) or {{<color "#1766FF" "**LearnUs**">}}[🔗](https://ys.learnus.org/).
 	- Uploaded by 11:59PM on Wednesdays.
 - **Office hrs.** Use this sessions for Q&A.
-    - {{<color "#C80150" "**@P**.">}} Mondays 2PM--4PM, Eng. Building#2 #323 (+ by appointment)
-    - {{<color "#1766FF" "**@Y**.">}} Mondays 1PM--3PM, (TBD)
+    - {{<color "#C80150" "**@P**.">}} Wednesdays 2PM--4PM, Eng. Building#2 #323 (+ by appointment)
+    - {{<color "#1766FF" "**@Y**.">}} Mondays 1PM--3PM, Daewoo Hall #534
 
 
 ### **Schedule (tentative)**
@@ -46,5 +46,4 @@ weight: 4.9
 - **W16.** Student Presentations - 2
 
 ### **Further Readings**
-- Francis Bach, [Learning Theory from First Principles](https://mitpress.mit.edu/9780262049443/learning-theory-from-first-principles/)
 - Shalev-Shwartz and Ben-David, [Understanding Machine Learning: From Theory to Algorithms](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6)
