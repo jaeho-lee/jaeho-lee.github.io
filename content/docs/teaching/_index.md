@@ -4,8 +4,10 @@ weight: 4
 bookToc: false
 ---
 
+
+
 ### **2023 Fall**
-EECE454 Introduction to Machine Learning Systems
+EECE454 [Introduction to Machine Learning Systems](/docs/teaching/fall23ml)
 
 ### **2023 Spring**
 EECE695D Deep Learning Theory ([comments from students](/docs/teaching/comments/_dlt_2023))  

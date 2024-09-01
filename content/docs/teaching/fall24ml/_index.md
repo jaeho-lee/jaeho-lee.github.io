@@ -11,7 +11,7 @@ weight: 4.8
 
 ### **Location & Time**
 - **Class.** Mondays/Wednesdays, 09:30--11:00 @ Eng Bldg 3, Room 115
-- **Office Hr.** Wednesdays, 17:00--18:00 @ Eng Bldg 2, Room 323
+- **Office Hr.** Wednesdays, 16:00--17:00 @ Eng Bldg 2, Room 323
 
 
 ### **Schedule (tentative)**
