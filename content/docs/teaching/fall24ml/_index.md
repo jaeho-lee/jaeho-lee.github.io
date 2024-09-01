@@ -16,7 +16,7 @@ weight: 4.8
 
 ### **Schedule (tentative)**
 - **W1.** Introduction / Basic Linear Algebra  
-(9/2, 9/4)
+([9/2](lec/L1.pdf), 9/4)
 - **W2.** Basic Probability / Simple Models  
 (9/9, 9/11)  
 - **W3.** Simple Models / Support Vector Machines  
