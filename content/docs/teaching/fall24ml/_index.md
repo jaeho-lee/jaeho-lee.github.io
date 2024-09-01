@@ -1,5 +1,5 @@
 ---
-title: "23F - Intro to ML"
+title: "24F - Intro to ML"
 weight: 4.8
 ---
 
