@@ -18,7 +18,7 @@ weight: 4.8
 - **W1.** Introduction / Basic Linear Algebra  
 ([9/2](lec/L1.pdf), [9/4](lec/L2.pdf))
 - **W2.** Basic Probability / Simple Models  
-([9/9](lec/L3.pdf), 9/11)  
+([9/9](lec/L3.pdf), [9/11](lec/L4.pdf))  
 - **W3.** Simple Models / Support Vector Machines  
 (9/16, 9/18)  
 - **W4.** Kernel SVM / K-Means Clustering  
