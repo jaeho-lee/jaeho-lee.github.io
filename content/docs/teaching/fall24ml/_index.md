@@ -17,18 +17,20 @@ weight: 4.8
 ### **Schedule (tentative)**
 - **W1.** Introduction / Basic Linear Algebra  
 ([9/2](lec/L1.pdf), [9/4](lec/L2.pdf))
-- **W2.** Basic Probability / Simple Models  
+- **W2.** Basic Probability / Supervised Learning and Linear Regression  
 ([9/9](lec/L3.pdf), [9/11](lec/L4.pdf))  
-- **W3.** Simple Models / Support Vector Machines  
+- **W3.** Chuseok holidays  
 (9/16, 9/18)  
-- **W4.** Kernel SVM / K-Means Clustering  
-(9/23, 9/25)
-- **W5.** Gaussian Mixture Models  
+- **W4.** Simple Classifiers / Support Vector Machines  
+([9/23](lec/L5.pdf), 9/25)
+- **W5.** Kernel SVM / K-Means Clustering  
 (9/30, 10/2)
-- **W6.** Decision Tree  
+- **W6.** Gaussian Mixture Models  
 (10/7, 10/9)
 - **W7.** Dimensionality Reduction  
 (10/14, 10/16)
+- **Virtual.** Decision Tree  
+(Video 1, Video 2)
 - **W8.** Mid-Term  
 (10/21, 10/23)
 - **W9.** Deep Learning Basics / Convolutional Networks  
