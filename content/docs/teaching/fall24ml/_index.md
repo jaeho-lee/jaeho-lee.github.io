@@ -24,7 +24,7 @@ weight: 4.8
 - **W4.** Simple Classifiers / Support Vector Machines  
 ([9/23](lec/L5.pdf), [9/25](lec/L6.pdf))
 - **W5.** Kernel SVM / K-Means Clustering  
-(9/30, 10/2)
+([9/30](lec/L7.pdf), [10/2](lec/L8.pdf))
 - **W6.** Gaussian Mixture Models  
 (10/7, 10/9)
 - **W7.** Dimensionality Reduction  
