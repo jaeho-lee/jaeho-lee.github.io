@@ -26,7 +26,7 @@ weight: 4.8
 - **W5.** Kernel SVM / K-Means Clustering  
 ([9/30](lec/L7.pdf), [10/2](lec/L8.pdf))
 - **W6.** Gaussian Mixture Models  
-([10/7](lec/L9.pdf), 10/9)
+([10/7](lec/L9.pdf), [10/9](lec/L10.pdf))
 - **W7.** Dimensionality Reduction  
 (10/14, 10/16)
 - **Virtual.** Decision Tree  
