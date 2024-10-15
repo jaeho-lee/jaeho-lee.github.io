@@ -28,7 +28,7 @@ weight: 4.8
 - **W6.** Gaussian Mixture Models  
 ([10/7](lec/L9.pdf), [10/9](lec/L10.pdf))
 - **W7.** Dimensionality Reduction  
-([10/14](lec/L11.pdf), 10/16)
+([10/14](lec/L11.pdf), [10/16](lec/L12.pdf))
 - **Virtual.** Decision Tree  
 (Video 1, Video 2)
 - **W8.** Mid-Term  
