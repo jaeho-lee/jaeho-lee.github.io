@@ -33,11 +33,11 @@ weight: 4.8
 (Video 1, Video 2)
 - **W8.** Mid-Term  
 (10/21, 10/23)
-- **W9.** Deep Learning Basics / Convolutional Networks  
-([10/28](lec/L13.pdf), 10/30)
-- **W10.** Backprop / Neural Network Training   
+- **W9.** Deep Learning Basics / Backprop  
+([10/28](lec/L13.pdf), [10/30](lec/L14.pdf))
+- **W10.** Neural network training / Neural network training   
 (11/4, 11/6)
-- **W11.** Neural Network Training  
+- **W11.** ConvNets / (TBD)  
 (11/11, 11/13)
 - **W12.** Deep ConvNets / Generative Models  
 (11/18, 11/20)
