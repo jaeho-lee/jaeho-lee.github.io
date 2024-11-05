@@ -36,7 +36,7 @@ weight: 4.8
 - **W9.** Deep Learning Basics / Backprop  
 ([10/28](lec/L13.pdf), [10/30](lec/L14.pdf))
 - **W10.** Neural network training / Neural network training   
-([11/4](lec/L15.pdf), 11/6)
+([11/4](lec/L15.pdf), [11/6](lec/L16.pdf))
 - **W11.** ConvNets / (TBD)  
 (11/11, 11/13)
 - **W12.** Deep ConvNets / Generative Models  
