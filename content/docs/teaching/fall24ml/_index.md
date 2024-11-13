@@ -30,7 +30,7 @@ weight: 4.8
 - **W7.** Dimensionality Reduction  
 ([10/14](lec/L11.pdf), [10/16](lec/L12.pdf))
 - **Virtual.** Decision Tree  
-(Video 1, Video 2)
+([online](lec/L00.pdf))
 - **W8.** Mid-Term  
 (10/21, 10/23)
 - **W9.** Deep Learning Basics / Backprop  
