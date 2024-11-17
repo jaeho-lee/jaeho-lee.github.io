@@ -37,10 +37,10 @@ weight: 4.8
 ([10/28](lec/L13.pdf), [10/30](lec/L14.pdf))
 - **W10.** Neural network training / Neural network training   
 ([11/4](lec/L15.pdf), [11/6](lec/L16.pdf))
-- **W11.** ConvNets / (TBD)  
+- **W11.** (Out of town)  
 (11/11, 11/13)
-- **W12.** Deep ConvNets / Generative Models  
-(11/18, 11/20)
+- **W12.** ConvNets / Generative Models  
+([11/18](lec/L17.pdf), 11/20)
 - **W13.** Generative Models / Language Models  
 (11/25, 11/27)
 - **W14.** Language Models / Multimodal Learning  
