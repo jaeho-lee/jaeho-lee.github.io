@@ -42,7 +42,7 @@ weight: 4.8
 - **W12.** Vision: Architectures / Vision: Representation Learning  
 ([11/18](lec/L17.pdf), [11/20](lec/L18.pdf))
 - **W13.** Vision: Generative Models / Vision: Diffusion Models  
-([11/25](lec/L19.pdf), 11/27)
+([11/25](lec/L19.pdf), [11/27]()lec/L20.pdf)
 - **W14.** Language: Architectures / Language: Large Language Models  
 (12/2, 12/4)
 - **W15.** Multimodal Learning / Efficient ML   
