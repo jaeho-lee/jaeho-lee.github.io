@@ -46,6 +46,6 @@ weight: 4.8
 - **W14.** Language: Architectures / Language: Representation Learning
 ([12/2](lec/L21.pdf), [12/4](lec/L22.pdf))
 - **W15.** Multimodal Learning / Efficient ML   
-(12/9, 12/11)  
+([12/9](lec/L23.pdf), 12/11)  
 - **W16.** Final Project Presentation  
 (12/16, 12/18)
