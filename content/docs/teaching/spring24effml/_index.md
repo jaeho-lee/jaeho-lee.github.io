@@ -1,6 +1,7 @@
 ---
 title: "24S - Efficient ML"
 weight: 5
+bookHidden: true
 ---
 
 ## **EECE695E: Efficient ML Systems (Spring 2024)**

@@ -1,0 +1,71 @@
+---
+title: "25S - Efficient ML"
+weight: 5
+---
+
+## **EECE695E: Efficient ML Systems (Spring 2025)**
+
+### **Team**
+- **Instructor.** Jaeho Lee [✉️](mailto:jaeho.lee@postech.ac.kr)
+- **TA.** Hyunjong Ok [✉️](mailto:hyunjong.ok@postech.ac.kr)  
+
+### **Location & Time**
+- **Class.** MW 11:00--12:15 @ PIAI 122.
+- **Office Hr.** W 17:00--18:00 @ EngBlg2 #323 (+ by appointment).
+
+
+### **Schedule (tentative)**
+- **W1. Warm-Up** 
+	- (2/17) Intro & Administrivia
+	- (2/19) Computations of Deep Learning
+- **W2. Sparsity**
+	- (2/24, 2/26)
+	- Presentation List out
+- **W3. Quantization**
+	- (3/3, 3/5)
+	- Presentation Registration Due
+- **W4. NAS & KD**
+	- (3/10, 3/12)
+- **W5. Efficient Training & Tuning**
+	- (3/17, 3/19)
+- **W6. Efficient Adaptation**
+	- (3/24, 3/26)
+- **W7. (Week off; Instructor at Brussel 🇧🇪)**
+	- (3/31, 4/2)
+	- Project Proposals Due
+- **W8. Parallelism**
+	- (4/7, 4/9)
+- **W9. Data Efficiency +**
+	- (4/14, 4/16)
+- **W10. LLM Compression +**
+	- (4/21, 4/23)
+- **W11. Long-Context LLMs +**
+	- (4/28, 4/30)
+- **W12. Low-Precision Training +**
+	- (5/5, 5/7)
+- **W13. Test-Time Scaling +**
+	- (5/12, 5/14)
+- **W14. Efficient Diffusion Model +**
+	- (5/19, 5/21)
+- **W15. Efficient Neural Rendering +**
+	- (5/26, 5/28)
+- **W16. Poster Session**
+	- (6/2, 6/4)
+
+
+### **Recommended Materials**
+- **Blog Posts**
+	- [LLM inference performance engineering](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices?fbclid=IwAR38VwybKZYFZNEFmAviNojzwlI7jLNLt-mFBV8ecwoBen_DzJ0CP0LG_-w) by Databricks
+- **Videos**
+	- [State-space models tutorial](https://www.youtube.com/watch?v=dKJEpOtVgXc) by Sasha Rush
+	- [Trends in deep learning hardware](https://www.youtube.com/watch?v=HtrR1HRZIGA) by Bill Dally
+- **Related Courses**
+	- [Efficient deep learning systems](https://github.com/mryab/efficient-dl-systems) at HSE university and Yandex
+	- [Machine learning compilation](https://mlc.ai/) at CMU
+	- [TinyML and efficient deep learning](https://hanlab.mit.edu/courses/2023-fall-65940) at MIT
+	- [Machine learning hardware and systems](https://abdelfattah-class.github.io/ece5545/sp23) at Cornell
+	- [Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) at Stanford
+- **Books and surveys**
+	- [Algorithms for modern hardware](https://en.algorithmica.org/hpc/) by Sergey Slotin
+	- [Efficient deep learning book](https://efficientdlbook.com/) by Menghani and Singh
+	- [Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities](https://arxiv.org/abs/2210.06640) by Bartoldson et al.
