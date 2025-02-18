@@ -17,7 +17,7 @@ weight: 5
 ### **Schedule (tentative)**
 - **W1. Warm-Up** 
 	- (2/17) [Intro & Administrivia](lec/L1.pdf)
-	- (2/19) Computations of Deep Learning
+	- (2/19) [Computations of Deep Learning](lec/L2.pdf)
 - **W2. Sparsity**
 	- (2/24, 2/26)
 	- Presentation List out
