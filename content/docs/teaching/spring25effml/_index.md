@@ -11,7 +11,7 @@ weight: 5
 
 ### **Location & Time**
 - **Class.** MW 11:00--12:15 @ PIAI 122.
-- **Office Hr.** W 17:00--18:00 @ EngBlg2 #323 (+ by appointment).
+- **Office Hr.** W 17:00--18:00 @ Terarosa Coffee (+ by appointment).
 
 
 ### **Schedule (tentative)**
