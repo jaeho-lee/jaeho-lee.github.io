@@ -19,7 +19,8 @@ weight: 5
 	- (2/17) [Intro & Administrivia](lec/L1.pdf)
 	- (2/19) [Computations of Deep Learning](lec/L2.pdf)
 - **W2. Sparsity**
-	- (2/24, 2/26)
+	- (2/24) [Basic ideas of Pruning](lec/L3.pdf)
+	- (2/26)
 	- Presentation List out
 - **W3. Quantization**
 	- (3/3, 3/5)
