@@ -23,7 +23,8 @@ weight: 5
 	- (2/26) [Advanced: Regularization, Structures, and Systems](lec/L4.pdf)
 	- Presentation List out
 - **W3. Quantization**
-	- (3/3, 3/5)
+	- (3/3) [Data numerics and K-means](lec/L5.pdf)
+	- (3/5) Linear quantiztaion and advanced stuffs
 	- Presentation Registration Due
 - **W4. NAS & KD**
 	- (3/10, 3/12)
