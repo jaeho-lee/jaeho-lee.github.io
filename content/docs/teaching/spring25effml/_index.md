@@ -24,7 +24,7 @@ weight: 5
 	- Presentation List out
 - **W3. Quantization**
 	- (3/3) [Data numerics and K-means](lec/L5.pdf)
-	- (3/5) Linear quantiztaion and advanced stuffs
+	- (3/5) [Linear quantiztaion and advanced stuffs](lec/L6.pdf)
 	- Presentation Registration Due
 - **W4. NAS & KD**
 	- (3/10, 3/12)
