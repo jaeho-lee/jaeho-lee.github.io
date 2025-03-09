@@ -27,7 +27,8 @@ weight: 5
 	- (3/5) [Linear quantiztaion and advanced stuffs](lec/L6.pdf)
 	- Presentation Registration Due
 - **W4. NAS & KD**
-	- (3/10, 3/12)
+	- (3/10) [Knowledge Distillation](lec/L7.pdf)
+	- (3/12) Neural Architecture Search
 - **W5. Efficient Training & Tuning**
 	- (3/17, 3/19)
 - **W6. Efficient Adaptation**
