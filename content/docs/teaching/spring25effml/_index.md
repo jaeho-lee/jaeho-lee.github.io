@@ -28,7 +28,7 @@ weight: 5
 	- Presentation Registration Due
 - **W4. NAS & KD**
 	- (3/10) [Knowledge Distillation](lec/L7.pdf)
-	- (3/12) Neural Architecture Search
+	- (3/12) [Neural Architecture Search](lec/L8.pdf)
 - **W5. Efficient Training & Tuning**
 	- (3/17, 3/19)
 - **W6. Efficient Adaptation**
