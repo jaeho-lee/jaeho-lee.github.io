@@ -30,7 +30,8 @@ weight: 5
 	- (3/10) [Knowledge Distillation](lec/L7.pdf)
 	- (3/12) [Neural Architecture Search](lec/L8.pdf)
 - **W5. Efficient Training & Tuning**
-	- (3/17, 3/19)
+	- (3/17) [Continual Learning](lec/L9.pdf)
+	- (3/19)
 - **W6. Efficient Adaptation**
 	- (3/24, 3/26)
 - **W7. (Week off; Instructor at Brussel 🇧🇪)**
