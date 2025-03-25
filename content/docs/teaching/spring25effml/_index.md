@@ -34,7 +34,7 @@ weight: 5
 	- (3/19) [Meta-Learning](lec/L10.pdf)
 - **W6. Efficient Training & Tuning**
 	- (3/24) [Merging and Editing](lec/L11.pdf)
-	- (3/26)
+	- (3/26) [Efficient Fine-Tuning](lec/L12.pdf)
 - **W7. (Week off; Instructor at Brussel 🇧🇪)**
 	- (3/31, 4/2)
 	- Project Proposals Due
