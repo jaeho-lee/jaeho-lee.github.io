@@ -39,7 +39,8 @@ weight: 5
 	- (3/31, 4/2)
 	- Project Proposals Due
 - **W8. Parallelism**
-	- (4/7, 4/9)
+	- (4/7) [Parallelism 1](lec/L13.pdf)
+	- (4/9) Parallelism 2
 - **W9. Data Efficiency +**
 	- (4/14, 4/16)
 - **W10. LLM Compression +**
