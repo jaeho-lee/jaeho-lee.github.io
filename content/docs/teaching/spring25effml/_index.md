@@ -40,7 +40,7 @@ weight: 5
 	- Project Proposals Due
 - **W8. Parallelism**
 	- (4/7) [Parallelism 1](lec/L13.pdf)
-	- (4/9) Parallelism 2
+	- (4/9) [Parallelism 2](lec/L14.pdf)
 - **W9. Data Efficiency +**
 	- (4/14, 4/16)
 - **W10. LLM Compression +**
