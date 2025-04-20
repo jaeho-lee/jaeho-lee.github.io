@@ -42,10 +42,11 @@ weight: 5
 	- (4/7) [Parallelism 1](lec/L13.pdf)
 	- (4/9) [Parallelism 2](lec/L14.pdf)
 - **W9. Data Efficiency +**
-	- (4/14) [Data Efficiency](lec/L15.pdf), [Presentation 1 - 정현우](lec/L15-S1.pdf),
-	- (4/16)
+	- (4/14) [Data Efficiency](lec/L15.pdf), [Presentation 1](lec/L15-S1.pdf),
+	- (4/16) [Presentation 2](lec/L16-S1.pdf), [Presentation 3](lec/L16-S2.pdf)
 - **W10. LLM Compression +**
-	- (4/21, 4/23)
+	- (4/21) [LLM Compression](lec/L17.pdf), [Presentation 1](lec/L17-S1.pdf)
+	- (4/23)
 - **W11. Long-Context LLMs +**
 	- (4/28, 4/30)
 - **W12. Low-Precision Training +**
