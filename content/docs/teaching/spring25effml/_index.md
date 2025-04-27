@@ -48,7 +48,8 @@ weight: 5
 	- (4/21) [LLM Compression](lec/L17.pdf), [Presentation 1](lec/L17-S1.pdf)
 	- (4/23) [Presentation 1])(lec/L18-S1.pdf), [Presentation 2](lec/L18-S2.pdf)
 - **W11. Long-Context LLMs +**
-	- (4/28, 4/30)
+	- (4/28) [Long-Context LLMs](lec/L19.pdf), [Presentation 1](lec/L19-S1.pdf)
+	- (4/30)
 - **W12. Low-Precision Training +**
 	- (5/5, 5/7)
 - **W13. Test-Time Scaling +**
