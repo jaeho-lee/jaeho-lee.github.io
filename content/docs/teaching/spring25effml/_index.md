@@ -49,17 +49,18 @@ weight: 5
 	- (4/23) [Presentation 1](lec/L18-S1.pdf), [Presentation 2](lec/L18-S2.pdf)
 - **W11. Long-Context LLMs +**
 	- (4/28) [Long-Context LLMs](lec/L19.pdf), [Presentation 1](lec/L19-S1.pdf)
-	- (4/30)
+	- (4/30) [Presentation 1](lec/L20-S1.pdf), [Presentation 2](lec/L20-S2.pdf)
 - **W12. Low-Precision Training +**
-	- (5/5, 5/7)
+	- (5/7) [Low-Precision Training](lec/L21.pdf), [Presentation 1](lec/L21-S1.pdf)
+	- (5/12)
 - **W13. Test-Time Scaling +**
-	- (5/12, 5/14)
+	- (5/14, 5/19)
 - **W14. Efficient Diffusion Model +**
-	- (5/19, 5/21)
+	- (5/21, 5/26)
 - **W15. Efficient Neural Rendering +**
-	- (5/26, 5/28)
+	- (5/28, 6/2)
 - **W16. Poster Session**
-	- (6/2, 6/4)
+	- (6/5)
 
 
 ### **Recommended Materials**
