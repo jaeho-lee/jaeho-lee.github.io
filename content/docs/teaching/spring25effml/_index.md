@@ -52,9 +52,10 @@ weight: 5
 	- (4/30) [Presentation 1](lec/L20-S1.pdf), [Presentation 2](lec/L20-S2.pdf)
 - **W12. Low-Precision Training +**
 	- (5/7) [Low-Precision Training](lec/L21.pdf), [Presentation 1](lec/L21-S1.pdf)
-	- (5/12)
+	- (5/12) [Presentation 1](lec/L22-S1.pdf), [Presentation 2](lec/L22-S2.pdf)
 - **W13. Test-Time Scaling +**
-	- (5/14, 5/19)
+	- (5/14) [Test-time Scaling](lec/L23.pdf), [Presentation 1](lec/L23-S1.pdf)
+	- (5/19)
 - **W14. Efficient Diffusion Model +**
 	- (5/21, 5/26)
 - **W15. Efficient Neural Rendering +**
