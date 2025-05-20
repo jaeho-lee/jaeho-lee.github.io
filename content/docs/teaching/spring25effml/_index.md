@@ -55,9 +55,10 @@ weight: 5
 	- (5/12) [Presentation 1](lec/L22-S1.pdf), [Presentation 2](lec/L22-S2.pdf)
 - **W13. Test-Time Scaling +**
 	- (5/14) [Test-time Scaling](lec/L23.pdf), [Presentation 1](lec/L23-S1.pdf)
-	- (5/19)
+	- (5/19) [Presentation 1](lec/L24-S1.pdf), [Presentation 2](lec/L24-S2.pdf)
 - **W14. Efficient Diffusion Model +**
-	- (5/21, 5/26)
+	- (5/21) [Efficient Diffusion Model](lec/L25.pdf), [Presentation 1](lec/L25-S1.pdf)
+	- (5/26)
 - **W15. Efficient Neural Rendering +**
 	- (5/28, 6/2)
 - **W16. Poster Session**
