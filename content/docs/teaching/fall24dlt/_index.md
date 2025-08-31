@@ -1,6 +1,7 @@
 ---
 title: "24F - DL Theory"
 weight: 4.9
+bookHidden: true
 ---
 
 ## **EECE695D: Deep Learning Theory (Spring 2024)**
