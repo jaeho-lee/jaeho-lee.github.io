@@ -27,7 +27,7 @@ weight: 4.8
 - **W5.** Dimensionality Reduction / Decision Trees  
 (9/29, 10/1)
 - **W6.** Chuseok Holidays  
-(10/6, 10/8)
+(~~10/6~~, ~~10/8~~)
 - **W7.** Deep Learning Basics / Backprop  
 (10/13, 10/15)
 - **W8.** Mid-Term  
