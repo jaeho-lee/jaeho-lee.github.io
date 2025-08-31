@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="EECE695D: Deep Learning Theory (Spring 2024) # This semester, this course is:
+(1) jointly served at POSTECH and Yonsei
+(2) an online course
+(3) taught in Korean
+Team # Instructor @ P. Jaeho Lee 이재호 ✉️ Instructor @ Y. Jy-yong Sohn 손지용 ✉️ TA @ P. Kyumin Kim 김규민 ✉️ TA @ Y. Chungpa Lee 이청파 ✉️ Contributor. Taesun Yeom 염태선 ✉️ Location &amp; Time # Class. Online at PLMS🔗 or LearnUs🔗.">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="24F - DL Theory" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall25dlt/" />
+<title>24F - DL Theory | Jaeho Lee</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" >
+<link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.0a83d5733878a83664d5fced4f9f907fee6f899b83e429a1516756a65f403836.js" integrity="sha256-CoPVczh4qDZk1fztT5&#43;Qf&#43;5viZuD5CmhUWdWpl9AODY=" crossorigin="anonymous"></script>
+<link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/fall25dlt/index.xml" title="Jaeho Lee" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Jaeho Lee</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/research/" class="">Research</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/" class="">Teaching</a>
+  
+
+          
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall24dlt/" class="">24F - DL Theory</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall25dlt/" class="active">24F - DL Theory</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/fall25ml/" class="">25F - Intro to ML</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/teaching/spring25effml/" class="">25S - Efficient ML</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/me/" class="">About me</a>
+  
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>24F - DL Theory</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece695d-deep-learning-theory-spring-2024"><strong>EECE695D: Deep Learning Theory (Spring 2024)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+        <li><a href="#further-readings"><strong>Further Readings</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><h2 id="eece695d-deep-learning-theory-spring-2024">
+  <strong>EECE695D: Deep Learning Theory (Spring 2024)</strong>
+  <a class="anchor" href="#eece695d-deep-learning-theory-spring-2024">#</a>
+</h2>
+<p><span style="color:#808080"><em>This semester, this course is:</em></span><br>
+<span style="color:#808080"><em>(1) jointly served at POSTECH and Yonsei</em></span><br>
+<span style="color:#808080"><em>(2) an online course</em></span><br>
+<span style="color:#808080"><em>(3) taught in Korean</em></span></p>
+<h3 id="team">
+  <strong>Team</strong>
+  <a class="anchor" href="#team">#</a>
+</h3>
+<ul>
+<li><span style="color:#C80150"><strong>Instructor @ P.</strong></span> Jaeho Lee 이재호  <a href="mailto:jaeho.lee@postech.ac.kr">✉️</a></li>
+<li><span style="color:#1766FF"><strong>Instructor @ Y.</strong></span> Jy-yong Sohn 손지용  <a href="mailto:jysohn1108@yonsei.ac.kr">✉️</a></li>
+<li><span style="color:#C80150"><strong>TA @ P.</strong></span> Kyumin Kim 김규민  <a href="mailto:kyuminkim@postech.ac.kr">✉️</a></li>
+<li><span style="color:#1766FF"><strong>TA @ Y.</strong></span> Chungpa Lee 이청파  <a href="mailto:leechungpa@gmail.com">✉️</a></li>
+<li><strong>Contributor.</strong> Taesun Yeom 염태선  <a href="mailto:tsyeom@postech.ac.kr">✉️</a></li>
+</ul>
+<h3 id="location--time">
+  <strong>Location &amp; Time</strong>
+  <a class="anchor" href="#location--time">#</a>
+</h3>
+<ul>
+<li><strong>Class.</strong> Online at <span style="color:#C80150"><strong>PLMS</strong></span><a href="https://plms.postech.ac.kr/">🔗</a> or <span style="color:#1766FF"><strong>LearnUs</strong></span><a href="https://ys.learnus.org/">🔗</a>.
+<ul>
+<li>Uploaded by 11:59PM on Wednesdays.</li>
+</ul>
+</li>
+<li><strong>Office hrs.</strong> Use this sessions for Q&amp;A.
+<ul>
+<li><span style="color:#C80150"><strong>@P</strong>.</span> Wednesdays 2PM&ndash;4PM, Eng. Building#2 #323 (+ by appointment)</li>
+<li><span style="color:#1766FF"><strong>@Y</strong>.</span> Mondays 1PM&ndash;3PM, Daewoo Hall #534</li>
+</ul>
+</li>
+</ul>
+<h3 id="schedule-tentative">
+  <strong>Schedule (tentative)</strong>
+  <a class="anchor" href="#schedule-tentative">#</a>
+</h3>
+<ul>
+<li><span style="color:#C80150"><strong>W1.</strong></span> Overview, recap, and linear models</li>
+<li><span style="color:#C80150"><strong>W2.</strong></span> Approx: Universal approximation with shallow nets</li>
+<li><span style="color:#C80150"><strong>W3.</strong></span> Approx: Infinite-width and kernels</li>
+<li><span style="color:#C80150"><strong>W4.</strong></span> Approx: Benefits of depth</li>
+<li><span style="color:#C80150"><strong>W5.</strong></span> Optim: Convex optimization and generalizations</li>
+<li><span style="color:#C80150"><strong>W6.</strong></span> Optim: SGD and flow-based analyses</li>
+<li><span style="color:#C80150"><strong>W7.</strong></span> Optim: Implicit bias</li>
+<li><span style="color:#1766FF"><strong>W8.</strong></span> Gen: Concentration of measures, uniform convergence</li>
+<li><span style="color:#1766FF"><strong>W9.</strong></span> Gen: Rademacher complexities, covering numbers</li>
+<li><span style="color:#1766FF"><strong>W10.</strong></span> Gen: Chaining and VC dimensions</li>
+<li><span style="color:#1766FF"><strong>W11.</strong></span> Recent: Generalization</li>
+<li><span style="color:#1766FF"><strong>W12.</strong></span> Recent: Approximation</li>
+<li><span style="color:#1766FF"><strong>W13.</strong></span> Recent: Optimization</li>
+<li><span style="color:#1766FF"><strong>W14.</strong></span> Recent: Architectures</li>
+<li><strong>W15.</strong> Student Presentations - 1</li>
+<li><strong>W16.</strong> Student Presentations - 2</li>
+</ul>
+<h3 id="further-readings">
+  <strong>Further Readings</strong>
+  <a class="anchor" href="#further-readings">#</a>
+</h3>
+<ul>
+<li>Shalev-Shwartz and Ben-David, <a href="https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6">Understanding Machine Learning: From Theory to Algorithms</a></li>
+</ul>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#eece695d-deep-learning-theory-spring-2024"><strong>EECE695D: Deep Learning Theory (Spring 2024)</strong></a>
+      <ul>
+        <li><a href="#team"><strong>Team</strong></a></li>
+        <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
+        <li><a href="#schedule-tentative"><strong>Schedule (tentative)</strong></a></li>
+        <li><a href="#further-readings"><strong>Further Readings</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
