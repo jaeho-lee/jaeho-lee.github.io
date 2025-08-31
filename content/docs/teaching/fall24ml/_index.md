@@ -1,6 +1,7 @@
 ---
 title: "24F - Intro to ML"
 weight: 4.8
+bookHidden: true
 ---
 
 ## **EECE454: Intro to ML Systems (Fall 2024)**

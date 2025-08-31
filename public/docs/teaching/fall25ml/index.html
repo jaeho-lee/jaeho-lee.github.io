@@ -3,23 +3,22 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="EECE454: Intro to ML Systems (Fall 2024) # Team # Instructor. Jaeho Lee 이재호 ✉️ TA. Minjae Park 박민재 ✉️ Location &amp; Time # Class. Mondays/Wednesdays, 09:30&ndash;11:00 @ Eng Bldg 3, Room 115 Office Hr. Wednesdays, 16:00&ndash;17:00 @ Eng Bldg 2, Room 323 Schedule (tentative) # W1. Introduction / Basic Linear Algebra
-(9/2, 9/4) W2. Basic Probability / Supervised Learning and Linear Regression
-(9/9, 9/11) W3. Chuseok holidays
-(9/16, 9/18) W4.">
+<meta name="description" content="EECE454: Intro to ML Systems (Fall 2025) # Team # Instructor. Jaeho Lee 이재호 ✉️ TA 1. Minseok Kim 김민석 ✉️ TA 2. Taesun Yeom 염태선 ✉️ Location &amp; Time # Class. Mondays/Wednesdays, 09:30&ndash;11:00 @ LG Hall, #105 Office Hr. Mondays, 17:00&ndash;18:00 @ GoAround Coffee (or by request) Schedule (tentative) # W1. Introduction / Basics of ML
+(9/1, 9/3) W2. Linear Regression / Simple Classifiers
+(9/8, 9/10) W3. Support Vector Machines / Kernel SVM">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
-<meta name="color-scheme" content="light dark"><meta property="og:title" content="24F - Intro to ML" />
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="25F - Intro to ML" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall24ml/" />
-<title>24F - Intro to ML | Jaeho Lee</title>
+<meta property="og:url" content="http://jaeho-lee.github.io/docs/teaching/fall25ml/" />
+<title>25F - Intro to ML | Jaeho Lee</title>
 <link rel="manifest" href="/manifest.json">
 <link rel="icon" href="/favicon.png" >
 <link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
   <script defer src="/en.search.min.be81fe5649fbd1118e420d3e7ec5b5814aba779518adc2c21f270fbfb3e1644f.js" integrity="sha256-voH&#43;Vkn70RGOQg0&#43;fsW1gUq6d5UYrcLCHycPv7PhZE8=" crossorigin="anonymous"></script>
-<link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/fall24ml/index.xml" title="Jaeho Lee" />
+<link rel="alternate" type="application/rss+xml" href="http://jaeho-lee.github.io/docs/teaching/fall25ml/index.xml" title="Jaeho Lee" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -115,7 +114,7 @@ https://github.com/alex-shpak/hugo-book
   
 
   
-    <a href="/docs/teaching/fall25ml/" class="">25F - Intro to ML</a>
+    <a href="/docs/teaching/fall25ml/" class="active">25F - Intro to ML</a>
   
 
           
@@ -198,7 +197,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <strong>24F - Intro to ML</strong>
+  <strong>25F - Intro to ML</strong>
 
   <label for="toc-control">
     
@@ -214,7 +213,7 @@ https://github.com/alex-shpak/hugo-book
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#eece454-intro-to-ml-systems-fall-2024"><strong>EECE454: Intro to ML Systems (Fall 2024)</strong></a>
+    <li><a href="#eece454-intro-to-ml-systems-fall-2025"><strong>EECE454: Intro to ML Systems (Fall 2025)</strong></a>
       <ul>
         <li><a href="#team"><strong>Team</strong></a></li>
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>
@@ -233,9 +232,9 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown"><h2 id="eece454-intro-to-ml-systems-fall-2024">
-  <strong>EECE454: Intro to ML Systems (Fall 2024)</strong>
-  <a class="anchor" href="#eece454-intro-to-ml-systems-fall-2024">#</a>
+  <article class="markdown"><h2 id="eece454-intro-to-ml-systems-fall-2025">
+  <strong>EECE454: Intro to ML Systems (Fall 2025)</strong>
+  <a class="anchor" href="#eece454-intro-to-ml-systems-fall-2025">#</a>
 </h2>
 <h3 id="team">
   <strong>Team</strong>
@@ -243,55 +242,54 @@ https://github.com/alex-shpak/hugo-book
 </h3>
 <ul>
 <li><strong>Instructor.</strong> Jaeho Lee 이재호 <a href="mailto:jaeho.lee@postech.ac.kr">✉️</a></li>
-<li><strong>TA.</strong> Minjae Park 박민재 <a href="mailto:mjae.park@postech.ac.kr">✉️</a></li>
+<li><strong>TA 1.</strong> Minseok Kim 김민석 <a href="mailto:kms2914@postech.ac.kr">✉️</a></li>
+<li><strong>TA 2.</strong> Taesun Yeom 염태선 <a href="mailto:tsyeom@postech.ac.kr">✉️</a></li>
 </ul>
 <h3 id="location--time">
   <strong>Location &amp; Time</strong>
   <a class="anchor" href="#location--time">#</a>
 </h3>
 <ul>
-<li><strong>Class.</strong> Mondays/Wednesdays, 09:30&ndash;11:00 @ Eng Bldg 3, Room 115</li>
-<li><strong>Office Hr.</strong> Wednesdays, 16:00&ndash;17:00 @ Eng Bldg 2, Room 323</li>
+<li><strong>Class.</strong> Mondays/Wednesdays, 09:30&ndash;11:00 @ LG Hall, #105</li>
+<li><strong>Office Hr.</strong> Mondays, 17:00&ndash;18:00 @ GoAround Coffee (or by request)</li>
 </ul>
 <h3 id="schedule-tentative">
   <strong>Schedule (tentative)</strong>
   <a class="anchor" href="#schedule-tentative">#</a>
 </h3>
 <ul>
-<li><strong>W1.</strong> Introduction / Basic Linear Algebra<br>
-(<a href="lec/L1.pdf">9/2</a>, <a href="lec/L2.pdf">9/4</a>)</li>
-<li><strong>W2.</strong> Basic Probability / Supervised Learning and Linear Regression<br>
-(<a href="lec/L3.pdf">9/9</a>, <a href="lec/L4.pdf">9/11</a>)</li>
-<li><strong>W3.</strong> Chuseok holidays<br>
-(9/16, 9/18)</li>
-<li><strong>W4.</strong> Simple Classifiers / Support Vector Machines<br>
-(<a href="lec/L5.pdf">9/23</a>, <a href="lec/L6.pdf">9/25</a>)</li>
-<li><strong>W5.</strong> Kernel SVM / K-Means Clustering<br>
-(<a href="lec/L7.pdf">9/30</a>, <a href="lec/L8.pdf">10/2</a>)</li>
-<li><strong>W6.</strong> Gaussian Mixture Models<br>
-(<a href="lec/L9.pdf">10/7</a>, <a href="lec/L10.pdf">10/9</a>)</li>
-<li><strong>W7.</strong> Dimensionality Reduction<br>
-(<a href="lec/L11.pdf">10/14</a>, <a href="lec/L12.pdf">10/16</a>)</li>
-<li><strong>Virtual.</strong> Decision Tree<br>
-(<a href="lec/L00.pdf">online</a>)</li>
+<li><strong>W1.</strong> Introduction / Basics of ML<br>
+(9/1, 9/3)</li>
+<li><strong>W2.</strong> Linear Regression / Simple Classifiers<br>
+(9/8, 9/10)</li>
+<li><strong>W3.</strong> Support Vector Machines / Kernel SVM<br>
+(9/15, 9/17)</li>
+<li><strong>W4.</strong> K-Means Clustering / Gaussian Mixture Models<br>
+(9/22, 9/24)</li>
+<li><strong>W5.</strong> Dimensionality Reduction / Decision Trees<br>
+(9/29, 10/1)</li>
+<li><strong>W6.</strong> Chuseok Holidays<br>
+(10/6, 10/8)</li>
+<li><strong>W7.</strong> Deep Learning Basics / Backprop<br>
+(10/13, 10/15)</li>
 <li><strong>W8.</strong> Mid-Term<br>
-(10/21, 10/23)</li>
-<li><strong>W9.</strong> Deep Learning Basics / Backprop<br>
-(<a href="lec/L13.pdf">10/28</a>, <a href="lec/L14.pdf">10/30</a>)</li>
-<li><strong>W10.</strong> Neural network training / Neural network training<br>
-(<a href="lec/L15.pdf">11/4</a>, <a href="lec/L16.pdf">11/6</a>)</li>
-<li><strong>W11.</strong> (Out of town)<br>
-(11/11, 11/13)</li>
-<li><strong>W12.</strong> Vision: Architectures / Vision: Representation Learning<br>
-(<a href="lec/L17.pdf">11/18</a>, <a href="lec/L18.pdf">11/20</a>)</li>
-<li><strong>W13.</strong> Vision: Generative Models / Vision: Diffusion Models<br>
-(<a href="lec/L19.pdf">11/25</a>, <a href="lec/L20.pdf">11/27</a>)</li>
-<li><strong>W14.</strong> Language: Architectures / Language: Representation Learning<br>
-(<a href="lec/L21.pdf">12/2</a>, <a href="lec/L22.pdf">12/4</a>)</li>
-<li><strong>W15.</strong> Multimodal Learning / Efficient ML<br>
-(<a href="lec/L23.pdf">12/9</a>, <a href="lec/L24.pdf">12/11</a>)</li>
+(10/20, 10/22)</li>
+<li><strong>W9.</strong> Training Neural Networks<br>
+(10/27, 10/29)</li>
+<li><strong>W10.</strong> Bits of Vision: Tasks, Architectures, Representation Learning<br>
+(11/3, 11/5)</li>
+<li><strong>W11.</strong> Visual Generative Models: VAE, GAN, Diffusion<br>
+(11/10, 11/12)</li>
+<li><strong>W12.</strong> Bits of Language: Tasks, Architectures, Representation Learning<br>
+(11/17, 11/19)</li>
+<li><strong>W13.</strong> Large Language Models and Multimodal LLMs<br>
+(11/24, 11/26)</li>
+<li><strong>W14.</strong> Application to Robotics and Reinforcement Learning<br>
+(12/1, 12/3)</li>
+<li><strong>W15.</strong> ML Efficiency / Societal Issues<br>
+(12/8, 12/10)</li>
 <li><strong>W16.</strong> Final Project Presentation<br>
-(12/16, 12/18)</li>
+(12/15, 12/17)</li>
 </ul>
 </article>
  
@@ -334,7 +332,7 @@ https://github.com/alex-shpak/hugo-book
   
 <nav id="TableOfContents">
   <ul>
-    <li><a href="#eece454-intro-to-ml-systems-fall-2024"><strong>EECE454: Intro to ML Systems (Fall 2024)</strong></a>
+    <li><a href="#eece454-intro-to-ml-systems-fall-2025"><strong>EECE454: Intro to ML Systems (Fall 2025)</strong></a>
       <ul>
         <li><a href="#team"><strong>Team</strong></a></li>
         <li><a href="#location--time"><strong>Location &amp; Time</strong></a></li>

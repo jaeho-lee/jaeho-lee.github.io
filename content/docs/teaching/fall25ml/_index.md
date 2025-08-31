@@ -1,0 +1,50 @@
+---
+title: "25F - Intro to ML"
+weight: 4.8
+---
+
+## **EECE454: Intro to ML Systems (Fall 2025)**
+
+### **Team**
+- **Instructor.** Jaeho Lee 이재호 [✉️](mailto:jaeho.lee@postech.ac.kr)
+- **TA 1.** Minseok Kim 김민석 [✉️](mailto:kms2914@postech.ac.kr)
+- **TA 2.** Taesun Yeom 염태선 [✉️](mailto:tsyeom@postech.ac.kr)
+
+### **Location & Time**
+- **Class.** Mondays/Wednesdays, 09:30--11:00 @ LG Hall, #105
+- **Office Hr.** Mondays, 17:00--18:00 @ GoAround Coffee (or by request)
+
+
+### **Schedule (tentative)**
+- **W1.** Introduction / Basics of ML  
+(9/1, 9/3)
+- **W2.** Linear Regression / Simple Classifiers  
+(9/8, 9/10)  
+- **W3.** Support Vector Machines / Kernel SVM  
+(9/15, 9/17)  
+- **W4.** K-Means Clustering / Gaussian Mixture Models  
+(9/22, 9/24)
+- **W5.** Dimensionality Reduction / Decision Trees  
+(9/29, 10/1)
+- **W6.** Chuseok Holidays  
+(10/6, 10/8)
+- **W7.** Deep Learning Basics / Backprop  
+(10/13, 10/15)
+- **W8.** Mid-Term  
+(10/20, 10/22)
+- **W9.** Training Neural Networks  
+(10/27, 10/29)
+- **W10.** Bits of Vision: Tasks, Architectures, Representation Learning   
+(11/3, 11/5)
+- **W11.** Visual Generative Models: VAE, GAN, Diffusion  
+(11/10, 11/12)
+- **W12.** Bits of Language: Tasks, Architectures, Representation Learning  
+(11/17, 11/19)
+- **W13.** Large Language Models and Multimodal LLMs  
+(11/24, 11/26)
+- **W14.** Application to Robotics and Reinforcement Learning  
+(12/1, 12/3)
+- **W15.** ML Efficiency / Societal Issues  
+(12/8, 12/10)  
+- **W16.** Final Project Presentation  
+(12/15, 12/17)
