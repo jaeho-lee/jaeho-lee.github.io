@@ -17,7 +17,7 @@ weight: 4.8
 
 ### **Schedule (tentative)**
 - **W1.** Introduction / Basics of ML  
-([9/1](lec1.pdf), 9/3)
+([9/1](lec/lec1.pdf), 9/3)
 - **W2.** Linear Regression / Simple Classifiers  
 (9/8, 9/10)  
 - **W3.** Support Vector Machines / Kernel SVM  
