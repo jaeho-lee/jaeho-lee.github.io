@@ -12,7 +12,7 @@ weight: 4.9
 
 ### **Location & Time**
 - **Class.** Mondays/Wednesdays, 2PM--3:30PM, EB2, #109
-- **Office Hr.** Wednesdays, 5PM--6PM, GoAround Coffee @RIST (or by request)
+- **Office Hr.** Mondays, 5PM--6PM, GoAround Coffee @RIST (or by request)
 
 
 ### **Schedule (tentative)**
