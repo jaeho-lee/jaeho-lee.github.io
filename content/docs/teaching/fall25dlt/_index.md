@@ -19,6 +19,7 @@ weight: 4.9
 - **W1.** Overview and Basics of Statistical Learning Theory
 ([9/1](lec/L1.pdf), [9/3](lec/L2.pdf))
 - **W2.** Approx: Universal approximation with shallow nets
+([9/8](lec/L3.pdf), 9/10)
 - **W3.** Approx: Infinite-width and kernels
 - **W4.** Approx: Benefits of depth
 - **W7.** Optim: Convex optimization and generalizations
