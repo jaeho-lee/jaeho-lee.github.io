@@ -19,7 +19,7 @@ weight: 4.8
 - **W1.** Introduction / Basics of ML  
 ([9/1](lec/lec1.pdf), [9/3](lec/lec2.pdf))
 - **W2.** Linear Regression / Simple Classifiers  
-([9/8](lec/lec3.pdf), 9/10)  
+([9/8](lec/lec3.pdf), [9/10](lec/lec4.pdf))  
 - **W3.** Support Vector Machines / Kernel SVM  
 (9/15, 9/17)  
 - **W4.** K-Means Clustering / Gaussian Mixture Models  
