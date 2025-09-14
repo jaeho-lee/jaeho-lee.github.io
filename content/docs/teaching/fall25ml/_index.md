@@ -21,7 +21,7 @@ weight: 4.8
 - **W2.** Linear Regression / Simple Classifiers  
 ([9/8](lec/lec3.pdf), [9/10](lec/lec4.pdf))  
 - **W3.** Support Vector Machines / Kernel SVM  
-(9/15, 9/17)  
+([9/15](lec/lec5.pdf), 9/17)  
 - **W4.** K-Means Clustering / Gaussian Mixture Models  
 (9/22, 9/24)
 - **W5.** Dimensionality Reduction / Decision Trees  
