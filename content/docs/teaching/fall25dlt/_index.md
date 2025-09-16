@@ -21,7 +21,7 @@ weight: 4.9
 - **W2.** Approx: Universal approximation with shallow nets
 ([9/8](lec/L3.pdf), [9/10](lec/L4.pdf))
 - **W3.** Approx: Infinite-width and kernels
-([9/15](lec/L5.pdf))
+([9/15](lec/L5.pdf), [9/17-1](lec/L6.pdf) [9/17-2](lec/L7_partial.pdf))
 - **W4.** Approx: Benefits of depth
 - **W7.** Optim: Convex optimization and generalizations
 - **W6.** Chuseok Holidays
