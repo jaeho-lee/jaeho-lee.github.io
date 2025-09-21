@@ -23,7 +23,7 @@ weight: 4.8
 - **W3.** Support Vector Machines / Kernel SVM  
 ([9/15](lec/lec5.pdf), [9/17](lec/lec6.pdf))  
 - **W4.** K-Means Clustering / Gaussian Mixture Models  
-(9/22, 9/24)
+([9/22](lec/lec7.pdf), 9/24)
 - **W5.** Dimensionality Reduction / Decision Trees  
 (9/29, 10/1)
 - **W6.** Chuseok Holidays  
