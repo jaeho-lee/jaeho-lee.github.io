@@ -23,7 +23,7 @@ weight: 4.9
 - **W3.** Approx: Infinite-width and kernels
 ([9/15](lec/L5.pdf), [9/17-1](lec/L6.pdf), [9/17-2](lec/L7_partial.pdf))
 - **W4.** Approx: Benefits of depth  
-([9/22-1](lec/L7_contd.pdf), [9/22-2](lec/L8.pdf), 9/24 )
+([9/22-1](lec/L7_contd.pdf), [9/22-2](lec/L8.pdf), [9/24](lec/L9.pdf) )
 - **W7.** Optim: Convex optimization and generalizations
 - **W6.** Chuseok Holidays
 - **W8.** Optim: SGD and flow-based analyses
