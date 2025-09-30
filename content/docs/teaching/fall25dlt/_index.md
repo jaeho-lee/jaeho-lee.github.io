@@ -25,7 +25,7 @@ weight: 4.9
 - **W4.** Approx: Benefits of depth  
 ([9/22-1](lec/L7_contd.pdf), [9/22-2](lec/L8.pdf), [9/24](lec/L9.pdf) )
 - **W7.** Optim: Convex optimization and generalizations  
-([9/29](lec/L10.pdf))
+([9/29](lec/L10.pdf), [10/1](lec/L11.pdf))
 - **W6.** Chuseok Holidays
 - **W8.** Optim: SGD and flow-based analyses
 - **W9.** Mid-Term

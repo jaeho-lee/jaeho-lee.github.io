@@ -25,7 +25,7 @@ weight: 4.8
 - **W4.** K-Means Clustering / Gaussian Mixture Models  
 ([9/22](lec/lec7.pdf), [9/24](lec/lec8.pdf))
 - **W5.** Dimensionality Reduction / Decision Trees  
-([9/29](lec/lec9.pdf), 10/1)
+([9/29](lec/lec9.pdf), [10/1](lec/lec10.pdf))
 - **W6.** Chuseok Holidays  
 (~~10/6~~, ~~10/8~~)
 - **W7.** Deep Learning Basics / Backprop  
