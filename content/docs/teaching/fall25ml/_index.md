@@ -29,7 +29,7 @@ weight: 4.8
 - **W6.** Chuseok Holidays  
 (~~10/6~~, ~~10/8~~)
 - **W7.** Deep Learning Basics / Backprop  
-(10/13, 10/15)
+([10/13](lec/lec11.pdf), 10/15)
 - **W8.** Mid-Term  
 (10/20, 10/22)
 - **W9.** Training Neural Networks  

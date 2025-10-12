@@ -27,7 +27,8 @@ weight: 4.9
 - **W7.** Optim: Convex optimization and generalizations  
 ([9/29](lec/L10.pdf), [10/1](lec/L11.pdf))
 - **W6.** Chuseok Holidays
-- **W8.** Optim: SGD and flow-based analyses
+- **W8.** Optim: SGD and flow-based analyses  
+([10/13](lec/L12.pdf))
 - **W9.** Mid-Term
 - **W10.** Optim: Implicit bias
 - **W11.** Gen: Concentration of measures, uniform convergence
