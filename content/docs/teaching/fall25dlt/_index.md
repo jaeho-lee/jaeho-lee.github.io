@@ -28,7 +28,7 @@ weight: 4.9
 ([9/29](lec/L10.pdf), [10/1](lec/L11.pdf))
 - **W6.** Chuseok Holidays
 - **W8.** Optim: SGD and flow-based analyses  
-([10/13](lec/L12.pdf))
+([10/13](lec/L12.pdf), [10/15](lec/L13.pdf))
 - **W9.** Mid-Term
 - **W10.** Optim: Implicit bias
 - **W11.** Gen: Concentration of measures, uniform convergence
