@@ -33,7 +33,7 @@ weight: 4.8
 - **W8.** Mid-Term  
 (10/20, 10/22)
 - **W9.** Training Neural Networks  
-(10/27, 10/29)
+([10/27](lec/lec13.pdf), 10/29)
 - **W10.** Bits of Vision: Tasks, Architectures, Representation Learning   
 (11/3, 11/5)
 - **W11.** Visual Generative Models: VAE, GAN, Diffusion  
