@@ -35,7 +35,7 @@ weight: 4.8
 - **W9.** Training Neural Networks  
 ([10/27](lec/lec13.pdf), [10/29](lec/lec14.pdf))
 - **W10.** Bits of Vision: Tasks, Architectures, Representation Learning   
-(11/3, 11/5)
+([11/3](lec/lec15.pdf), 11/5)
 - **W11.** Visual Generative Models: VAE, GAN, Diffusion  
 (11/10, 11/12)
 - **W12.** Bits of Language: Tasks, Architectures, Representation Learning  
