@@ -37,7 +37,7 @@ weight: 4.8
 - **W10.** Bits of Vision: Tasks, Architectures, Representation Learning   
 ([11/3](lec/lec15.pdf), [11/5](lec/lec16.pdf))
 - **W11.** Visual Generative Models: VAE, GAN, Diffusion  
-(11/10, 11/12)
+([11/10](lec/lec17.pdf), 11/12)
 - **W12.** Bits of Language: Tasks, Architectures, Representation Learning  
 (11/17, 11/19)
 - **W13.** Large Language Models and Multimodal LLMs  
