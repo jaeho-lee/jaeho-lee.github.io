@@ -35,7 +35,7 @@ weight: 4.9
 - **W11.** Gen: Concentration of measures, uniform convergence
 ([11/7](lec/L16.pdf), [11/9](lec/L17.pdf))
 - **W12.** Gen: Rademacher complexities, covering numbers  
-([11/14](lec/L18.pdf))
+([11/14](lec/L18.pdf), [11/16](lec/L19.pdf))
 - **W13.** Gen: Chaining and VC dimensions
 - **W14.** Recent Results
 - **W15.** Student Presentations - 1
