@@ -31,12 +31,13 @@ weight: 4.9
 ([10/13](lec/L12.pdf), [10/15](lec/L13.pdf))
 - **W9.** Mid-Term
 - **W10.** Optim: Implicit bias
-([11/3](lec/L14.pdf), [11/5](lec/L15.pdf))
+([10/27](lec/L14.pdf), [10/29](lec/L15.pdf))
 - **W11.** Gen: Concentration of measures, uniform convergence
-([11/7](lec/L16.pdf), [11/9](lec/L17.pdf))
+([11/3](lec/L16.pdf), [11/5](lec/L17.pdf))
 - **W12.** Gen: Rademacher complexities, covering numbers  
-([11/14](lec/L18.pdf), [11/16](lec/L19.pdf))
-- **W13.** Gen: Chaining and VC dimensions
+([11/10](lec/L18.pdf), [11/12](lec/L19.pdf))
+- **W13.** Gen: Chaining and VC dimensions  
+([11/17](lec/L20.pdf))
 - **W14.** Recent Results
 - **W15.** Student Presentations - 1
 - **W16.** Student Presentations - 2

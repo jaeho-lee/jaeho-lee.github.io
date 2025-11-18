@@ -39,7 +39,7 @@ weight: 4.8
 - **W11.** Visual Generative Models: VAE, GAN, Diffusion  
 ([11/10](lec/lec17.pdf), 11/12)
 - **W12.** Bits of Language: Tasks, Architectures, Representation Learning  
-([11/17](lec/lec19.pdf), 11/19)
+([11/17](lec/lec19.pdf), [11/19](lec/lec20.pdf))
 - **W13.** Large Language Models and Multimodal LLMs  
 (11/24, 11/26)
 - **W14.** Application to Robotics and Reinforcement Learning  
