@@ -41,7 +41,7 @@ weight: 4.8
 - **W12.** Bits of Language: Tasks, Architectures, Representation Learning  
 ([11/17](lec/lec19.pdf), [11/19](lec/lec20.pdf))
 - **W13.** Large Language Models and Multimodal LLMs  
-([11/24](lec/lec21.pdf), 11/26)
+([11/24](lec/lec21.pdf), [11/26](lec/lec22.pdf))
 - **W14.** Application to Robotics and Reinforcement Learning  
 (12/1, 12/3)
 - **W15.** ML Efficiency / Societal Issues  

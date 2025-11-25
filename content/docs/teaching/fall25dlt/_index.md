@@ -39,7 +39,7 @@ weight: 4.9
 - **W12.** Gen: Chaining and VC dimensions  
 ([11/17](lec/L20.pdf), 11/19)
 - **W13.** Recent Results - 1
-([11/24](lec/L22.pdf))
+([11/24](lec/L22.pdf), [11/26](lec/L23.pdf))
 - **W14.** Recent Results - 2
 - **W15.** Student Presentations - 1
 - **W16.** Student Presentations - 2
