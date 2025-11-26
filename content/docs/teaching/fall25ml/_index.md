@@ -12,7 +12,7 @@ weight: 4.8
 
 ### **Location & Time**
 - **Class.** Mondays/Wednesdays, 09:30--11:00 @ LG Hall, #105
-- **Office Hr.** Wednesdays, 17:00--18:00 @ GoAround Coffee (or by request)
+- **Office Hr.** Wednesdays, 17:00--18:00 @ GoAround Coffee (plus by request)
 
 
 ### **Schedule (tentative)**
