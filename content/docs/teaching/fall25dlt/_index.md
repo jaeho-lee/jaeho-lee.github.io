@@ -42,8 +42,10 @@ weight: 4.9
 ([11/24](lec/L22.pdf), [11/26](lec/L23.pdf))
 - **W14.** Recent Results - 2  
 ([12/1](lec/L24.pdf), ~~12/3~~)
-- **W15.** Student Presentations - 1
-- **W16.** Student Presentations - 2
+- **W15.** Student Presentations - 1  
+([team 5](lec/team5.pdf), [team 2](lec/team2.pdf), team 3, team 4)
+- **W16.** Student Presentations - 2  
+(team 1, team 6, team 7, team 8)
 
 ### **Textbook**
 - **Main.** MJT's lecture notes: [old ver.](https://mjt.cs.illinois.edu/dlt/index.pdf)

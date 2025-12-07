@@ -44,7 +44,7 @@ weight: 4.8
 ([11/24](lec/lec21.pdf), [11/26](lec/lec22.pdf))
 - **W14.** Application to Robotics and Reinforcement Learning  
 ([12/1](lec/lec23.pdf), ~~12/3~~)
-- **W15.** ML Efficiency / Societal Issues  
-(12/8, 12/10)  
+- **W15.** Reinforcement Learning / Wrap-up  
+([12/8](lec/lec24.pdf), 12/10)  
 - **W16.** Final Project Presentation  
 (12/15, 12/17)
