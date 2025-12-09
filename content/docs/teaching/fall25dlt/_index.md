@@ -43,7 +43,7 @@ weight: 4.9
 - **W14.** Recent Results - 2  
 ([12/1](lec/L24.pdf), ~~12/3~~)
 - **W15.** Student Presentations - 1  
-([team 5](lec/team5.pdf), [team 2](lec/team2.pdf), team 3, team 4)
+([team 5](lec/team5.pdf), [team 2](lec/team2.pdf), [team 3](lec/team3.pdf), [team 4]((lec/team4.pdf)))
 - **W16.** Student Presentations - 2  
 (team 1, team 6, team 7, team 8)
 

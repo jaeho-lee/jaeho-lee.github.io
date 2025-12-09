@@ -45,6 +45,6 @@ weight: 4.8
 - **W14.** Application to Robotics and Reinforcement Learning  
 ([12/1](lec/lec23.pdf), ~~12/3~~)
 - **W15.** Reinforcement Learning / Wrap-up  
-([12/8](lec/lec24.pdf), 12/10)  
+([12/8](lec/lec24.pdf), [12/10](lec/lec25.pdf))  
 - **W16.** Final Project Presentation  
 (12/15, 12/17)
