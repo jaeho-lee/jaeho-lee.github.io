@@ -45,7 +45,7 @@ weight: 4.9
 - **W15.** Student Presentations - 1  
 ([team 5](lec/team5.pdf), [team 2](lec/team2.pdf), [team 3](lec/team3.pdf), [team 4](lec/team4.pdf))
 - **W16.** Student Presentations - 2  
-([team 1](lec/team1.pdf), [team 6](lec/team6.pdf), [team 7])(lec/team7.pdf), [team 8](lec/team8.pdf))
+([team 1](lec/team1.pdf), [team 6](lec/team6.pdf), [team 7](lec/team7.pdf), [team 8](lec/team8.pdf))
 
 ### **Textbook**
 - **Main.** MJT's lecture notes: [old ver.](https://mjt.cs.illinois.edu/dlt/index.pdf)
