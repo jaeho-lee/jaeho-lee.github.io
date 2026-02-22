@@ -4,21 +4,15 @@ weight: 4
 bookToc: false
 ---
 
+As of 2026, I teach three classes:
+- **EECE695 Efficient ML Systems**: See [here](https://docs.google.com/spreadsheets/d/1CcLqBKleWrj26bnQ5Gs9FtXDEV0w_636rw0FKUraYXU/edit?usp=sharing)
 
-
-### **2023 Fall**
-EECE454 [Introduction to Machine Learning Systems](/docs/teaching/fall23ml)
-
-### **2023 Spring**
-EECE695D Deep Learning Theory ([comments from students](/docs/teaching/comments/_dlt_2023))  
-
-### **2022 Fall**
-EECE695D-01 Efficient Machine Learning Systems ([comments from students](/docs/teaching/comments/_effml_2022))  
-_(EduTech Teaching Excellence Award)_  
-
+I also teach these classes
+- **EECE454 Introduction to ML Systems**: Last served [2025 Fall](/docs/teaching/fall25ml)
+- **EECE695 Deep Learning Theory**: Last served [2025 Fall](/docs/teaching/fall25dlt)
 
 #### Past Courses
-As a TA, I have taught:
+I have also taught the following courses as a TA, in UIUC:
 - FA17 TA, ECE563@UIUC Information theory.
 - SP17 TA, ECE498@UIUC Introduction to stochastic systems.
 - FA15 TA, ECE598@UIUC Statistical learning theory.
