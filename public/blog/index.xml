@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Jaeho Lee</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Jaeho Lee</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/blog/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/me/</guid>
+      <description>&lt;h2 id=&#34;appointments&#34;&gt;&lt;strong&gt;Appointments&lt;/strong&gt;&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#appointments&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;current&#34;&gt;&lt;strong&gt;Current&lt;/strong&gt;&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#current&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Associate Professor&lt;/strong&gt; &lt;a href=&#34;https://ee.postech.ac.kr&#34;&gt;EE@POSTECH&lt;/a&gt; (adj. &lt;a href=&#34;https://ai.postech.ac.kr&#34;&gt;AI&lt;/a&gt;, &lt;a href=&#34;http://sdst.dipi.co.kr/web/&#34;&gt;DST&lt;/a&gt; &lt;a href=&#34;https://gradsemi.postech.ac.kr/&#34;&gt;Semi&lt;/a&gt;)&lt;br&gt;&#xA;2022.03&amp;ndash;Present&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Director,&lt;/strong&gt; POSTECH Extremely Efficient ML Center&lt;br&gt;&#xA;2025.02&amp;ndash;Present&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;previous&#34;&gt;&lt;strong&gt;Previous&lt;/strong&gt;&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#previous&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Visiting Faculty Researcher,&lt;/strong&gt; &lt;a href=&#34;https://research.google&#34;&gt;Google&lt;/a&gt;&lt;br&gt;&#xA;2023.09&amp;ndash;2025.08&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Postdoctoral Researcher,&lt;/strong&gt; EE@KAIST (전문연구요원)&lt;br&gt;&#xA;Host: &lt;a href=&#34;https://alinlab.kaist.ac.kr&#34;&gt;Jinwoo Shin&lt;/a&gt;&lt;br&gt;&#xA;2019.03&amp;ndash;2022.03&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ASAN Fellow,&lt;/strong&gt; Center for Data Analysis @ The Heritage Foundation&lt;br&gt;&#xA;Host: &lt;a href=&#34;https://www.heritage.org/staff/salim-furth&#34;&gt;Salim Furth&lt;/a&gt;, &lt;a href=&#34;https://www.heritage.org/staff/james-sherk&#34;&gt;James Sherk&lt;/a&gt;&lt;br&gt;&#xA;2013.05&amp;ndash;2013.07&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ph.D. (2019).&lt;/strong&gt; Electrical and Computer Engineering&lt;br&gt;&#xA;University of Illinois at Urbana-Champaign&lt;br&gt;&#xA;Advisor: &lt;a href=&#34;https://maxim.ece.illinois.edu&#34;&gt;Maxim Raginsky&lt;/a&gt;&lt;br&gt;&#xA;Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;M.S. (2015).&lt;/strong&gt; Electrical and Computer Engineering&lt;br&gt;&#xA;University of Illinois at Urbana-Champaign&lt;br&gt;&#xA;Advisor: &lt;a href=&#34;https://maxim.ece.illinois.edu&#34;&gt;Maxim Raginsky&lt;/a&gt;&lt;br&gt;&#xA;Thesis: &amp;ldquo;MMSE estimation from Quantized Observations in the Nonasymptotic Regime&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

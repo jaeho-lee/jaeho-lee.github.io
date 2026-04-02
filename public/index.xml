@@ -1,61 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jaeho Lee</title>
-    <link>http://jaeho-lee.github.io/</link>
-    <description>Recent content on Jaeho Lee</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://jaeho-lee.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <title>jaeho lee</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on jaeho lee</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>jaeho.lee@postech.ac.kr (Jaeho Lee)</managingEditor>
+    <webMaster>jaeho.lee@postech.ac.kr (Jaeho Lee)</webMaster>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>http://jaeho-lee.github.io/docs/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/research/</guid>
-      <description>Long-term Goal. Making AI more responsible: accessible, sustainable, and righteous.
-Current Focus. Various facets of effcient machine learning.
-In particular, I try to answer these questions.
-Given a fixed resource for training and inference, what is the best machine intelligence we can get? How can we effectively utilize the data-level redundancy for efficient training? How can we replace the noise, inherent in ML, with a compute-efficient option? Papers. See the group webpage.</description>
+      <title></title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jaeho.lee@postech.ac.kr (Jaeho Lee)</author>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;research&#34;&gt;research&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#research&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;for an extended overview, see the &lt;a href=&#34;https://effl.postech.ac.kr&#34;&gt;group webpage&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;My long-term goal is to make AI more &lt;em&gt;&lt;strong&gt;responsible&lt;/strong&gt;&lt;/em&gt; &amp;mdash; accessible, sustainable, and righteous.&lt;/p&gt;&#xA;&lt;p&gt;To this end, I currently focus on &lt;em&gt;&lt;strong&gt;AI efficiency&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In particular, I aim to understand the fundamental trade-offs among three key factors:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;predictive performance&lt;/li&gt;&#xA;&lt;li&gt;inference cost&lt;/li&gt;&#xA;&lt;li&gt;training cost&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I believe that such an understanding can be gained by studying the &lt;em&gt;&lt;strong&gt;algorithmic biases&lt;/strong&gt;&lt;/em&gt; inherent in machine learning algorithms.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>About me</title>
-      <link>http://jaeho-lee.github.io/docs/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/me/</guid>
-      <description>Appointments # Current # Associate Professor EE@POSTECH (adj. AI, DST Semi)
-2022.03&amp;ndash;Present Director, POSTECH Extremely Efficient ML Center
-2025.02&amp;ndash;Present Previous # Visiting Faculty Researcher, Google
-2023.09&amp;ndash;2025.08 Postdoctoral Researcher, EE@KAIST (전문연구요원)
-Host: Jinwoo Shin
-2019.03&amp;ndash;2022.03 ASAN Fellow, Center for Data Analysis @ The Heritage Foundation
-Host: Salim Furth, James Sherk
-2013.05&amp;ndash;2013.07 Education # Ph.D. (2019). Electrical and Computer Engineering
-University of Illinois at Urbana-Champaign
-Advisor: Maxim Raginsky
-Thesis: &amp;ldquo;Robustness and Generalization Guarantees for Statistical Learning of Generative Models&amp;rdquo;</description>
+      <title></title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jaeho.lee@postech.ac.kr (Jaeho Lee)</author>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;teaching&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#teaching&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h4 id=&#34;current-spring-2026&#34;&gt;Current (spring 2026)&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#current-spring-2026&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.google.com/spreadsheets/d/1CcLqBKleWrj26bnQ5Gs9FtXDEV0w_636rw0FKUraYXU/edit?gid=0#gid=0&#34;&gt;&lt;em&gt;&lt;strong&gt;Efficient ML Systems&lt;/strong&gt;&lt;/em&gt; (EECE695)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;previous&#34;&gt;Previous&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#previous&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;&lt;strong&gt;Introduction to ML Systems&lt;/strong&gt;&lt;/em&gt; (EECE313)&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;&lt;strong&gt;Deep Learning Theory&lt;/strong&gt;&lt;/em&gt; (EECE554, AIGS555)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
-      <title>Comments from DLT (2023 Spring)</title>
-      <link>http://jaeho-lee.github.io/docs/teaching/comments/_dlt_2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/teaching/comments/_dlt_2023/</guid>
-      <description>Here are some comments from the students&amp;mdash;I take this comments by heart.
-교수님께서 수업 준비를 충실히 하신 것이 느껴집니다. 한 학기 동안 유익한 내용을 배울 수 있는 좋은 기회였습니다. 좋은 강의 감사합니다~ 수업 내용이 어려워 가끔 따라가기 어려웠음. 과제 내용은 수업과 관련이 있지만, 개인적으로는 강의 슬라이드와 수업 교재만 보고 과제를 풀 수 없었던 경우가 많았기 때문에, 다른 교재들을 참고하고 따로 공부하는 시간을 많이 가질 수 밖에 없었음. 이해만 잘 하고 시간 투자를 좀 더 한다면 이론적으로 많은 도움을 받을 수 있을 것 같음.</description>
+      <title></title>
+      <link>http://localhost:1313/vita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>jaeho.lee@postech.ac.kr (Jaeho Lee)</author>
+      <guid>http://localhost:1313/vita/</guid>
+      <description>&lt;h2 id=&#34;curriculum-vitæ&#34;&gt;curriculum vitæ&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#curriculum-vit%c3%a6&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;for a full cv, please send me an &lt;a href=&#34;mailto:jaeho.lee@postech.ac.kr&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;positions&#34;&gt;Positions&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#positions&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;h4 id=&#34;current&#34;&gt;Current&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#current&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;associate professor,&lt;/strong&gt; &lt;a href=&#34;https://ee.postech.ac.kr&#34;&gt;ee @ postech&lt;/a&gt; (since 2022.03)&lt;br&gt;&#xA;&lt;strong&gt;director,&lt;/strong&gt; extremely efficient ml center (since 2025.02)&lt;/p&gt;&#xA;&lt;h4 id=&#34;past&#34;&gt;Past&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#past&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;research scientist,&lt;/strong&gt; &lt;a href=&#34;https://research.google&#34;&gt;google&lt;/a&gt;, (2023.09 &amp;ndash; 2025.08)&lt;br&gt;&#xA;&lt;strong&gt;postdoc,&lt;/strong&gt; &lt;a href=&#34;https://ee.kaist.ac.kr&#34;&gt;ee @ kaist&lt;/a&gt;, (2019.03 &amp;ndash; 2022.03; 전문연)&lt;br&gt;&#xA;&lt;strong&gt;asan fellow,&lt;/strong&gt; &lt;a href=&#34;https://www.heritage.org/&#34;&gt;the heritage foundation&lt;/a&gt; (2013.05 &amp;ndash; 2013.07)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;education&#34;&gt;Education&lt;a class=&#34;anchor&#34; aria-hidden=&#34;true&#34; href=&#34;#education&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;ph.d.&lt;/strong&gt; &lt;a href=&#34;https://ece.illinois.edu&#34;&gt;ece @ illinois&lt;/a&gt; (2019)&lt;br&gt;&#xA;&lt;em&gt;&amp;ldquo;robustness and generalization guarantees for statistical learning of generative models&amp;rdquo;&lt;/em&gt;&lt;br&gt;&#xA;advisor: &lt;a href=&#34;https://maxim.ece.illinois.edu&#34;&gt;maxim raginsky&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;m.s.&lt;/strong&gt; &lt;a href=&#34;https://ece.illinois.edu&#34;&gt;ece @ illinois&lt;/a&gt; (2015)&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Comments from Efficient ML (2022 Fall)</title>
-      <link>http://jaeho-lee.github.io/docs/teaching/comments/_effml_2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jaeho-lee.github.io/docs/teaching/comments/_effml_2022/</guid>
-      <description>Here are some comments from the students&amp;mdash;I take this comments by heart.
-각 토픽에 관한 관련 논문들을 매번 브리핑 해주시는 방식으로 수업이 진행되었는데, 세미나 같은 느낌으로 매우 잘 들었습니다. 좋은 강의 감사드립니다. efficient machine learning에 대한 폭넓은 이해를 할 수 있게 되었습니다. 해당 수업을 통해 연구에 큰 도움이 될 수 있었습니다. 또한 reproducibility challenge 과제도 신선하여 재미있게 할 수 있었습니다. 교수님이 매우 충실한 내용들로 채운 자료를 제공해 주신 점이 가장 좋았음.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -2,36 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://jaeho-lee.github.io/docs/research/</loc>
+    <loc>http://localhost:1313/docs/research/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/fall24dlt/</loc>
+    <loc>http://localhost:1313/docs/me/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/fall24ml/</loc>
+    <loc>http://localhost:1313/me/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/fall25dlt/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/fall25ml/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/</loc>
+    <loc>http://localhost:1313/docs/</loc>
   </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/spring24effml/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/spring25effml/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/fall23ml/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/me/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/categories/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/comments/_dlt_2023/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/teaching/comments/_effml_2022/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/docs/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/</loc>
-  </url><url>
-    <loc>http://jaeho-lee.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

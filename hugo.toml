@@ -1,6 +1,13 @@
-baseURL = 'http://jaeho-lee.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Jaeho Lee'
-theme = 'hugo-book'
+title = 'jaeho lee'
+theme = 'dario'
 
-[menu]
+[params]
+  description = "Jaeho Lee's personal webpage" # a description of your site that will be used in the meta tags
+  colorScheme = 'light'
+  [params.author]
+    name = "Jaeho Lee" # the author of the site
+    email = "jaeho.lee@postech.ac.kr" # the site author's email address
+    twitter = "@jaeho_lee_" # the site author's X/Twitter handle
+	

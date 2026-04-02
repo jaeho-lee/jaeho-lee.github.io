@@ -1,13 +1,14 @@
 ---
-title: Jaeho Lee
 type: docs
-bookToc: false
 ---
 
-I design algorithms and prove theorems for **Efficient ML**.
+I design algorithms and prove theorems for **efficient ml**.
 
-I work and teach at [POSTECH EE](https://ee.postech.ac.kr), where I lead [EffL Lab](https://effl.postech.ac.kr).  
+I work and teach at [postech ee](https://ee.postech.ac.kr), where I lead [effl lab](https://effl.postech.ac.kr). Also a proud [husband](https://sites.google.com/view/eunjinoh/).
 
-Also a proud [husband](https://sites.google.com/view/eunjinoh/).
 
-Contact: [✉️](mailto:jaeho.lee@postech.ac.kr) [🆇](https://twitter.com/jaeho_lee_)
+- [research](/research)
+- [teaching](/teaching)
+- [vita](/vita)
+
+I am best reached by [mail](mailto:jaeho.lee@postech.ac.kr) or [twitter](https://twitter.com/jaeho_lee_)
