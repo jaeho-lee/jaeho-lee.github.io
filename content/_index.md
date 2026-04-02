@@ -11,4 +11,4 @@ I work and teach at [postech ee](https://ee.postech.ac.kr), where I lead [effl l
 - [teaching](/teaching)
 - [vita](/vita)
 
-I am best reached by [mail](mailto:jaeho.lee@postech.ac.kr) or [twitter](https://twitter.com/jaeho_lee_)
+You can reach me by [mail](mailto:jaeho.lee@postech.ac.kr) or [twitter](https://twitter.com/jaeho_lee_)
