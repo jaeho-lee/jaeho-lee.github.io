@@ -11,14 +11,15 @@ for a full cv, please send me an [email](mailto:jaeho.lee@postech.ac.kr)
 ### Position
 
 #### Current
-
-**associate professor,** [postech ee](https://ee.postech.ac.kr) (26.03--)  
-**director,** extremely efficient ml center (25.02--)
+**assistant professor** [postech ee](https://ee.postech.ac.kr) (26.03--Now)  
+**director** extremely efficient ml center (25.02--Now)  
 
 #### Past
-**assistant professor,** [postech ee](https://ee.postech.ac.kr) (22.03--26.03)  
-**research scientist,** [google](https://research.google) (23.09 -- 25.08)  
-**postdoc,** [kaist ee](https://ee.kaist.ac.kr) (19.03 -- 22.03; 전문연)  
+**assistant professor** [postech ee](https://ee.postech.ac.kr) (22.03--26.03)  
+**research scientist** [google](https://research.google) (23.09--25.08)  
+**postdoc** [kaist ee](https://ee.kaist.ac.kr) (19.03--22.03, 전문연)
+
+
 
 ---
 
