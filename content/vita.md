@@ -16,7 +16,7 @@ for a full cv, please send me an [email](mailto:jaeho.lee@postech.ac.kr).
 
 ### *past*
 **assistant professor.** [postech ee](https://ee.postech.ac.kr) (2022--2026).  
-**research scientist.** [google](https://research.google) (2023--2025)  
+**research scientist.** [google](https://research.google) (2023--2025).  
 **postdoc.** [kaist ee](https://ee.kaist.ac.kr) (2019--2022, 전문연).
 
 
@@ -37,7 +37,7 @@ with *summa cum laude.*
 
 ## services
 **organizer.** postech ai day 2025.  
-**area chair.** neurIPS, icml, iclr.  
+**area chair.** neurips, icml, iclr.  
 **action editor.** tmlr, acl rr.  
 **mentor.** ai co-scientist challenge 2025
 
