@@ -3,6 +3,15 @@ languageCode = 'en-us'
 title = 'jaeho lee'
 theme = 'dario'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+
 [params]
   description = "Jaeho Lee's personal webpage" # a description of your site that will be used in the meta tags
   colorScheme = 'light'
@@ -10,4 +19,7 @@ theme = 'dario'
     name = "Jaeho Lee" # the author of the site
     email = "jaeho.lee@postech.ac.kr" # the site author's email address
     twitter = "@jaeho_lee_" # the site author's X/Twitter handle
+	math = true
+
+
 	

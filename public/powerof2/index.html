@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-us" dir="ltr" class="kind-page dark-mode-off">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Jaeho Lee"><meta name="description" content="Power of two choices# 오늘은 Power of Two choices라는 고전 논문을 읽어본다. $$ hey $$goals# My long-term goal is to make AI more responsible — accessible, …">
+    <title>jaeho lee</title>
+    <link rel="canonical" href="https://jaeho-lee.github.io/powerof2/">
+
+
+
+<meta property="og:title" content="jaeho lee">
+<meta property="og:description" content="Power of two choices# 오늘은 Power of Two choices라는 고전 논문을 읽어본다. $$ hey $$goals# My long-term goal is to make AI more responsible — accessible, …">
+<meta property="og:image" content="https://jaeho-lee.github.io/og/og-image-c6eb0de243a3e563735bed9539bc1735.svg">
+<meta property="og:image:type" content="image/svg+xml">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://jaeho-lee.github.io/powerof2/">
+<meta property="og:locale" content="en-us">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="jaeho lee">
+<meta name="twitter:description" content="Power of two choices# 오늘은 Power of Two choices라는 고전 논문을 읽어본다. $$ hey $$goals# My long-term goal is to make AI more responsible — accessible, …">
+<meta name="twitter:image" content="https://jaeho-lee.github.io/og/og-image-c6eb0de243a3e563735bed9539bc1735.svg">
+<meta name="twitter:creator" content="@jaeho_lee_">
+
+    <link rel="preload" href="/fonts/Newsreader.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/css/default.min.6a8dbb2415a5a00d0796e9a5640a8d6a08e2b61631fceab35741f88eec8fd36c.css" integrity="sha256-ao27JBWloA0HlumlZAqNagjithYx/OqzV0H4juyP02w=">
+	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex.min.css" crossorigin="anonymous">
+
+	<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/katex.min.js" crossorigin="anonymous"></script>
+	<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.25/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+
+	<script>
+	document.addEventListener("DOMContentLoaded", function () {
+	  renderMathInElement(document.body, {
+	    delimiters: [
+	      {left: "$$", right: "$$", display: true},
+	      {left: "$", right: "$", display: false},
+	      {left: "\\(", right: "\\)", display: false},
+	      {left: "\\[", right: "\\]", display: true}
+	    ],
+	    throwOnError: false
+	  });
+	});
+	</script>
+	
+</head>
+
+
+<body>
+<header>
+    <div>
+        <h1>
+            <a href="https://jaeho-lee.github.io/">jaeho lee</a>
+        </h1>
+        <div class="header-controls">
+            <div class="toggle-switch">
+                <input type="checkbox" id="darkModeToggle" class="toggle-input" aria-label="Toggle dark mode">
+                <label for="darkModeToggle" class="toggle-label">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+    <main class="content-wrapper">
+        <article class="content-container">
+
+
+    <h1></h1>
+    <h4></h4>
+
+<h1 id="power-of-two-choices">Power of two choices<a class="anchor" aria-hidden="true" href="#power-of-two-choices">#</a></h1>
+<p>오늘은 Power of Two choices라는 고전 논문을 읽어본다.</p>
+$$
+hey
+$$<h2 id="goals">goals<a class="anchor" aria-hidden="true" href="#goals">#</a></h2>
+<p>My long-term goal is to make AI more <em><strong>responsible</strong></em> &mdash; accessible, sustainable, and righteous. I currently focus on <em><strong>efficient ai</strong></em>. In particular, I aim to characterize the fundamental trade-offs among three factors:</p>
+<ul>
+<li>predictive performance</li>
+<li>inference cost</li>
+<li>training cost</li>
+</ul>
+<p>While I prefer to keep my algorithms domain-agnostic, I enjoy working with data modalities where the efficiency is critical&mdash;e.g., robotics or surgical imaging.</p>
+<h2 id="perspectives">perspectives<a class="anchor" aria-hidden="true" href="#perspectives">#</a></h2>
+<p>I seek to gain a deeper understanding on the <em><strong>algorithmic biases</strong></em> of machine learning. Understanding the bias will unveil why certain trade-offs emerge, and harnessing it will provide us a crucial tool to achieve the Pareto optimal.</p>
+<p>Here are some examples:</p>
+<ul>
+<li><strong>Initialization</strong> (<a href="https://arxiv.org/abs/2602.00827">a</a>,<a href="https://arxiv.org/abs/2410.04779">b</a>). We theoretically characterize how the training speed trades with generalizability, as we change the <em>initialization scale</em> of neural nets.</li>
+<li><strong>Attention sinks</strong> (<a href="https://arxiv.org/abs/2406.12016">c</a>, <a href="https://arxiv.org/abs/2510.04547">d</a>). We harness the attention-biasing phenomenon to develop a model pre-processing algorithm to improve its post-compression performance.</li>
+<li><strong>Data transformations.</strong> (<a href="https://arxiv.org/abs/2311.17094">e</a>) We discover that invertible transformations of the training data can dramatically affect both the training speed and the generalizability, and harness this phenomenon to accelerate neural field training.</li>
+</ul>
+<h2 id="papers">papers<a class="anchor" aria-hidden="true" href="#papers">#</a></h2>
+<p>See my <a href="https://effl.postech.ac.kr/publications/">group webpage</a> or <a href="https://scholar.google.com/citations?user=t91zoQMAAAAJ&amp;hl=en">google scholar</a>.</p>
+
+
+        </article>
+    </main>
+
+<footer>
+    <div class="footer-content">
+        <p>&copy; 2026 jaeho lee</p>
+    </div>
+</footer>
+
+</body>
+
+</html>

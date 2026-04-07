@@ -19,7 +19,7 @@
         <foreignObject x="80" y="200" width="840" height="300">
             <div xmlns="http://www.w3.org/1999/xhtml">
                 <div style="font-family: Newsreader, serif; font-size: 78px; font-weight: 600; margin-bottom: 20px; word-wrap: break-word;">jaeho lee</div>
-                <div style="font-family: Newsreader, serif; font-size: 70px; font-weight: 400; word-wrap: break-word;">teaching# I teach courses on machine learning and efficient ai. current (spring 2026)# Efficient ML Systems (EECE695) previous# Introduction to ML …</div>
+                <div style="font-family: Newsreader, serif; font-size: 70px; font-weight: 400; word-wrap: break-word;">teaching# As of spring 2026, I am teaching: efficient ml systems (EECE695) I also teach: introduction to ml systems (EECE313) deep learning theory …</div>
             </div>
         </foreignObject>
     </svg>

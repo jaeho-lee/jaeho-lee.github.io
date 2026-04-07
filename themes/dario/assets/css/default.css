@@ -1,18 +1,3 @@
-@font-face {
-  font-family: "NanumMyeongjo";
-  font-style: normal;
-  font-weight: 200 800;
-  font-display: swap;
-  src: url("../fonts/NanumMyeongjo.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "NanumMyeongjoBold";
-  font-style: bold;
-  font-weight: 200 800;
-  font-display: swap;
-  src: url("../fonts/NanumMyeongjoBold.woff2") format("woff2");
-}
 
 
 @font-face {
