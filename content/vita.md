@@ -29,6 +29,8 @@ for a full cv, please send me an [email](mailto:jaeho.lee@postech.ac.kr).
 *"robustness and generalization guarantees for statistical learning of generative models,"*  
 advisor: [maxim raginsky](https://maxim.ece.illinois.edu).  
 
+**m.s.** [illinois ece](https://ece.illinois.edu) (2015),  
+*"on the mmse estimation from quantized observations in the nonasymptotic regime."*  
 
 **b.s.** [kaist ee](https://ee.kaist.ac.kr) & [ms](https://btm.kaist.ac.kr/) (2013),  
 with *summa cum laude.*

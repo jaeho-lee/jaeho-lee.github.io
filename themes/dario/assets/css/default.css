@@ -16,6 +16,17 @@
   src: url("../fonts/Newsreader-italic.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: 'KoreanOverride';
+  font-weight: 200 800;
+  font-display: swap;
+  src: url('../fonts/PretendardVariable.woff2') format('woff2-variations');
+  /* 한글 음절 + 자모 + 호환 자모 + 한글 구두점/기호 영역 */
+  unicode-range: U+AC00-D7AF, U+1100-11FF, U+3130-318F, U+A960-A97F, U+D7B0-D7FF, U+3000-303F, U+FF00-FFEF;
+}
+
+
+
 :root {
   --radius: 8px;
   --highlight-color: rgba(137, 137, 222, 0.3);
@@ -30,6 +41,17 @@
 body,
 .toc-container {
   transition: background-color 0.2s, color 0.2s;
+}
+
+body,
+.content-container,
+h1, h2, h3, h4, h5, h6,
+p, li, a, blockquote {
+  /* 'KoreanOverride'를 맨 앞에 두면 한글 영역만 해당 폰트가 먹음 */
+  font-family:
+    'KoreanOverride',
+    /* 아래는 테마 기본 폰트 계열 유지용 */
+    Newsreader;
 }
 
 header h1 a {

@@ -4,7 +4,7 @@ math: true
 
 # Power of two choices
 
-오늘은 Power of Two choices라는 고전 논문을 읽어본다.
+오늘은 Power of Two choices라는 고전 논문을 읽어본다. 프리텐다드인가? **프리텐다드** Pretendard
 
 $$
 hey
