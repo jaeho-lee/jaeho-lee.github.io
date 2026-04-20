@@ -25,7 +25,7 @@ for a full cv, please send me an [email](mailto:jaeho.lee@postech.ac.kr).
 
 
 ## education
-**m.s. & ph.d.** [illinois ece](https://ece.illinois.edu) (2019),  
+**ph.d.** [illinois ece](https://ece.illinois.edu) (2019),  
 *"robustness and generalization guarantees for statistical learning of generative models,"*  
 advisor: [maxim raginsky](https://maxim.ece.illinois.edu).  
 
